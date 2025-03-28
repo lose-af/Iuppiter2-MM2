@@ -4,12 +4,8 @@
 	title: "高炉冶炼"
 	loot_size: 1
 	rewards: [
-		{
-			item: "ironfurnaces:upgrade_iron"
-		}
-		{
-			item: "ironfurnaces:iron_furnace"
-		}
+		{ item: "ironfurnaces:upgrade_iron" }
+		{ item: "ironfurnaces:iron_furnace" }
 	]
 	loot_crate: {
 		color: 16777215

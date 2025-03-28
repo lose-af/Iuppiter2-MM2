@@ -4,26 +4,11 @@
 	title: "铜器时代"
 	loot_size: 1
 	rewards: [
-		{
-			item: "create:fluid_pipe"
-			count: 4
-		}
-		{
-			item: "create:mechanical_pump"
-		}
-		{
-			item: "create:cogwheel"
-			count: 2
-		}
-		{
-			item: "create:copper_sheet"
-			count: 4
-		}
-		{
-			item: "create:fluid_tank"
-		}
-		{
-			item: "create:copper_casing"
-		}
+		{ item: "create:fluid_pipe", count: 4 }
+		{ item: "create:mechanical_pump" }
+		{ item: "create:cogwheel", count: 2 }
+		{ item: "create:copper_sheet", count: 4 }
+		{ item: "create:fluid_tank" }
+		{ item: "create:copper_casing" }
 	]
 }

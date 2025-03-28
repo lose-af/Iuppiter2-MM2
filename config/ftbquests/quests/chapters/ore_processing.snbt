@@ -13,13 +13,11 @@
 			subtitle: "Y150 - -64"
 			description: ["该泛用金属广泛存在于各维度,常与少量黄金、镍或地元素共生."]
 			id: "10E206C080D0B7A9"
-			tasks: [
-				{
-					id: "6F4F7F75601CCA89"
-					type: "item"
-					item: "minecraft:raw_iron"
-				}
-			]
+			tasks: [{
+				id: "6F4F7F75601CCA89"
+				type: "item"
+				item: "minecraft:raw_iron"
+			}]
 		}
 		{
 			x: 1.0d
@@ -27,13 +25,11 @@
 			subtitle: "Y200 - 32"
 			description: ["金矿石最常见于&a下界&f的大型矿脉中,可能含有发光石和空气,或在&a主世界&f的铁甲矿脉及铜矿脉中以较小规模出现."]
 			id: "0576B9C102FC7DF9"
-			tasks: [
-				{
-					id: "27496E10BF7FF3B0"
-					type: "item"
-					item: "minecraft:raw_gold"
-				}
-			]
+			tasks: [{
+				id: "27496E10BF7FF3B0"
+				type: "item"
+				item: "minecraft:raw_gold"
+			}]
 		}
 		{
 			x: -3.0d
@@ -41,13 +37,11 @@
 			subtitle: "Y256 - 0"
 			description: ["锡矿石常见于&a主世界&f,伴生少量萤石、磷灰石和空气."]
 			id: "01548EC2530ED3EB"
-			tasks: [
-				{
-					id: "12F74C078949B15D"
-					type: "item"
-					item: "thermal:raw_tin"
-				}
-			]
+			tasks: [{
+				id: "12F74C078949B15D"
+				type: "item"
+				item: "thermal:raw_tin"
+			}]
 		}
 		{
 			x: -3.0d
@@ -55,13 +49,11 @@
 			subtitle: "Y256 - -15"
 			description: ["铜矿石常见于&a主世界&f,矿脉中可能含有金矿石和水."]
 			id: "72C587A8EC498BF0"
-			tasks: [
-				{
-					id: "155E3BC3B8ACB3BF"
-					type: "item"
-					item: "minecraft:raw_copper"
-				}
-			]
+			tasks: [{
+				id: "155E3BC3B8ACB3BF"
+				type: "item"
+				item: "minecraft:raw_copper"
+			}]
 		}
 		{
 			x: -3.0d
@@ -69,13 +61,11 @@
 			subtitle: "Y256 - -64"
 			description: ["常见于&a主世界&f深处,足够深时会伴生钻石."]
 			id: "6FC338469E52020F"
-			tasks: [
-				{
-					id: "203F688B47EF8269"
-					type: "item"
-					item: "minecraft:coal"
-				}
-			]
+			tasks: [{
+				id: "203F688B47EF8269"
+				type: "item"
+				item: "minecraft:coal"
+			}]
 		}
 		{
 			x: -3.0d
@@ -83,26 +73,22 @@
 			subtitle: "Y20 - -60"
 			description: ["稀有的主世界矿脉,与符文石和蓝宝石共生,若处于深板岩层以下可能伴生硝石."]
 			id: "1F8CDD9ACE48E870"
-			tasks: [
-				{
-					id: "24F6D1B866182C95"
-					type: "item"
-					item: "minecraft:lapis_lazuli"
-				}
-			]
+			tasks: [{
+				id: "24F6D1B866182C95"
+				type: "item"
+				item: "minecraft:lapis_lazuli"
+			}]
 		}
 		{
 			x: -2.0d
 			y: 3.5d
 			subtitle: "Y-10 - -64"
 			id: "528E2CC9DA56D0A8"
-			tasks: [
-				{
-					id: "464FCD05ABDC3E7C"
-					type: "item"
-					item: "minecraft:diamond"
-				}
-			]
+			tasks: [{
+				id: "464FCD05ABDC3E7C"
+				type: "item"
+				item: "minecraft:diamond"
+			}]
 		}
 		{
 			x: -3.0d
@@ -110,38 +96,32 @@
 			subtitle: "Y20 - -64"
 			description: ["较罕见于&a主世界&f或下界(Y100 - 0)."]
 			id: "092D6A2235FB823E"
-			tasks: [
-				{
-					id: "0ED49090C23E3F36"
-					type: "item"
-					item: "minecraft:redstone"
-				}
-			]
+			tasks: [{
+				id: "0ED49090C23E3F36"
+				type: "item"
+				item: "minecraft:redstone"
+			}]
 		}
 		{
 			x: 1.0d
 			y: 3.5d
 			subtitle: "Y100 - 5"
 			id: "75C07642789ACB12"
-			tasks: [
-				{
-					id: "11C4D997BBF74C30"
-					type: "item"
-					item: "tconstruct:raw_cobalt"
-				}
-			]
+			tasks: [{
+				id: "11C4D997BBF74C30"
+				type: "item"
+				item: "tconstruct:raw_cobalt"
+			}]
 		}
 		{
 			x: 2.0d
 			y: 3.5d
 			id: "496C890684C94C47"
-			tasks: [
-				{
-					id: "7EBA158D8365C316"
-					type: "item"
-					item: "kubejs:raw_mithril"
-				}
-			]
+			tasks: [{
+				id: "7EBA158D8365C316"
+				type: "item"
+				item: "kubejs:raw_mithril"
+			}]
 		}
 		{
 			x: 1.0d
@@ -149,13 +129,11 @@
 			subtitle: "Y200 - 32"
 			description: ["&a下界&f常见矿石,可能伴生硫磺."]
 			id: "1405FF2C05901533"
-			tasks: [
-				{
-					id: "213C4DF3AA57986E"
-					type: "item"
-					item: "thermal:raw_nickel"
-				}
-			]
+			tasks: [{
+				id: "213C4DF3AA57986E"
+				type: "item"
+				item: "thermal:raw_nickel"
+			}]
 		}
 		{
 			x: 1.0d
@@ -163,91 +141,77 @@
 			subtitle: "Y200 - 0"
 			description: ["主世界较罕见,&a下界&f常见,可能伴生硫磺和泥土."]
 			id: "055AF757CBBD61CB"
-			tasks: [
-				{
-					id: "047F37742C512155"
-					type: "item"
-					item: "create:raw_zinc"
-				}
-			]
+			tasks: [{
+				id: "047F37742C512155"
+				type: "item"
+				item: "create:raw_zinc"
+			}]
 		}
 		{
 			x: -2.0d
 			y: 4.5d
 			description: ["生成于红石矿脉中."]
 			id: "31E4E00C8803DA63"
-			tasks: [
-				{
-					id: "4587530252854575"
-					type: "item"
-					item: "thermal:ruby"
-				}
-			]
+			tasks: [{
+				id: "4587530252854575"
+				type: "item"
+				item: "thermal:ruby"
+			}]
 		}
 		{
 			x: -1.0d
 			y: 4.5d
 			description: ["生成于红石矿脉中."]
 			id: "73B604D13A5FAE52"
-			tasks: [
-				{
-					id: "34C1267F9E84D5C3"
-					type: "item"
-					item: "thermal:cinnabar"
-				}
-			]
+			tasks: [{
+				id: "34C1267F9E84D5C3"
+				type: "item"
+				item: "thermal:cinnabar"
+			}]
 		}
 		{
 			x: -2.0d
 			y: 0.5d
 			description: ["生成于主世界锡矿脉中."]
 			id: "61F516784B649993"
-			tasks: [
-				{
-					id: "1186277C055BDF8A"
-					type: "item"
-					item: "mekanism:fluorite_gem"
-				}
-			]
+			tasks: [{
+				id: "1186277C055BDF8A"
+				type: "item"
+				item: "mekanism:fluorite_gem"
+			}]
 		}
 		{
 			x: -1.0d
 			y: 0.5d
 			description: ["生成于主世界锡矿脉中."]
 			id: "077AE9F2753A1217"
-			tasks: [
-				{
-					id: "239ABF4653D3A7DA"
-					type: "item"
-					item: "thermal:apatite"
-				}
-			]
+			tasks: [{
+				id: "239ABF4653D3A7DA"
+				type: "item"
+				item: "thermal:apatite"
+			}]
 		}
 		{
 			x: -3.0d
 			y: 1.5d
 			subtitle: "Y80 - -48"
 			id: "1E84D9A013177358"
-			tasks: [
-				{
-					id: "2A2822BE5AD0A749"
-					type: "item"
-					item: "thermal:raw_lead"
-				}
-			]
+			tasks: [{
+				id: "2A2822BE5AD0A749"
+				type: "item"
+				item: "thermal:raw_lead"
+			}]
 		}
 		{
 			x: -2.0d
 			y: 1.5d
 			subtitle: "Y200 - 32于&a下界&f"
 			id: "3F03F79E1CD352F5"
-			tasks: [
-				{
-					id: "05D40B9270433B82"
-					type: "item"
-					item: "thermal:raw_silver"
-				}
-			]
+			tasks: [{
+				id: "05D40B9270433B82"
+				type: "item"
+				item: "thermal:raw_silver"
+			}]
 		}
 		{
 			title: "下界矿脉"
@@ -257,14 +221,12 @@
 			y: -2.5d
 			shape: "circle"
 			id: "7D8DE6AAFA3EE65C"
-			tasks: [
-				{
-					id: "44F011F7E11573BB"
-					type: "dimension"
-					title: "&a地狱&f"
-					dimension: "minecraft:the_nether"
-				}
-			]
+			tasks: [{
+				id: "44F011F7E11573BB"
+				type: "dimension"
+				title: "&a地狱&f"
+				dimension: "minecraft:the_nether"
+			}]
 		}
 		{
 			title: "主世界矿脉"
@@ -274,28 +236,24 @@
 			y: -2.5d
 			shape: "circle"
 			id: "161CE4353277D490"
-			tasks: [
-				{
-					id: "302E8D0E1D90E550"
-					type: "dimension"
-					title: "&a主世界&f"
-					disable_toast: true
-					dimension: "minecraft:overworld"
-				}
-			]
+			tasks: [{
+				id: "302E8D0E1D90E550"
+				type: "dimension"
+				title: "&a主世界&f"
+				disable_toast: true
+				dimension: "minecraft:overworld"
+			}]
 		}
 		{
 			x: -2.0d
 			y: 5.5d
 			subtitle: "生成于主世界奥术矿脉中."
 			id: "7F721ADE2B2549C2"
-			tasks: [
-				{
-					id: "078F58CE5C9FF00F"
-					type: "item"
-					item: "elementalcraft:inert_crystal"
-				}
-			]
+			tasks: [{
+				id: "078F58CE5C9FF00F"
+				type: "item"
+				item: "elementalcraft:inert_crystal"
+			}]
 		}
 		{
 			x: -1.0d
@@ -303,13 +261,11 @@
 			subtitle: "生成于主世界奥术矿脉中."
 			description: [""]
 			id: "570C10EC24040DCB"
-			tasks: [
-				{
-					id: "2472B0C2F5F97EE3"
-					type: "item"
-					item: "forbidden_arcanus:arcane_crystal"
-				}
-			]
+			tasks: [{
+				id: "2472B0C2F5F97EE3"
+				type: "item"
+				item: "forbidden_arcanus:arcane_crystal"
+			}]
 		}
 		{
 			x: 2.0d
@@ -336,13 +292,11 @@
 			subtitle: "Y150 - 30"
 			description: ["&a赛特斯石英&f有概率在这些&a石英脉&f中生成."]
 			id: "7265801BB08B2ACF"
-			tasks: [
-				{
-					id: "543E07B62A110654"
-					type: "item"
-					item: "minecraft:quartz"
-				}
-			]
+			tasks: [{
+				id: "543E07B62A110654"
+				type: "item"
+				item: "minecraft:quartz"
+			}]
 		}
 		{
 			x: 1.0d
@@ -350,38 +304,32 @@
 			subtitle: "Y200 - 75"
 			description: ["下界罕见矿石,可能伴生发光石."]
 			id: "7C740E97145C9174"
-			tasks: [
-				{
-					id: "6F68EB2F9907CF08"
-					type: "item"
-					item: "kubejs:raw_aluminum"
-				}
-			]
+			tasks: [{
+				id: "6F68EB2F9907CF08"
+				type: "item"
+				item: "kubejs:raw_aluminum"
+			}]
 		}
 		{
 			x: 2.0d
 			y: -1.0d
 			description: ["生成于锌矿、铁矿和镍矿脉中."]
 			id: "12DE1A31A4DB2AD8"
-			tasks: [
-				{
-					id: "49A2BFF67D7AA8DD"
-					type: "item"
-					item: "thermal:sulfur"
-				}
-			]
+			tasks: [{
+				id: "49A2BFF67D7AA8DD"
+				type: "item"
+				item: "thermal:sulfur"
+			}]
 		}
 		{
 			x: 2.0d
 			y: 1.0d
 			id: "1BCC347BD5FE95BD"
-			tasks: [
-				{
-					id: "210D12BE70E9AB64"
-					type: "item"
-					item: "kubejs:luminite"
-				}
-			]
+			tasks: [{
+				id: "210D12BE70E9AB64"
+				type: "item"
+				item: "kubejs:luminite"
+			}]
 		}
 		{
 			title: "月球矿脉"
@@ -391,191 +339,161 @@
 			y: -2.5d
 			shape: "circle"
 			id: "28DF842E25E51E92"
-			tasks: [
-				{
-					id: "2766EF0746ABA7A9"
-					type: "dimension"
-					title: "&a月亮&f"
-					dimension: "beyond_earth:moon"
-				}
-			]
+			tasks: [{
+				id: "2766EF0746ABA7A9"
+				type: "dimension"
+				title: "&a月亮&f"
+				dimension: "beyond_earth:moon"
+			}]
 		}
 		{
 			x: 8.0d
 			y: -1.5d
 			id: "5A0CAB18859FAEA6"
-			tasks: [
-				{
-					id: "013BA58DF9D161E1"
-					type: "item"
-					item: "beyond_earth:raw_desh"
-				}
-			]
+			tasks: [{
+				id: "013BA58DF9D161E1"
+				type: "item"
+				item: "beyond_earth:raw_desh"
+			}]
 		}
 		{
 			x: 9.0d
 			y: -1.5d
 			id: "0AC6531AEECA59E5"
-			tasks: [
-				{
-					id: "30089AAEBA5A7B16"
-					type: "item"
-					item: "beyond_earth:cheese"
-				}
-			]
+			tasks: [{
+				id: "30089AAEBA5A7B16"
+				type: "item"
+				item: "beyond_earth:cheese"
+			}]
 		}
 		{
 			x: 4.5d
 			y: -1.5d
 			description: ["月球常见矿石,可能伴生铝矿."]
 			id: "6F018B8A17E7CCCA"
-			tasks: [
-				{
-					id: "2F05EA1AA7C2C0DE"
-					type: "item"
-					item: "kubejs:raw_titanium"
-				}
-			]
+			tasks: [{
+				id: "2F05EA1AA7C2C0DE"
+				type: "item"
+				item: "kubejs:raw_titanium"
+			}]
 		}
 		{
 			x: 8.0d
 			y: 0.5d
 			description: ["月球常见矿石,可能伴生符文矿."]
 			id: "3A97404A93628B41"
-			tasks: [
-				{
-					id: "413C61C0C05B0463"
-					type: "item"
-					item: "mekanism:raw_osmium"
-				}
-			]
+			tasks: [{
+				id: "413C61C0C05B0463"
+				type: "item"
+				item: "mekanism:raw_osmium"
+			}]
 		}
 		{
 			x: 1.0d
 			y: -11.5d
 			dependencies: ["285CDED8ED5043B7"]
 			id: "0BAC4F3AD0800A45"
-			tasks: [
-				{
-					id: "05C6F2373ED082B7"
-					type: "item"
-					item: "kubejs:raw_potentium"
-				}
-			]
+			tasks: [{
+				id: "05C6F2373ED082B7"
+				type: "item"
+				item: "kubejs:raw_potentium"
+			}]
 		}
 		{
 			x: 1.0d
 			y: -12.5d
 			dependencies: ["285CDED8ED5043B7"]
 			id: "7FA29068486FCB01"
-			tasks: [
-				{
-					id: "05C908B726A9468E"
-					type: "item"
-					item: "kubejs:raw_imortite"
-				}
-			]
+			tasks: [{
+				id: "05C908B726A9468E"
+				type: "item"
+				item: "kubejs:raw_imortite"
+			}]
 		}
 		{
 			x: 1.0d
 			y: -13.5d
 			dependencies: ["285CDED8ED5043B7"]
 			id: "59663F168755F312"
-			tasks: [
-				{
-					id: "17D6A9009EC729A0"
-					type: "item"
-					item: "kubejs:raw_kharaxium"
-				}
-			]
+			tasks: [{
+				id: "17D6A9009EC729A0"
+				type: "item"
+				item: "kubejs:raw_kharaxium"
+			}]
 		}
 		{
 			x: 2.5d
 			y: -11.5d
 			dependencies: ["285CDED8ED5043B7"]
 			id: "4E78300F04776252"
-			tasks: [
-				{
-					id: "5C68FDA94B105BBC"
-					type: "item"
-					item: "kubejs:raw_jimmium"
-				}
-			]
+			tasks: [{
+				id: "5C68FDA94B105BBC"
+				type: "item"
+				item: "kubejs:raw_jimmium"
+			}]
 		}
 		{
 			x: 2.5d
 			y: -12.5d
 			dependencies: ["285CDED8ED5043B7"]
 			id: "07A0649720C8F7B5"
-			tasks: [
-				{
-					id: "4EBFEC1BC69BB122"
-					type: "item"
-					item: "kubejs:raw_densite"
-				}
-			]
+			tasks: [{
+				id: "4EBFEC1BC69BB122"
+				type: "item"
+				item: "kubejs:raw_densite"
+			}]
 		}
 		{
 			x: 2.5d
 			y: -13.5d
 			dependencies: ["285CDED8ED5043B7"]
 			id: "54E7157340600EB6"
-			tasks: [
-				{
-					id: "7E183FF810B98BF3"
-					type: "item"
-					item: "kubejs:raw_vincyte"
-				}
-			]
+			tasks: [{
+				id: "7E183FF810B98BF3"
+				type: "item"
+				item: "kubejs:raw_vincyte"
+			}]
 		}
 		{
 			x: 9.0d
 			y: -0.5d
 			id: "48996316A1E382C2"
-			tasks: [
-				{
-					id: "39E3A8FB54DD3B94"
-					type: "item"
-					item: "kubejs:raw_rune"
-				}
-			]
+			tasks: [{
+				id: "39E3A8FB54DD3B94"
+				type: "item"
+				item: "kubejs:raw_rune"
+			}]
 		}
 		{
 			x: 4.5d
 			y: -0.5d
 			description: ["生成于&a末地&f钍矿脉中"]
 			id: "76D898F09751FA1B"
-			tasks: [
-				{
-					id: "304FEE4A3AFADBB2"
-					type: "item"
-					item: "mekanism:raw_uranium"
-				}
-			]
+			tasks: [{
+				id: "304FEE4A3AFADBB2"
+				type: "item"
+				item: "mekanism:raw_uranium"
+			}]
 		}
 		{
 			x: -2.0d
 			y: 2.5d
 			id: "29FF83E81F4EF64C"
-			tasks: [
-				{
-					id: "209079F60B320D16"
-					type: "item"
-					item: "thermal:sapphire"
-				}
-			]
+			tasks: [{
+				id: "209079F60B320D16"
+				type: "item"
+				item: "thermal:sapphire"
+			}]
 		}
 		{
 			x: -1.0d
 			y: 2.5d
 			id: "61CE7BEBA6005FD2"
-			tasks: [
-				{
-					id: "1E25C194ACC53A73"
-					type: "item"
-					item: "thermal:niter"
-				}
-			]
+			tasks: [{
+				id: "1E25C194ACC53A73"
+				type: "item"
+				item: "thermal:niter"
+			}]
 		}
 		{
 			title: "&a末地&f矿脉"
@@ -586,51 +504,43 @@
 			shape: "circle"
 			description: ["同时生成&a赛特斯石英&f矿脉"]
 			id: "5535F3F565BB8998"
-			tasks: [
-				{
-					id: "16B708F51476EC42"
-					type: "dimension"
-					title: "&a结束&f"
-					dimension: "minecraft:the_end"
-				}
-			]
+			tasks: [{
+				id: "16B708F51476EC42"
+				type: "dimension"
+				title: "&a结束&f"
+				dimension: "minecraft:the_end"
+			}]
 		}
 		{
 			x: 4.5d
 			y: 0.5d
 			id: "56EAA4E6952A747F"
-			tasks: [
-				{
-					id: "520A162B8E904A01"
-					type: "item"
-					item: "kubejs:raw_magnesium"
-				}
-			]
+			tasks: [{
+				id: "520A162B8E904A01"
+				type: "item"
+				item: "kubejs:raw_magnesium"
+			}]
 		}
 		{
 			x: 8.0d
 			y: -0.5d
 			id: "37957A7CAE2F9967"
-			tasks: [
-				{
-					id: "0D43F80765DA7014"
-					type: "item"
-					item: "kubejs:raw_platinum"
-				}
-			]
+			tasks: [{
+				id: "0D43F80765DA7014"
+				type: "item"
+				item: "kubejs:raw_platinum"
+			}]
 		}
 		{
 			x: 8.0d
 			y: 1.5d
 			description: ["生成于铀矿脉中"]
 			id: "519BC8708D266F3E"
-			tasks: [
-				{
-					id: "0BBAF6A7DF0CD97A"
-					type: "item"
-					item: "kubejs:raw_cadmium"
-				}
-			]
+			tasks: [{
+				id: "0BBAF6A7DF0CD97A"
+				type: "item"
+				item: "kubejs:raw_cadmium"
+			}]
 		}
 		{
 			disable_toast: true
@@ -638,14 +548,12 @@
 			y: -5.0d
 			dependencies: ["7681154856E3706C"]
 			id: "4418C0F5D9F2B232"
-			tasks: [
-				{
-					id: "27C2221BF6D82054"
-					type: "item"
-					disable_toast: true
-					item: "minecraft:furnace"
-				}
-			]
+			tasks: [{
+				id: "27C2221BF6D82054"
+				type: "item"
+				disable_toast: true
+				item: "minecraft:furnace"
+			}]
 		}
 		{
 			disable_toast: true
@@ -653,54 +561,48 @@
 			y: -4.0d
 			dependencies: ["35358105C8DF8729"]
 			id: "374E9F1741E235E4"
-			tasks: [
-				{
-					id: "24E0A5B61C4657E7"
-					type: "item"
-					disable_toast: true
-					item: "create:mechanical_mixer"
-				}
-			]
+			tasks: [{
+				id: "24E0A5B61C4657E7"
+				type: "item"
+				disable_toast: true
+				item: "create:mechanical_mixer"
+			}]
 		}
 		{
 			disable_toast: true
 			x: 1.0d
 			y: -5.0d
 			id: "7973F284698B786F"
-			tasks: [
-				{
-					id: "2F1F4131714F9A27"
-					type: "item"
-					disable_toast: true
-					item: {
-						id: "tconstruct:foundry_controller"
-						Count: 1b
-						tag: {
-							texture: "tconstruct:scorched_bricks"
-						}
+			tasks: [{
+				id: "2F1F4131714F9A27"
+				type: "item"
+				disable_toast: true
+				item: {
+					id: "tconstruct:foundry_controller"
+					Count: 1b
+					tag: {
+						texture: "tconstruct:scorched_bricks"
 					}
 				}
-			]
+			}]
 		}
 		{
 			disable_toast: true
 			x: 1.0d
 			y: -4.0d
 			id: "04BF5087EE619C6C"
-			tasks: [
-				{
-					id: "3CED2CCD54BF029B"
-					type: "item"
-					disable_toast: true
-					item: {
-						id: "tconstruct:smeltery_controller"
-						Count: 1b
-						tag: {
-							texture: "tconstruct:seared_bricks"
-						}
+			tasks: [{
+				id: "3CED2CCD54BF029B"
+				type: "item"
+				disable_toast: true
+				item: {
+					id: "tconstruct:smeltery_controller"
+					Count: 1b
+					tag: {
+						texture: "tconstruct:seared_bricks"
 					}
 				}
-			]
+			}]
 		}
 		{
 			icon: "immersiveengineering:arc_furnace"
@@ -708,41 +610,35 @@
 			x: 4.5d
 			y: -4.5d
 			id: "097A3B834A7D46DD"
-			tasks: [
-				{
-					id: "0F3D51A136B25AC4"
-					type: "checkmark"
-					title: "建造&a电弧炉&f"
-				}
-			]
+			tasks: [{
+				id: "0F3D51A136B25AC4"
+				type: "checkmark"
+				title: "建造&a电弧炉&f"
+			}]
 		}
 		{
 			disable_toast: true
 			x: 8.0d
 			y: -4.0d
 			id: "39D7F8D91CFCE5E9"
-			tasks: [
-				{
-					id: "01F4C0C8849A26B8"
-					type: "item"
-					disable_toast: true
-					item: "mbm2:mixer_mk1"
-				}
-			]
+			tasks: [{
+				id: "01F4C0C8849A26B8"
+				type: "item"
+				disable_toast: true
+				item: "mbm2:mixer_mk1"
+			}]
 		}
 		{
 			disable_toast: true
 			x: 8.0d
 			y: -5.0d
 			id: "02EA1B0663586E18"
-			tasks: [
-				{
-					id: "5BF74880085600BE"
-					type: "item"
-					disable_toast: true
-					item: "mbm2:ebf"
-				}
-			]
+			tasks: [{
+				id: "5BF74880085600BE"
+				type: "item"
+				disable_toast: true
+				item: "mbm2:ebf"
+			}]
 		}
 		{
 			disable_toast: true
@@ -751,14 +647,12 @@
 			subtitle: "用于二阶金属"
 			dependencies: ["5DC786D48AD3886E"]
 			id: "665C67462A0C8CD1"
-			tasks: [
-				{
-					id: "7E194A20289E6488"
-					type: "item"
-					disable_toast: true
-					item: "create:crushing_wheel"
-				}
-			]
+			tasks: [{
+				id: "7E194A20289E6488"
+				type: "item"
+				disable_toast: true
+				item: "create:crushing_wheel"
+			}]
 		}
 		{
 			title: "&a粉碎矿石&f"
@@ -767,21 +661,19 @@
 			description: ["在建立矿石提纯系统前,&a粉碎矿石&f可通过洗涤小幅提升产量"]
 			dependencies: ["665C67462A0C8CD1"]
 			id: "21F49B8439E00DAF"
-			tasks: [
-				{
-					id: "35397A50496FED3A"
-					type: "item"
-					title: "Any &a粉碎矿石&f"
-					disable_toast: true
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "forge:ores/crushed"
-						}
+			tasks: [{
+				id: "35397A50496FED3A"
+				type: "item"
+				title: "Any &a粉碎矿石&f"
+				disable_toast: true
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ores/crushed"
 					}
 				}
-			]
+			}]
 		}
 		{
 			disable_toast: true
@@ -789,13 +681,11 @@
 			y: -6.0d
 			subtitle: "用于四阶金属"
 			id: "2B17F5722136AB89"
-			tasks: [
-				{
-					id: "0C3A51BB2AB56006"
-					type: "item"
-					item: "mbm2:flotation"
-				}
-			]
+			tasks: [{
+				id: "0C3A51BB2AB56006"
+				type: "item"
+				item: "mbm2:flotation"
+			}]
 		}
 		{
 			title: "&a矿石碎块&f"
@@ -806,46 +696,40 @@
 				"21F49B8439E00DAF"
 			]
 			id: "4DE6A9BF08BD38DD"
-			tasks: [
-				{
-					id: "1605C0BC3B1FD33A"
-					type: "item"
-					title: "任意矿块"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "forge:ores/chunk"
-						}
+			tasks: [{
+				id: "1605C0BC3B1FD33A"
+				type: "item"
+				title: "任意矿块"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ores/chunk"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: 5.5d
 			y: -11.0d
 			dependencies: ["74FC586E4D606AC5"]
 			id: "3D6F5260B3B4242F"
-			tasks: [
-				{
-					id: "44BA8299E0D078F1"
-					type: "item"
-					item: "kubejs:thermogenic_blend_chunk"
-				}
-			]
+			tasks: [{
+				id: "44BA8299E0D078F1"
+				type: "item"
+				item: "kubejs:thermogenic_blend_chunk"
+			}]
 		}
 		{
 			x: 5.5d
 			y: -12.0d
 			dependencies: ["74FC586E4D606AC5"]
 			id: "3D715130569810A9"
-			tasks: [
-				{
-					id: "2DF6D87316B87028"
-					type: "item"
-					item: "kubejs:thermolytic_blend_chunk"
-				}
-			]
+			tasks: [{
+				id: "2DF6D87316B87028"
+				type: "item"
+				item: "kubejs:thermolytic_blend_chunk"
+			}]
 		}
 		{
 			title: "建造粉碎机"
@@ -855,12 +739,10 @@
 			y: -6.0d
 			subtitle: "用于三阶金属"
 			id: "24657EDFBAF51873"
-			tasks: [
-				{
-					id: "139E5E075EAEAE34"
-					type: "checkmark"
-				}
-			]
+			tasks: [{
+				id: "139E5E075EAEAE34"
+				type: "checkmark"
+			}]
 		}
 		{
 			title: "矿石团块"
@@ -871,33 +753,29 @@
 				"4DE6A9BF08BD38DD"
 			]
 			id: "4BF0862881DCDE10"
-			tasks: [
-				{
-					id: "443E93A93A0F8207"
-					type: "item"
-					title: "任意矿团"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "forge:ores/lump"
-						}
+			tasks: [{
+				id: "443E93A93A0F8207"
+				type: "item"
+				title: "任意矿团"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ores/lump"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: -3.0d
 			y: 5.5d
 			subtitle: "Y100 - 32"
 			id: "42C1EE252075FE79"
-			tasks: [
-				{
-					id: "615AE647B41261D7"
-					type: "item"
-					item: "kubejs:raw_arcanite"
-				}
-			]
+			tasks: [{
+				id: "615AE647B41261D7"
+				type: "item"
+				item: "kubejs:raw_arcanite"
+			}]
 		}
 		{
 			title: "火星矿脉"
@@ -907,26 +785,22 @@
 			y: -2.5d
 			shape: "circle"
 			id: "5D08F7CC8E6911A8"
-			tasks: [
-				{
-					id: "4EE57252D7582984"
-					type: "dimension"
-					title: "火星"
-					dimension: "beyond_earth:mars"
-				}
-			]
+			tasks: [{
+				id: "4EE57252D7582984"
+				type: "dimension"
+				title: "火星"
+				dimension: "beyond_earth:mars"
+			}]
 		}
 		{
 			x: 11.5d
 			y: -1.5d
 			id: "6C7768C7EBE6829D"
-			tasks: [
-				{
-					id: "5C2C01C93CFB2382"
-					type: "item"
-					item: "beyond_earth:raw_ostrum"
-				}
-			]
+			tasks: [{
+				id: "5C2C01C93CFB2382"
+				type: "item"
+				item: "beyond_earth:raw_ostrum"
+			}]
 		}
 		{
 			title: "金星矿脉"
@@ -936,14 +810,12 @@
 			y: -2.5d
 			shape: "circle"
 			id: "686ECAA2B2C4E112"
-			tasks: [
-				{
-					id: "145793782E94BB89"
-					type: "dimension"
-					title: "金星"
-					dimension: "beyond_earth:venus"
-				}
-			]
+			tasks: [{
+				id: "145793782E94BB89"
+				type: "dimension"
+				title: "金星"
+				dimension: "beyond_earth:venus"
+			}]
 		}
 		{
 			title: "水星矿脉"
@@ -953,50 +825,42 @@
 			y: -2.5d
 			shape: "circle"
 			id: "3BCE38C8A18BA068"
-			tasks: [
-				{
-					id: "4FA5A724CB620610"
-					type: "dimension"
-					title: "水星"
-					dimension: "beyond_earth:mercury"
-				}
-			]
+			tasks: [{
+				id: "4FA5A724CB620610"
+				type: "dimension"
+				title: "水星"
+				dimension: "beyond_earth:mercury"
+			}]
 		}
 		{
 			x: 11.5d
 			y: -0.5d
 			id: "5EAB61F97C9CAC60"
-			tasks: [
-				{
-					id: "69B679D0843E51B9"
-					type: "item"
-					item: "kubejs:raw_tungsten"
-				}
-			]
+			tasks: [{
+				id: "69B679D0843E51B9"
+				type: "item"
+				item: "kubejs:raw_tungsten"
+			}]
 		}
 		{
 			x: 11.5d
 			y: 0.5d
 			id: "4232467D80CCB647"
-			tasks: [
-				{
-					id: "49354139C7A6E835"
-					type: "item"
-					item: "kubejs:raw_orichalcum"
-				}
-			]
+			tasks: [{
+				id: "49354139C7A6E835"
+				type: "item"
+				item: "kubejs:raw_orichalcum"
+			}]
 		}
 		{
 			x: 15.0d
 			y: -1.5d
 			id: "720C01B02B7DEE1E"
-			tasks: [
-				{
-					id: "127425E4F3D25C0D"
-					type: "item"
-					item: "beyond_earth:raw_calorite"
-				}
-			]
+			tasks: [{
+				id: "127425E4F3D25C0D"
+				type: "item"
+				item: "beyond_earth:raw_calorite"
+			}]
 		}
 		{
 			title: "冰巨星矿脉"
@@ -1006,74 +870,62 @@
 			y: -2.5d
 			shape: "circle"
 			id: "107BBC9E6D7F35F7"
-			tasks: [
-				{
-					id: "5BDA8868E3BE8722"
-					type: "dimension"
-					title: "格拉西欧"
-					dimension: "beyond_earth:glacio"
-				}
-			]
+			tasks: [{
+				id: "5BDA8868E3BE8722"
+				type: "dimension"
+				title: "格拉西欧"
+				dimension: "beyond_earth:glacio"
+			}]
 		}
 		{
 			x: 19.0d
 			y: -1.5d
 			id: "4B54A9EF6B62C762"
-			tasks: [
-				{
-					id: "659C041A15468765"
-					type: "item"
-					item: "kubejs:raw_draconium"
-				}
-			]
+			tasks: [{
+				id: "659C041A15468765"
+				type: "item"
+				item: "kubejs:raw_draconium"
+			}]
 		}
 		{
 			x: 16.0d
 			y: -1.5d
 			id: "35AF50BDCB517849"
-			tasks: [
-				{
-					id: "5F7AAD7DF4DB5306"
-					type: "item"
-					item: "kubejs:raw_iridium"
-				}
-			]
+			tasks: [{
+				id: "5F7AAD7DF4DB5306"
+				type: "item"
+				item: "kubejs:raw_iridium"
+			}]
 		}
 		{
 			x: 19.0d
 			y: -0.5d
 			id: "2B4BD77280C48DC3"
-			tasks: [
-				{
-					id: "3202E38FB0E98B4F"
-					type: "item"
-					item: "kubejs:raw_vibranium"
-				}
-			]
+			tasks: [{
+				id: "3202E38FB0E98B4F"
+				type: "item"
+				item: "kubejs:raw_vibranium"
+			}]
 		}
 		{
 			x: 15.0d
 			y: -0.5d
 			id: "2613429BF2F4ADD8"
-			tasks: [
-				{
-					id: "04164FBDF4A56752"
-					type: "item"
-					item: "kubejs:raw_palladium"
-				}
-			]
+			tasks: [{
+				id: "04164FBDF4A56752"
+				type: "item"
+				item: "kubejs:raw_palladium"
+			}]
 		}
 		{
 			x: 16.0d
 			y: -0.5d
 			id: "52CC70B8491FE20F"
-			tasks: [
-				{
-					id: "011780845D6D4CFD"
-					type: "item"
-					item: "kubejs:raw_adamantium"
-				}
-			]
+			tasks: [{
+				id: "011780845D6D4CFD"
+				type: "item"
+				item: "kubejs:raw_adamantium"
+			}]
 		}
 		{
 			disable_toast: true
@@ -1081,13 +933,11 @@
 			y: -6.0d
 			subtitle: "用于五阶金属"
 			id: "0C3EB21BEA2D34C9"
-			tasks: [
-				{
-					id: "2343817F7CDB82AC"
-					type: "item"
-					item: "mbm2:deposition_chamber"
-				}
-			]
+			tasks: [{
+				id: "2343817F7CDB82AC"
+				type: "item"
+				item: "mbm2:deposition_chamber"
+			}]
 		}
 		{
 			title: "矿床"
@@ -1098,33 +948,29 @@
 				"4BF0862881DCDE10"
 			]
 			id: "46F59AB0DA404B1A"
-			tasks: [
-				{
-					id: "52D25A2415B85C41"
-					type: "item"
-					title: "任意矿床"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "forge:ores/deposit"
-						}
+			tasks: [{
+				id: "52D25A2415B85C41"
+				type: "item"
+				title: "任意矿床"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ores/deposit"
 					}
 				}
-			]
+			}]
 		}
 		{
 			disable_toast: true
 			x: 11.5d
 			y: -4.5d
 			id: "0DC400230EF6616D"
-			tasks: [
-				{
-					id: "5492ADF150555865"
-					type: "item"
-					item: "kubejs:desh_coil"
-				}
-			]
+			tasks: [{
+				id: "5492ADF150555865"
+				type: "item"
+				item: "kubejs:desh_coil"
+			}]
 		}
 		{
 			disable_toast: true
@@ -1132,13 +978,11 @@
 			y: -6.0d
 			subtitle: "用于六级金属"
 			id: "00859F9E64E640CB"
-			tasks: [
-				{
-					id: "3B5CFABFD2DC4AFB"
-					type: "item"
-					item: "mbm2:leaching_vat"
-				}
-			]
+			tasks: [{
+				id: "3B5CFABFD2DC4AFB"
+				type: "item"
+				item: "mbm2:leaching_vat"
+			}]
 		}
 		{
 			title: "浸出矿石"
@@ -1149,33 +993,29 @@
 				"46F59AB0DA404B1A"
 			]
 			id: "547BBD0D7412471D"
-			tasks: [
-				{
-					id: "79B10EA54A73F6A3"
-					type: "item"
-					title: "任意浸沥矿石"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "forge:ores/leached"
-						}
+			tasks: [{
+				id: "79B10EA54A73F6A3"
+				type: "item"
+				title: "任意浸沥矿石"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ores/leached"
 					}
 				}
-			]
+			}]
 		}
 		{
 			disable_toast: true
 			x: 15.0d
 			y: -4.5d
 			id: "3BFFF4D5CAFC1A3D"
-			tasks: [
-				{
-					id: "1E5B44061C98D744"
-					type: "item"
-					item: "kubejs:tungsten_coil"
-				}
-			]
+			tasks: [{
+				id: "1E5B44061C98D744"
+				type: "item"
+				item: "kubejs:tungsten_coil"
+			}]
 		}
 		{
 			disable_toast: true
@@ -1183,13 +1023,11 @@
 			y: -6.0d
 			subtitle: "用于七级金属"
 			id: "6EA1FAD3986DBE8D"
-			tasks: [
-				{
-					id: "1FFD110CFADC963A"
-					type: "item"
-					item: "mbm2:crystal_chamber"
-				}
-			]
+			tasks: [{
+				id: "1FFD110CFADC963A"
+				type: "item"
+				item: "mbm2:crystal_chamber"
+			}]
 		}
 		{
 			title: "矿石晶体"
@@ -1200,46 +1038,40 @@
 				"547BBD0D7412471D"
 			]
 			id: "280FDDCAC78E2F8F"
-			tasks: [
-				{
-					id: "1C953F015EEBC4F6"
-					type: "item"
-					title: "任意晶体"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "forge:ores/crystal"
-						}
+			tasks: [{
+				id: "1C953F015EEBC4F6"
+				type: "item"
+				title: "任意晶体"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ores/crystal"
 					}
 				}
-			]
+			}]
 		}
 		{
 			disable_toast: true
 			x: 19.0d
 			y: -4.5d
 			id: "3C240ED6381FC643"
-			tasks: [
-				{
-					id: "512A18E7DA252320"
-					type: "item"
-					item: "kubejs:adamantium_coil"
-				}
-			]
+			tasks: [{
+				id: "512A18E7DA252320"
+				type: "item"
+				item: "kubejs:adamantium_coil"
+			}]
 		}
 		{
 			x: 1.0d
 			y: -8.0d
 			dependencies: ["1ADA7638B0075CB3"]
 			id: "04E530CE0867A595"
-			tasks: [
-				{
-					id: "506EDAE3B2AFDD04"
-					type: "item"
-					item: "ars_nouveau:imbuement_chamber"
-				}
-			]
+			tasks: [{
+				id: "506EDAE3B2AFDD04"
+				type: "item"
+				item: "ars_nouveau:imbuement_chamber"
+			}]
 		}
 		{
 			title: "纯净矿石(2x)"
@@ -1251,32 +1083,28 @@
 				"21F49B8439E00DAF"
 			]
 			id: "0F775E2996F34054"
-			tasks: [
-				{
-					id: "3A631CE3C385AC39"
-					type: "item"
-					title: "&a纯化&f矿石"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "forge:ores/pure"
-						}
+			tasks: [{
+				id: "3A631CE3C385AC39"
+				type: "item"
+				title: "&a纯化&f矿石"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ores/pure"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: 4.5d
 			y: -8.0d
 			id: "1C8AAD5840B436DD"
-			tasks: [
-				{
-					id: "5CA015BFF9674404"
-					type: "item"
-					item: "naturesaura:crushing_catalyst"
-				}
-			]
+			tasks: [{
+				id: "5CA015BFF9674404"
+				type: "item"
+				item: "naturesaura:crushing_catalyst"
+			}]
 		}
 		{
 			title: "破碎矿石(4x)"
@@ -1287,44 +1115,38 @@
 				"4DE6A9BF08BD38DD"
 			]
 			id: "29FBA2AD5DD2367B"
-			tasks: [
-				{
-					id: "508882A8C6269E60"
-					type: "item"
-					title: "碎矿"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "forge:ores/crumbled"
-						}
+			tasks: [{
+				id: "508882A8C6269E60"
+				type: "item"
+				title: "碎矿"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ores/crumbled"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: 8.0d
 			y: -8.0d
 			id: "7E366CE8A15E4FFB"
-			tasks: [
-				{
-					id: "7EA92BBE0BB37477"
-					type: "item"
-					item: "mbm2:mana_compressor"
-				}
-			]
+			tasks: [{
+				id: "7EA92BBE0BB37477"
+				type: "item"
+				item: "mbm2:mana_compressor"
+			}]
 		}
 		{
 			x: 11.5d
 			y: -8.0d
 			id: "6BA6707B8E0C5935"
-			tasks: [
-				{
-					id: "4F908F9B2DD3C6D7"
-					type: "item"
-					item: "elementalcraft:pureinfuser"
-				}
-			]
+			tasks: [{
+				id: "4F908F9B2DD3C6D7"
+				type: "item"
+				item: "elementalcraft:pureinfuser"
+			}]
 		}
 		{
 			title: "矿石砖(8x)"
@@ -1335,20 +1157,18 @@
 				"7E366CE8A15E4FFB"
 			]
 			id: "5AF8241E1B970137"
-			tasks: [
-				{
-					id: "153A6E730DF7B8CD"
-					type: "item"
-					title: "矿砖"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "forge:ores/brick"
-						}
+			tasks: [{
+				id: "153A6E730DF7B8CD"
+				type: "item"
+				title: "矿砖"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ores/brick"
 					}
 				}
-			]
+			}]
 		}
 		{
 			title: "灌注矿石(16x)"
@@ -1359,20 +1179,18 @@
 				"6BA6707B8E0C5935"
 			]
 			id: "7713DFA9C3E8B80F"
-			tasks: [
-				{
-					id: "244618105A97F400"
-					type: "item"
-					title: "灌注矿石"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "forge:ores/infused"
-						}
+			tasks: [{
+				id: "244618105A97F400"
+				type: "item"
+				title: "灌注矿石"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ores/infused"
 					}
 				}
-			]
+			}]
 		}
 		{
 			title: "矿石簇(32x)"
@@ -1383,32 +1201,28 @@
 				"547BBD0D7412471D"
 			]
 			id: "07767F735C9AAE9F"
-			tasks: [
-				{
-					id: "229EBC825343B21C"
-					type: "item"
-					title: "矿簇"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "forge:ores/cluster"
-						}
+			tasks: [{
+				id: "229EBC825343B21C"
+				type: "item"
+				title: "矿簇"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ores/cluster"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: 15.0d
 			y: -8.0d
 			id: "0CD24E6C27C20BAA"
-			tasks: [
-				{
-					id: "5B94A2E34C0B9534"
-					type: "item"
-					item: "forbidden_arcanus:hephaestus_forge"
-				}
-			]
+			tasks: [{
+				id: "5B94A2E34C0B9534"
+				type: "item"
+				item: "forbidden_arcanus:hephaestus_forge"
+			}]
 		}
 		{
 			title: "矿石碎片(64x)"
@@ -1417,20 +1231,18 @@
 			description: ["&a暂无配方&f,欢迎在Discord中提出建议!"]
 			dependencies: ["280FDDCAC78E2F8F"]
 			id: "315D43C53050EEF1"
-			tasks: [
-				{
-					id: "775F264DE0823DC3"
-					type: "item"
-					title: "任意#forge:ores/shard(碎片)"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "forge:ores/shard"
-						}
+			tasks: [{
+				id: "775F264DE0823DC3"
+				type: "item"
+				title: "任意#forge:ores/shard(碎片)"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ores/shard"
 					}
 				}
-			]
+			}]
 		}
 		{
 			title: "零至一级金属"
@@ -1474,60 +1286,54 @@
 				"21F49B8439E00DAF"
 			]
 			id: "618D3DB314D52278"
-			tasks: [
-				{
-					id: "735F29A502059F9B"
-					type: "item"
-					title: "等级2金属"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "mbm2:base_metals/tier_two"
-						}
+			tasks: [{
+				id: "735F29A502059F9B"
+				type: "item"
+				title: "等级2金属"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mbm2:base_metals/tier_two"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: -1.0d
 			y: -4.0d
 			dependencies: ["374E9F1741E235E4"]
 			id: "44DB729FE8E73A26"
-			tasks: [
-				{
-					id: "435B6793886452D5"
-					type: "item"
-					title: "等级1合金"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "mbm2:alloys/tier_one"
-						}
+			tasks: [{
+				id: "435B6793886452D5"
+				type: "item"
+				title: "等级1合金"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mbm2:alloys/tier_one"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: 3.0d
 			y: -4.0d
 			dependencies: ["04BF5087EE619C6C"]
 			id: "00CAD5B8F0DDF744"
-			tasks: [
-				{
-					id: "4E6E31FEE7D08017"
-					type: "item"
-					title: "等级2合金"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "mbm2:alloys/tier_two"
-						}
+			tasks: [{
+				id: "4E6E31FEE7D08017"
+				type: "item"
+				title: "等级2合金"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mbm2:alloys/tier_two"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: 6.5d
@@ -1537,40 +1343,36 @@
 				"4DE6A9BF08BD38DD"
 			]
 			id: "624D65014B20411F"
-			tasks: [
-				{
-					id: "2FECD48059125D61"
-					type: "item"
-					title: "等级3金属"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "mbm2:base_metals/tier_three"
-						}
+			tasks: [{
+				id: "2FECD48059125D61"
+				type: "item"
+				title: "等级3金属"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mbm2:base_metals/tier_three"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: 6.5d
 			y: -4.0d
 			dependencies: ["097A3B834A7D46DD"]
 			id: "0EA2F1D3A5985454"
-			tasks: [
-				{
-					id: "306F756FF33C21F6"
-					type: "item"
-					title: "等级3合金"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "mbm2:alloys/tier_three"
-						}
+			tasks: [{
+				id: "306F756FF33C21F6"
+				type: "item"
+				title: "等级3合金"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mbm2:alloys/tier_three"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: 10.0d
@@ -1580,40 +1382,36 @@
 				"4BF0862881DCDE10"
 			]
 			id: "72DBD8D4EC2059AA"
-			tasks: [
-				{
-					id: "057B3698F165D2DB"
-					type: "item"
-					title: "等级4金属"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "mbm2:base_metals/tier_four"
-						}
+			tasks: [{
+				id: "057B3698F165D2DB"
+				type: "item"
+				title: "等级4金属"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mbm2:base_metals/tier_four"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: 10.0d
 			y: -4.0d
 			dependencies: ["39D7F8D91CFCE5E9"]
 			id: "4D452D2D6B37F4CE"
-			tasks: [
-				{
-					id: "5249F721771C4F1E"
-					type: "item"
-					title: "等级4合金"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "mbm2:alloys/tier_four"
-						}
+			tasks: [{
+				id: "5249F721771C4F1E"
+				type: "item"
+				title: "等级4合金"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mbm2:alloys/tier_four"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: 13.5d
@@ -1623,40 +1421,36 @@
 				"46F59AB0DA404B1A"
 			]
 			id: "77B482B0DC72F7CF"
-			tasks: [
-				{
-					id: "4C6570EAC65DCEA9"
-					type: "item"
-					title: "等级5金属"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "mbm2:base_metals/tier_five"
-						}
+			tasks: [{
+				id: "4C6570EAC65DCEA9"
+				type: "item"
+				title: "等级5金属"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mbm2:base_metals/tier_five"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: 13.5d
 			y: -4.0d
 			dependencies: ["0DC400230EF6616D"]
 			id: "495EEC7CAB9014BE"
-			tasks: [
-				{
-					id: "5B3CE413C2409508"
-					type: "item"
-					title: "等级5合金"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "mbm2:alloys/tier_five"
-						}
+			tasks: [{
+				id: "5B3CE413C2409508"
+				type: "item"
+				title: "等级5合金"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mbm2:alloys/tier_five"
 					}
 				}
-			]
+			}]
 		}
 		{
 			disable_toast: true
@@ -1667,40 +1461,36 @@
 				"547BBD0D7412471D"
 			]
 			id: "108900C01052E7FD"
-			tasks: [
-				{
-					id: "18FCD0117BC305D3"
-					type: "item"
-					title: "等级6金属"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "mbm2:base_metals/tier_six"
-						}
+			tasks: [{
+				id: "18FCD0117BC305D3"
+				type: "item"
+				title: "等级6金属"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mbm2:base_metals/tier_six"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: 17.0d
 			y: -4.0d
 			dependencies: ["3BFFF4D5CAFC1A3D"]
 			id: "5AA9EF72329A105C"
-			tasks: [
-				{
-					id: "6985475F2FE7AA2C"
-					type: "item"
-					title: "等级6合金"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "mbm2:alloys/tier_six"
-						}
+			tasks: [{
+				id: "6985475F2FE7AA2C"
+				type: "item"
+				title: "等级6合金"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mbm2:alloys/tier_six"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: 21.0d
@@ -1710,20 +1500,18 @@
 				"280FDDCAC78E2F8F"
 			]
 			id: "340B2181917188F2"
-			tasks: [
-				{
-					id: "0E848A7C9E6BB5B8"
-					type: "item"
-					title: "等级7金属"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "mbm2:base_metals/tier_seven"
-						}
+			tasks: [{
+				id: "0E848A7C9E6BB5B8"
+				type: "item"
+				title: "等级7金属"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mbm2:base_metals/tier_seven"
 					}
 				}
-			]
+			}]
 		}
 		{
 			icon: "botania:cosmetic_questgiver_mark"
@@ -1743,13 +1531,11 @@
 			]
 			size: 2.0d
 			id: "1ADA7638B0075CB3"
-			tasks: [
-				{
-					id: "27C08A6DBB1333A5"
-					type: "checkmark"
-					title: "精炼"
-				}
-			]
+			tasks: [{
+				id: "27C08A6DBB1333A5"
+				type: "checkmark"
+				title: "精炼"
+			}]
 		}
 		{
 			icon: "botania:cosmetic_questgiver_mark"
@@ -1760,13 +1546,11 @@
 			dependencies: ["23222631E2D6EDF3"]
 			size: 2.0d
 			id: "5DC786D48AD3886E"
-			tasks: [
-				{
-					id: "6D084F1B558AC8D6"
-					type: "checkmark"
-					title: "加工"
-				}
-			]
+			tasks: [{
+				id: "6D084F1B558AC8D6"
+				type: "checkmark"
+				title: "加工"
+			}]
 		}
 		{
 			icon: "botania:cosmetic_questgiver_mark"
@@ -1781,13 +1565,11 @@
 			dependencies: ["23222631E2D6EDF3"]
 			size: 2.0d
 			id: "7681154856E3706C"
-			tasks: [
-				{
-					id: "1A2A5FCADCAAFF8D"
-					type: "checkmark"
-					title: "熔炼"
-				}
-			]
+			tasks: [{
+				id: "1A2A5FCADCAAFF8D"
+				type: "checkmark"
+				title: "熔炼"
+			}]
 		}
 		{
 			icon: "botania:cosmetic_questgiver_mark"
@@ -1801,13 +1583,11 @@
 			]
 			size: 2.0d
 			id: "35358105C8DF8729"
-			tasks: [
-				{
-					id: "0753419AF13D3C5D"
-					type: "checkmark"
-					title: "合金"
-				}
-			]
+			tasks: [{
+				id: "0753419AF13D3C5D"
+				type: "checkmark"
+				title: "合金"
+			}]
 		}
 		{
 			icon: "botania:cosmetic_questgiver_mark"
@@ -1821,13 +1601,11 @@
 			]
 			size: 2.0d
 			id: "23222631E2D6EDF3"
-			tasks: [
-				{
-					id: "37468D1862BDF9AA"
-					type: "checkmark"
-					title: "金属等级"
-				}
-			]
+			tasks: [{
+				id: "37468D1862BDF9AA"
+				type: "checkmark"
+				title: "金属等级"
+			}]
 		}
 		{
 			title: "七级合金"
@@ -1835,20 +1613,18 @@
 			y: -4.0d
 			dependencies: ["3C240ED6381FC643"]
 			id: "76AB97D8CF9C43EA"
-			tasks: [
-				{
-					id: "34CE1AF2C9AFA521"
-					type: "item"
-					title: "等级7合金"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "mbm2:alloys/tier_seven"
-						}
+			tasks: [{
+				id: "34CE1AF2C9AFA521"
+				type: "item"
+				title: "等级7合金"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mbm2:alloys/tier_seven"
 					}
 				}
-			]
+			}]
 		}
 		{
 			icon: "botania:cosmetic_questgiver_mark"
@@ -1863,13 +1639,11 @@
 			dependencies: ["23222631E2D6EDF3"]
 			size: 2.0d
 			id: "285CDED8ED5043B7"
-			tasks: [
-				{
-					id: "751CD06D1BFC5B3C"
-					type: "checkmark"
-					title: "复合矿石"
-				}
-			]
+			tasks: [{
+				id: "751CD06D1BFC5B3C"
+				type: "checkmark"
+				title: "复合矿石"
+			}]
 		}
 		{
 			icon: "mbm2:sorter_mk1"
@@ -1898,25 +1672,21 @@
 			description: ["升级版分选机能&e处理&r更高品级矿石并提升产出效率"]
 			dependencies: ["752675EFEF1544B0"]
 			id: "797F788361330B42"
-			tasks: [
-				{
-					id: "293BAD032135C6EA"
-					type: "item"
-					item: "mbm2:sorter_mk2"
-				}
-			]
+			tasks: [{
+				id: "293BAD032135C6EA"
+				type: "item"
+				item: "mbm2:sorter_mk2"
+			}]
 		}
 		{
 			x: 5.5d
 			y: -1.5d
 			id: "05BE89044960E0B5"
-			tasks: [
-				{
-					id: "4AE426AA89C0B4FA"
-					type: "item"
-					item: "kubejs:raw_aetherium"
-				}
-			]
+			tasks: [{
+				id: "4AE426AA89C0B4FA"
+				type: "item"
+				item: "kubejs:raw_aetherium"
+			}]
 		}
 		{
 			icon: "botania:cosmetic_questgiver_mark"
@@ -1927,13 +1697,11 @@
 			dependencies: ["285CDED8ED5043B7"]
 			size: 2.0d
 			id: "74FC586E4D606AC5"
-			tasks: [
-				{
-					id: "1CE42E14DFED6B9A"
-					type: "checkmark"
-					title: "热力混合物"
-				}
-			]
+			tasks: [{
+				id: "1CE42E14DFED6B9A"
+				type: "checkmark"
+				title: "热力混合物"
+			}]
 		}
 		{
 			icon: "botania:cosmetic_questgiver_mark"
@@ -1944,13 +1712,11 @@
 			dependencies: ["23222631E2D6EDF3"]
 			size: 2.0d
 			id: "457FCA9B39399AD1"
-			tasks: [
-				{
-					id: "7BC92C56675D47DD"
-					type: "checkmark"
-					title: "采矿"
-				}
-			]
+			tasks: [{
+				id: "7BC92C56675D47DD"
+				type: "checkmark"
+				title: "采矿"
+			}]
 		}
 		{
 			icon: "botania:cosmetic_questgiver_mark"
@@ -1961,13 +1727,11 @@
 			dependencies: ["285CDED8ED5043B7"]
 			size: 2.0d
 			id: "5EEDBCC7BEC4735B"
-			tasks: [
-				{
-					id: "127E8B6CBAC763A2"
-					type: "checkmark"
-					title: "&a银矿生成&f"
-				}
-			]
+			tasks: [{
+				id: "127E8B6CBAC763A2"
+				type: "checkmark"
+				title: "&a银矿生成&f"
+			}]
 		}
 	]
 	quest_links: [ ]

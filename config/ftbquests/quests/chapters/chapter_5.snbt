@@ -13,13 +13,11 @@
 			y: -0.5d
 			dependencies: ["09B9B831214F6072"]
 			id: "61B47177E307B079"
-			tasks: [
-				{
-					id: "40A75A68DDC671EB"
-					type: "item"
-					item: "beyond_earth:nasa_workbench"
-				}
-			]
+			tasks: [{
+				id: "40A75A68DDC671EB"
+				type: "item"
+				item: "beyond_earth:nasa_workbench"
+			}]
 		}
 		{
 			x: -2.0d
@@ -50,13 +48,11 @@
 				"14C449A154C78D7E"
 			]
 			id: "444E392EA0BB8807"
-			tasks: [
-				{
-					id: "7DEBD273E3C1AC9F"
-					type: "item"
-					item: "pneumaticcraft:thermopneumatic_processing_plant"
-				}
-			]
+			tasks: [{
+				id: "7DEBD273E3C1AC9F"
+				type: "item"
+				item: "pneumaticcraft:thermopneumatic_processing_plant"
+			}]
 		}
 		{
 			x: -0.5d
@@ -82,13 +78,11 @@
 			y: -3.5d
 			dependencies: ["1B543091EEA0D393"]
 			id: "01D41BC5B499F063"
-			tasks: [
-				{
-					id: "498221C41233E562"
-					type: "item"
-					item: "pneumaticcraft:uv_light_box"
-				}
-			]
+			tasks: [{
+				id: "498221C41233E562"
+				type: "item"
+				item: "pneumaticcraft:uv_light_box"
+			}]
 		}
 		{
 			title: "&a强化电路板&f"
@@ -225,14 +219,12 @@
 			y: 1.0d
 			dependencies: ["591233C3DDD3FE04"]
 			id: "5E914AEBF8D378B9"
-			tasks: [
-				{
-					id: "7122E515F2EA8F1D"
-					type: "item"
-					item: "beyond_earth:fuel_bucket"
-					count: 2L
-				}
-			]
+			tasks: [{
+				id: "7122E515F2EA8F1D"
+				type: "item"
+				item: "beyond_earth:fuel_bucket"
+				count: 2L
+			}]
 		}
 		{
 			x: -5.0d
@@ -330,20 +322,18 @@
 			]
 			size: 1.5d
 			id: "13C4C068E2EB695E"
-			tasks: [
-				{
-					id: "4E248D82865F574E"
-					type: "item"
-					title: "四级金属"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "mbm2:base_metals/tier_four"
-						}
+			tasks: [{
+				id: "4E248D82865F574E"
+				type: "item"
+				title: "四级金属"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mbm2:base_metals/tier_four"
 					}
 				}
-			]
+			}]
 		}
 		{
 			icon: "mbm2:air_collector_mk1"
@@ -446,19 +436,13 @@
 				{
 					id: "5F4EFE0F907D42CF"
 					type: "item"
-					item: {
-						id: "kubejs:cobalt_brass_cog_block"
-						Count: 10b
-					}
+					item: { id: "kubejs:cobalt_brass_cog_block", Count: 10b }
 					count: 10L
 				}
 				{
 					id: "4F65CAF9179DF24C"
 					type: "item"
-					item: {
-						id: "kubejs:reinforced_electrum_scaffolding"
-						Count: 10b
-					}
+					item: { id: "kubejs:reinforced_electrum_scaffolding", Count: 10b }
 					count: 10L
 				}
 				{
@@ -490,14 +474,12 @@
 					item: "kubejs:water_filter"
 				}
 			]
-			rewards: [
-				{
-					id: "572C27C7C2BC58E2"
-					type: "item"
-					item: "kubejs:water_filter"
-					count: 10
-				}
-			]
+			rewards: [{
+				id: "572C27C7C2BC58E2"
+				type: "item"
+				item: "kubejs:water_filter"
+				count: 10
+			}]
 		}
 		{
 			icon: "mbm2:sorter_mk2"
@@ -606,14 +588,12 @@
 					item: "pneumaticcraft:heat_frame"
 				}
 			]
-			rewards: [
-				{
-					id: "3B56C14689E00EBE"
-					type: "item"
-					item: "pneumaticcraft:thermal_lagging"
-					count: 2
-				}
-			]
+			rewards: [{
+				id: "3B56C14689E00EBE"
+				type: "item"
+				item: "pneumaticcraft:thermal_lagging"
+				count: 2
+			}]
 		}
 		{
 			title: "爆炸艺术!"
@@ -641,73 +621,61 @@
 			dependencies: ["281E051C6D348B35"]
 			size: 1.5d
 			id: "094B760566E1D22C"
-			tasks: [
-				{
-					id: "183F22F63183D508"
-					type: "item"
-					item: "ae2:controller"
-				}
-			]
-			rewards: [
-				{
-					id: "6B6DA48A6E7D9019"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 824098445478849879L
-				}
-			]
+			tasks: [{
+				id: "183F22F63183D508"
+				type: "item"
+				item: "ae2:controller"
+			}]
+			rewards: [{
+				id: "6B6DA48A6E7D9019"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 824098445478849879L
+			}]
 		}
 		{
 			x: -8.0d
 			y: 5.5d
 			dependencies: ["13D02E1465C8913E"]
 			id: "65E0754BC5138500"
-			tasks: [
-				{
-					id: "40BB7B8E8F18AC62"
-					type: "item"
-					item: "botania:apothecary_default"
-				}
-			]
+			tasks: [{
+				id: "40BB7B8E8F18AC62"
+				type: "item"
+				item: "botania:apothecary_default"
+			}]
 		}
 		{
 			x: -8.0d
 			y: 4.0d
 			dependencies: ["65E0754BC5138500"]
 			id: "6150C63B77F8E6D8"
-			tasks: [
-				{
-					id: "08322B238168EF5A"
-					type: "item"
-					item: "botania:pure_daisy"
-				}
-			]
+			tasks: [{
+				id: "08322B238168EF5A"
+				type: "item"
+				item: "botania:pure_daisy"
+			}]
 		}
 		{
 			x: -6.5d
 			y: 4.0d
 			dependencies: ["6150C63B77F8E6D8"]
 			id: "78B61F638A702484"
-			tasks: [
-				{
-					id: "00FBE0804077C1F5"
-					type: "item"
-					item: "botania:livingrock"
-				}
-			]
+			tasks: [{
+				id: "00FBE0804077C1F5"
+				type: "item"
+				item: "botania:livingrock"
+			}]
 		}
 		{
 			x: -6.5d
 			y: 2.5d
 			dependencies: ["6150C63B77F8E6D8"]
 			id: "207551C54C784815"
-			tasks: [
-				{
-					id: "7FFF9E3A8BAA9357"
-					type: "item"
-					item: "botania:livingwood_log"
-				}
-			]
+			tasks: [{
+				id: "7FFF9E3A8BAA9357"
+				type: "item"
+				item: "botania:livingwood_log"
+			}]
 		}
 		{
 			x: -5.0d
@@ -740,13 +708,11 @@
 			y: 4.0d
 			dependencies: ["78B61F638A702484"]
 			id: "24AB6B3E3C29F3CD"
-			tasks: [
-				{
-					id: "6CDAF1DB41260EC7"
-					type: "item"
-					item: "botania:mana_pool"
-				}
-			]
+			tasks: [{
+				id: "6CDAF1DB41260EC7"
+				type: "item"
+				item: "botania:mana_pool"
+			}]
 		}
 		{
 			title: "&a魔力灌注&f物品"
@@ -801,13 +767,11 @@
 			description: ["按照配方投掷物品后放置活化岩石,最后挥动森林法杖即可激活.若存在与祭坛链接的&a魔力发射器&f,装置将自动启动."]
 			dependencies: ["26C90FCCFBBEBD70"]
 			id: "3BB743C226858D7A"
-			tasks: [
-				{
-					id: "2F973689280236B9"
-					type: "item"
-					item: "botania:runic_altar"
-				}
-			]
+			tasks: [{
+				id: "2F973689280236B9"
+				type: "item"
+				item: "botania:runic_altar"
+			}]
 		}
 		{
 			title: "&a魔力&f压缩机(8倍矿物提纯)"
@@ -865,20 +829,18 @@
 			x: -9.5d
 			y: 4.0d
 			id: "13D02E1465C8913E"
-			tasks: [
-				{
-					id: "0D788CD792C63848"
-					type: "item"
-					title: "任意 &a神秘花&f"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "botania:mystical_flowers"
-						}
+			tasks: [{
+				id: "0D788CD792C63848"
+				type: "item"
+				title: "任意 &a神秘花&f"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "botania:mystical_flowers"
 					}
 				}
-			]
+			}]
 		}
 		{
 			title: "更多奇异原油"
@@ -948,33 +910,29 @@
 			y: -5.0d
 			dependencies: ["02285A69B0A09A44"]
 			id: "50BDCFC5C61EAAF3"
-			tasks: [
-				{
-					id: "0506F92DAB67DD6F"
-					type: "item"
-					title: "压缩机升级件"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "pneumaticcraft:compressor/basic"
-						}
+			tasks: [{
+				id: "0506F92DAB67DD6F"
+				type: "item"
+				title: "压缩机升级件"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "pneumaticcraft:compressor/basic"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: -2.0d
 			y: -3.5d
 			dependencies: ["09B9B831214F6072"]
 			id: "1B543091EEA0D393"
-			tasks: [
-				{
-					id: "5C65F16828D27EEA"
-					type: "item"
-					item: "pneumaticcraft:empty_pcb"
-				}
-			]
+			tasks: [{
+				id: "5C65F16828D27EEA"
+				type: "item"
+				item: "pneumaticcraft:empty_pcb"
+			}]
 		}
 	]
 	quest_links: [ ]

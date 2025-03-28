@@ -4,17 +4,9 @@
 	title: "钻头强化"
 	loot_size: 1
 	rewards: [
-		{
-			item: "immersiveengineering:toolupgrade_drill_capacity"
-		}
-		{
-			item: "immersiveengineering:toolupgrade_drill_damage"
-		}
-		{
-			item: "immersiveengineering:toolupgrade_drill_waterproof"
-		}
-		{
-			item: "immersiveengineering:toolupgrade_drill_lube"
-		}
+		{ item: "immersiveengineering:toolupgrade_drill_capacity" }
+		{ item: "immersiveengineering:toolupgrade_drill_damage" }
+		{ item: "immersiveengineering:toolupgrade_drill_waterproof" }
+		{ item: "immersiveengineering:toolupgrade_drill_lube" }
 	]
 }

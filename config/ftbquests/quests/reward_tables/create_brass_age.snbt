@@ -4,32 +4,12 @@
 	title: "黄铜时代"
 	loot_size: 1
 	rewards: [
-		{
-			item: "create:brass_ingot"
-			count: 8
-		}
-		{
-			item: "create:brass_casing"
-			count: 2
-		}
-		{
-			item: "create:brass_funnel"
-			count: 2
-		}
-		{
-			item: "create:brass_tunnel"
-		}
-		{
-			item: "create:cogwheel"
-			count: 4
-		}
-		{
-			item: "create:gearbox"
-			count: 2
-		}
-		{
-			item: "create:electron_tube"
-			count: 4
-		}
+		{ item: "create:brass_ingot", count: 8 }
+		{ item: "create:brass_casing", count: 2 }
+		{ item: "create:brass_funnel", count: 2 }
+		{ item: "create:brass_tunnel" }
+		{ item: "create:cogwheel", count: 4 }
+		{ item: "create:gearbox", count: 2 }
+		{ item: "create:electron_tube", count: 4 }
 	]
 }

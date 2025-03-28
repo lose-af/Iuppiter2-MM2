@@ -1,0 +1,716 @@
+{
+	id: "0737FDF6CFA131A5"
+	group: ""
+	order_index: 0
+	filename: "workaround_for_bugs"
+	title: "Workaround for Bugs"
+	icon: "minecraft:command_block"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			shape: "rsquare"
+			can_repeat: true
+			id: "04BEBED90061BFC6"
+			tasks: [{
+				id: "3ED36F112CA0EAC6"
+				type: "checkmark"
+				title: "Quest Detector"
+				disable_toast: true
+			}]
+			rewards: [{
+				id: "1C92AF4AC8EC3540"
+				type: "item"
+				item: "ftbquests:detector"
+			}]
+		}
+		{
+			title: "Railgun"
+			x: 1.5d
+			y: 0.0d
+			can_repeat: true
+			id: "2317F335C2C099E3"
+			tasks: [
+				{
+					id: "282DD67B8CF0B3DF"
+					type: "item"
+					disable_toast: true
+					item: "kubejs:tier_3_structural_alloy_hull_panel"
+					count: 24L
+					consume_items: true
+				}
+				{
+					id: "6D871B7B8B8F026A"
+					type: "item"
+					title: "Any #forge:scaffoldings/titanite"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "forge:scaffoldings/titanite"
+						}
+					}
+					count: 7L
+					consume_items: true
+				}
+				{
+					id: "157AEA9F0B12D34D"
+					type: "item"
+					item: "mythicbotany:asgard_rune"
+					count: 2L
+					consume_items: true
+				}
+				{
+					id: "1827619F8F37CC61"
+					type: "item"
+					title: "Any #forge:gears/sky_metal"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "forge:gears/sky_metal"
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "06FC27C0FF1FE46C"
+					type: "item"
+					title: "Any #forge:gears/terrasteel"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "forge:gears/terrasteel"
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "48F2DB9FBDE4FE53"
+					type: "item"
+					item: "kubejs:ai_chip"
+					count: 2L
+					consume_items: true
+				}
+				{
+					id: "26F2F447B9CB950D"
+					type: "item"
+					item: "kubejs:tier3_casing"
+					consume_items: true
+				}
+				{
+					id: "315CD96A0D7D4037"
+					type: "item"
+					item: "beyond_earth:rocket_launch_pad"
+					count: 9L
+					consume_items: true
+				}
+				{
+					id: "54DA2F7FC289BDCD"
+					type: "item"
+					title: "Any #beyond_earth:engines/calorite"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "beyond_earth:engines/calorite"
+						}
+					}
+					count: 2L
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "7D395DFA12F21A59"
+				type: "item"
+				item: "mbm2:railgun"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 1.5d
+			can_repeat: true
+			id: "40058A70A4B75C41"
+			tasks: [
+				{
+					id: "5405E36A4586632A"
+					type: "item"
+					item: "kubejs:harvester_drone"
+					consume_items: true
+				}
+				{
+					id: "146F34B3E5D1F152"
+					type: "forge_energy"
+					disable_toast: true
+					value: 10000000L
+					max_input: 10000000L
+				}
+				{
+					id: "53BA9AB0A45841D1"
+					type: "item"
+					item: "kubejs:tracking_chip"
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "1BE22D248C63E2BA"
+				type: "item"
+				item: "kubejs:harvester_drone_active"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 1.5d
+			can_repeat: true
+			id: "0B24A469253EA342"
+			tasks: [
+				{
+					id: "74ABA23D9FDC1B96"
+					type: "item"
+					item: "kubejs:scout_drone"
+					consume_items: true
+				}
+				{
+					id: "3DDC40B5C74C49FB"
+					type: "forge_energy"
+					disable_toast: true
+					value: 10000000L
+					max_input: 10000000L
+				}
+				{
+					id: "06F9A713CDE84E19"
+					type: "item"
+					item: "kubejs:tracking_chip"
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "0E16D36AE181E93E"
+				type: "item"
+				item: "kubejs:scout_drone_active"
+			}]
+		}
+		{
+			x: 3.5d
+			y: 1.5d
+			can_repeat: true
+			id: "0B60974A35045967"
+			tasks: [
+				{
+					id: "4D3A5827EBA0943A"
+					type: "item"
+					item: "kubejs:fighter_drone"
+					consume_items: true
+				}
+				{
+					id: "54FE64E9B296C873"
+					type: "forge_energy"
+					disable_toast: true
+					value: 10000000L
+					max_input: 10000000L
+				}
+				{
+					id: "57BF0E54DDB369B0"
+					type: "item"
+					item: "kubejs:tracking_chip"
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "78675291F42F8E2E"
+				type: "item"
+				item: "kubejs:fighter_drone_active"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 1.5d
+			can_repeat: true
+			id: "7909E4846E263617"
+			tasks: [
+				{
+					id: "435641CC62A92689"
+					type: "item"
+					item: "kubejs:trade_drone"
+					consume_items: true
+				}
+				{
+					id: "0BB0EACFEEDEF69D"
+					type: "forge_energy"
+					disable_toast: true
+					value: 10000000L
+					max_input: 10000000L
+				}
+				{
+					id: "171B87AD9F23CAA7"
+					type: "item"
+					item: "kubejs:tracking_chip"
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "29DE0C7178F3E7C8"
+				type: "item"
+				item: "kubejs:trade_drone_active"
+			}]
+		}
+		{
+			x: 5.5d
+			y: 1.5d
+			can_repeat: true
+			id: "6E0AB4AC61B6F546"
+			tasks: [
+				{
+					id: "246EAD063B15F7D4"
+					type: "item"
+					item: "kubejs:cargo_drone_magic_widget"
+					consume_items: true
+				}
+				{
+					id: "087B07EB78CBC6B7"
+					type: "forge_energy"
+					disable_toast: true
+					value: 10000000L
+					max_input: 10000000L
+				}
+				{
+					id: "19F25A246803F649"
+					type: "item"
+					item: "kubejs:tracking_chip"
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "198E7CD24060761B"
+				type: "item"
+				item: "kubejs:cargo_drone_magic_widget_active"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 1.5d
+			can_repeat: true
+			id: "0F2852015BD48BBB"
+			tasks: [
+				{
+					id: "20337164E8445A28"
+					type: "item"
+					item: "kubejs:cargo_drone_token_grief"
+					consume_items: true
+				}
+				{
+					id: "6621A51EDEA6DFEE"
+					type: "forge_energy"
+					disable_toast: true
+					value: 10000000L
+					max_input: 10000000L
+				}
+				{
+					id: "2943E0DBA0F5EFA0"
+					type: "item"
+					item: "kubejs:tracking_chip"
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "22D9D6586C7986ED"
+				type: "item"
+				item: "kubejs:cargo_drone_token_grief_active"
+			}]
+		}
+		{
+			x: 7.5d
+			y: 1.5d
+			can_repeat: true
+			id: "15E546B9795E5E9E"
+			tasks: [
+				{
+					id: "32CDEFAD813DA3EA"
+					type: "item"
+					item: "kubejs:cargo_drone_gaia_ingot"
+					consume_items: true
+				}
+				{
+					id: "43B8800839EB26EC"
+					type: "forge_energy"
+					disable_toast: true
+					value: 10000000L
+					max_input: 10000000L
+				}
+				{
+					id: "5A33682FFE242227"
+					type: "item"
+					item: "kubejs:tracking_chip"
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "131F8EF1FFACE74D"
+				type: "item"
+				item: "kubejs:cargo_drone_gaia_ingot_active"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 2.5d
+			can_repeat: true
+			id: "73D6746B9B1E81CA"
+			tasks: [
+				{
+					id: "42BC537BD42D9687"
+					type: "item"
+					item: "kubejs:cargo_drone_terraform_rod"
+					consume_items: true
+				}
+				{
+					id: "1E8EE5369DCDEF0A"
+					type: "forge_energy"
+					disable_toast: true
+					value: 10000000L
+					max_input: 10000000L
+				}
+				{
+					id: "3498B6DFC01E3255"
+					type: "item"
+					item: "kubejs:tracking_chip"
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "06CE1C433E7DD707"
+				type: "item"
+				item: "kubejs:cargo_drone_terraform_rod_active"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 2.5d
+			can_repeat: true
+			id: "600C0C1526F212CC"
+			tasks: [
+				{
+					id: "790493E92F7E2AAA"
+					type: "item"
+					item: "kubejs:cargo_drone_overgrowth_seed"
+					consume_items: true
+				}
+				{
+					id: "62DCD2BABD93CED0"
+					type: "forge_energy"
+					disable_toast: true
+					value: 10000000L
+					max_input: 10000000L
+				}
+				{
+					id: "3E82D1538217583C"
+					type: "item"
+					item: "kubejs:tracking_chip"
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "1540D7BEDD71AC06"
+				type: "item"
+				item: "kubejs:cargo_drone_overgrowth_seed_active"
+			}]
+		}
+		{
+			x: 3.5d
+			y: 2.5d
+			can_repeat: true
+			id: "35E4C54E5D7529FB"
+			tasks: [
+				{
+					id: "3965605430FABFAC"
+					type: "item"
+					item: "kubejs:cargo_drone_pure_element_holder"
+					consume_items: true
+				}
+				{
+					id: "4F43AE52DE6512CA"
+					type: "forge_energy"
+					disable_toast: true
+					value: 10000000L
+					max_input: 10000000L
+				}
+				{
+					id: "222EA52BB950E014"
+					type: "item"
+					item: "kubejs:tracking_chip"
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "4CE523A93A90C922"
+				type: "item"
+				item: "kubejs:cargo_drone_pure_element_holder_active"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 2.5d
+			can_repeat: true
+			id: "51FF35441F039276"
+			tasks: [
+				{
+					id: "29ACC7915C9263E3"
+					type: "item"
+					item: "kubejs:cargo_drone_assembly_rune"
+					consume_items: true
+				}
+				{
+					id: "30BC41770908B0C1"
+					type: "forge_energy"
+					disable_toast: true
+					value: 10000000L
+					max_input: 10000000L
+				}
+				{
+					id: "4BBF5CF997F0BCB2"
+					type: "item"
+					item: "kubejs:tracking_chip"
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "6FB998FDDA3423BC"
+				type: "item"
+				item: "kubejs:cargo_drone_assembly_rune_active"
+			}]
+		}
+		{
+			x: 5.5d
+			y: 2.5d
+			can_repeat: true
+			id: "4604E1970206C61E"
+			tasks: [
+				{
+					id: "38B26B24414F795C"
+					type: "item"
+					item: "kubejs:cargo_drone_nature_gem"
+					consume_items: true
+				}
+				{
+					id: "3CD8601B07D6AF1C"
+					type: "forge_energy"
+					disable_toast: true
+					value: 10000000L
+					max_input: 10000000L
+				}
+				{
+					id: "549A2A3019294C38"
+					type: "item"
+					item: "kubejs:tracking_chip"
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "08CF3860E221F4E3"
+				type: "item"
+				item: "kubejs:cargo_drone_nature_gem_active"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 2.5d
+			can_repeat: true
+			id: "4AC4AEAC7CD4F9E4"
+			tasks: [
+				{
+					id: "36D8647440DDB7AD"
+					type: "item"
+					item: "kubejs:cargo_drone_bunny_hoppers"
+					consume_items: true
+				}
+				{
+					id: "6E78B1842A92918A"
+					type: "forge_energy"
+					disable_toast: true
+					value: 10000000L
+					max_input: 10000000L
+				}
+				{
+					id: "471978573E30E6F2"
+					type: "item"
+					item: "kubejs:tracking_chip"
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "2C142ECE9BC55BBA"
+				type: "item"
+				item: "kubejs:cargo_drone_bunny_hoppers_active"
+			}]
+		}
+		{
+			x: 7.5d
+			y: 2.5d
+			can_repeat: true
+			id: "62A8561E39A340EA"
+			tasks: [
+				{
+					id: "05ADD59F6B48DBF4"
+					type: "item"
+					item: "kubejs:cargo_drone_amethyst_golem_charm"
+					consume_items: true
+				}
+				{
+					id: "4F5BA947D344F5F6"
+					type: "forge_energy"
+					disable_toast: true
+					value: 10000000L
+					max_input: 10000000L
+				}
+				{
+					id: "01307CAC79ECD0AE"
+					type: "item"
+					item: "kubejs:tracking_chip"
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "18E393358661C7E9"
+				type: "item"
+				item: "kubejs:cargo_drone_amethyst_golem_charm_active"
+			}]
+		}
+		{
+			disable_toast: true
+			x: 1.5d
+			y: 4.0d
+			can_repeat: true
+			id: "0A2EC686F3D1DCED"
+			tasks: [{
+				id: "5F3B73033D269137"
+				type: "item"
+				title: "Any #forge:ingots/inconel"
+				disable_toast: true
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ingots/inconel"
+					}
+				}
+				count: 621L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "1BE3D4B82404AF6B"
+				type: "item"
+				item: "kubejs:inconel_hull_casing"
+				count: 18
+			}]
+		}
+		{
+			disable_toast: true
+			x: 2.5d
+			y: 4.0d
+			can_repeat: true
+			id: "1C7EE43D423DEDBA"
+			tasks: [{
+				id: "1102DCF22799E9C9"
+				type: "item"
+				title: "Any #forge:ingots/inconel"
+				disable_toast: true
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ingots/inconel"
+					}
+				}
+				count: 621L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "1BB0330DD9C98A8B"
+				type: "item"
+				item: "kubejs:inconel_plate"
+				count: 54
+			}]
+		}
+		{
+			disable_toast: true
+			x: 3.5d
+			y: 4.0d
+			can_repeat: true
+			id: "319D6CCEC18E5B11"
+			tasks: [{
+				id: "514B46F7E724D7F2"
+				type: "item"
+				title: "Any #forge:ingots/inconel"
+				disable_toast: true
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ingots/inconel"
+					}
+				}
+				count: 621L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "54354D74A0FC11F0"
+				type: "item"
+				item: "kubejs:inconel_hull_panel"
+				count: 54
+			}]
+		}
+		{
+			disable_toast: true
+			x: 4.5d
+			y: 4.0d
+			can_repeat: true
+			id: "5F5E16118F8F8EBC"
+			tasks: [{
+				id: "7BA9B9BE15FB058C"
+				type: "item"
+				title: "Any #forge:ingots/inconel"
+				disable_toast: true
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ingots/inconel"
+					}
+				}
+				count: 621L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "0FDA0EB481D3E936"
+				type: "item"
+				item: "kubejs:inconel_rod"
+				count: 108
+			}]
+		}
+		{
+			disable_toast: true
+			x: 5.5d
+			y: 4.0d
+			can_repeat: true
+			id: "34AF1F056A7A8BC0"
+			tasks: [{
+				id: "02A5742EC9684802"
+				type: "item"
+				title: "Any #forge:ingots/inconel"
+				disable_toast: true
+				item: "kubejs:crystaltine_rod"
+				count: 4L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "7EA61AF825A86DE0"
+				type: "item"
+				item: "kubejs:crystaltine_ring"
+				count: 4
+			}]
+		}
+	]
+	quest_links: [ ]
+}

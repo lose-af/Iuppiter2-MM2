@@ -13,8 +13,6 @@
 				}
 			}
 		}
-		{
-			item: "sophisticatedstorage:basic_to_iron_tier_upgrade"
-		}
+		{ item: "sophisticatedstorage:basic_to_iron_tier_upgrade" }
 	]
 }

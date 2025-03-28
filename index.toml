@@ -28122,59 +28122,63 @@ hash = "f7de921789783d126fc9da4bf41037d995daca17f14dee787c195c3a80b8c576"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "e0d535a58377934bf3375429e728af2f1779031cc4feaef76f426e3a06bc3a50"
+hash = "a7acb495b4a24d6a81cb0f8497cd09b1faf8990e30a5941716c1304669c498fb"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ars.snbt"
-hash = "ebe667be4b72fb77e41689d4deab2fad0d92939e000b87440a2f1cf2503b75e3"
+hash = "72d995ca50cd5f4dbc2c588062889cc09d945b4d27cd049ece919b0db48b135c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/automations.snbt"
-hash = "4c6eb5bc408f5a38dc8a563c91d3fb1fb48f602020f592150ef40c832f7d06b2"
+hash = "b9ba10397ecb14f82bc9f45e57593b7a49878f819e5f55c128267f621d2fd4ff"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/chapter_2.snbt"
-hash = "2796cc38cf278a69444c1bf03b4edca91d4614863f380b96a9da27d5b0997604"
+hash = "8fbc1433bcc65d9e4611706c0722513b655c45a7d159905a2944f45497d06b51"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/chapter_3.snbt"
-hash = "670e794008c0d414da9cdef97d44db04e53313d98a4103a12d14786f7c5d1790"
+hash = "b331f757db1d520144b81030e452fc7d0b1c56a70fe244d7cfe66a721ad0db10"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/chapter_4.snbt"
-hash = "899408eae43679bfba6c8516e80da2c488049dd2833a967c106bbf8399f49b39"
+hash = "6b7ab4b59acc31ede18014c2e570baf6a6d2ffe500ab5caafeccb683f292dcb1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/chapter_5.snbt"
-hash = "09cec422dbc23f1487566548f5ee591e71bb8e258b6919226b901961c2d6165d"
+hash = "fb939cfce91f91c724b26ee5398717d8955f29052a882baac9a50ad8aacb1c29"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/chapter_5_2.snbt"
-hash = "592209deaceabbff48703c8ff571968f4adc77cf25f5dbe24032a734ff5c257a"
+hash = "13b489c657a193155feb72045c650ddbbff55e1be64eb0075534694e1553e8a1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/chapter_6.snbt"
-hash = "ed4e7b4e5626337e036a3204bdbcab34c0f1fde4a7bf3d6659da94cff207da37"
+hash = "85ab493ab9e2ba2dfca8ffd15016cfc437f01fd3ea33d93f3f374d8bd44c8c18"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/chapter_7.snbt"
-hash = "9dfffab533fe8143332ee69ea7788ce485405c9c1ac62278870651417e4ed1d3"
+hash = "02fe7c10264c3c898f5286fe5be59828f3935461739489bf83be893f0b23e93b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/elemental_craft.snbt"
-hash = "edd073b9aca94b029613aea19dc17ff09ed712e394cf5d4b7f005fa907f70d23"
+hash = "c26a41049501b006374795262f89a5b5dec5199ca4872f7113640adc3b4df222"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_processing.snbt"
-hash = "2431d68b87f2fdd64e00278102e51c0e7c5b38204475c40d93a38ba87ec0c181"
+hash = "34c292531a733e2859d43c5166d4285d4caa8bf1e3cb2b5526ff96c278719e7b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/power.snbt"
-hash = "c56c7d5fce47660e3754a58face0553ba440eae529179b7f689ae3f3ee70eb0f"
+hash = "113a8d5dc1ca4b093016bff5d21a071eee0fb7cbe9bdb9248086b18c7f8d250a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/useful_things.snbt"
-hash = "8b97dec463458572e265ca620d64cf772736a0dc0d11b0118a53695b66b27236"
+hash = "bf5f248dcd33e17076323bb132ec95c5ea25cc2bc1088a34300c153bbe7409a8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/workaround_for_bugs.snbt"
+hash = "7697d82036b40e371a9582136cf5b0f18ca7c2be0f0c5af03e29af25af8d60c4"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -28182,27 +28186,27 @@ hash = "7be4fd70373a5e648402bfb571cc7ff6568fccc063925dbcad0508068993372b"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/ae.snbt"
-hash = "fdf26ba2ba90fc12a1cc35897dc5c9f2f014fa5ec224ce6cdc58fb89f8b7b79a"
+hash = "fcc850b2b9be1553f115daaae022cc76e5634f7b38c4493865d548944c7afbef"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/create_brass_age.snbt"
-hash = "242ac5a95f86bb7a0ad704cfe157ab3872dc20a49ab18f846e9dd4297e5b796a"
+hash = "4e2b374087fb370c3ac123cd4253956dd5656ddc86e58a0954c8a50bf4ca2cab"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/create_copper.snbt"
-hash = "ce2d17f0ea26557cb3d5a3ddf21db6c39b95aac9631cda53ba4c7225fb627452"
+hash = "8477c0f85d4d3ab34ae78b9cb2dab79b0b9f523807136a5dd2b8b85f49f81316"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/create_stone_age.snbt"
-hash = "b958abe558b62bc59abda563c085574c3d3b3c4ba9cc3e215660ea9924639cbb"
+hash = "db65d25e569aeaeff00ba0a52bb64913cbaffdcf93812c0a39099fa724382d6f"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/drill_augments.snbt"
-hash = "d16905bbd7b1076e6a72aa89c8be26ca08ac491ec81655a261065dde8424bde7"
+hash = "ccae7bb3beef1cc3b81874d41be0413b9fb87b984abefb53504e7a3bbc832a5d"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/elementalcraft_t1.snbt"
-hash = "287400d01a310aee54f4fcaafaf38859bee1acc489a9f1f540aba61a6537984a"
+hash = "f780076089d610b1f0ec4f695c41e3fc5e2ce8873b414e0ecbfb2717e9d81dde"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/elements.snbt"
@@ -28210,11 +28214,11 @@ hash = "4c96641203383af8427546c094f0a69972905aea30022751eb43a08abb36836d"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/food.snbt"
-hash = "430bf3da631285e758a486e26d360835ccbedf208d25011acf62cc24919f0415"
+hash = "3e1458e24c2616130145c9ac67d9330b1c9f0db0872602d062e292f9dc4eb3dc"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/immersive_age.snbt"
-hash = "d8aeb331772ab10be0c0a478dddc3c745489f6720f6b9b0cb3e47336914c3d86"
+hash = "7bce1f13cebe4b002ff9d112188622f5a2732e87e34f98e44564747cd7d4722b"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/scrolls.snbt"
@@ -28222,11 +28226,11 @@ hash = "a1935cfec195041bacfc8bb3a48f1d8f309d6fcc1007f0d42513eedd3a863c42"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/storage.snbt"
-hash = "0108fded21e12c42c5dd93d87695f3fdee4985c5e8994277c92b4ab04afc146b"
+hash = "d63a34400eb31bc49d74e9e8dee9ef48f8d522c2b9d5adac24fc265c8e19db67"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/test.snbt"
-hash = "ea08a05d7a1d53d74ca4c9c9681342bbef9d2d397a34a6905ec49a43c58f9cc3"
+hash = "5daa2af14b666ae95310209ff93ed039281e3cd5f17c695aa002379c2463e8db"
 
 [[files]]
 file = "config/ftbultimine.snbt"

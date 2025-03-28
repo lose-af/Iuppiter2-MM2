@@ -4,29 +4,11 @@
 	title: "沉浸时代"
 	loot_size: 1
 	rewards: [
-		{
-			item: "mekanism:ingot_steel"
-			count: 8
-		}
-		{
-			item: "kubejs:steel_plate"
-			count: 8
-		}
-		{
-			item: "minecraft:copper_ingot"
-			count: 16
-		}
-		{
-			item: "createaddition:copper_wire"
-			count: 16
-		}
-		{
-			item: "minecraft:iron_ingot"
-			count: 16
-		}
-		{
-			item: "thermal:iron_plate"
-			count: 16
-		}
+		{ item: "mekanism:ingot_steel", count: 8 }
+		{ item: "kubejs:steel_plate", count: 8 }
+		{ item: "minecraft:copper_ingot", count: 16 }
+		{ item: "createaddition:copper_wire", count: 16 }
+		{ item: "minecraft:iron_ingot", count: 16 }
+		{ item: "thermal:iron_plate", count: 16 }
 	]
 }

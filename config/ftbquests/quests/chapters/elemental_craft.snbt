@@ -68,14 +68,12 @@
 					item: "elementalcraft:small_container"
 				}
 			]
-			rewards: [
-				{
-					id: "0E2D47B32F040FF9"
-					type: "item"
-					item: "elementalcraft:elementpipe_impaired"
-					count: 5
-				}
-			]
+			rewards: [{
+				id: "0E2D47B32F040FF9"
+				type: "item"
+				item: "elementalcraft:elementpipe_impaired"
+				count: 5
+			}]
 		}
 		{
 			title: "&d元素工艺&f桌"
@@ -91,13 +89,11 @@
 			dependency_requirement: "one_completed"
 			size: 1.75d
 			id: "28F45CF9D514202B"
-			tasks: [
-				{
-					id: "3813E631690FF287"
-					type: "item"
-					item: "elementalcraft:binder"
-				}
-			]
+			tasks: [{
+				id: "3813E631690FF287"
+				type: "item"
+				item: "elementalcraft:binder"
+			}]
 		}
 		{
 			x: 1.0d
@@ -110,13 +106,11 @@
 			hide_dependency_lines: true
 			dependencies: ["28F45CF9D514202B"]
 			id: "1E837639DAA7DF3F"
-			tasks: [
-				{
-					id: "460ED3D82E848A9D"
-					type: "item"
-					item: "elementalcraft:sorter"
-				}
-			]
+			tasks: [{
+				id: "460ED3D82E848A9D"
+				type: "item"
+				item: "elementalcraft:sorter"
+			}]
 		}
 		{
 			x: 1.5d
@@ -129,13 +123,11 @@
 			]
 			secret: true
 			id: "4B7D752BE53A895C"
-			tasks: [
-				{
-					id: "7ACBD626B21D6804"
-					type: "item"
-					item: "elementalcraft:source_analysis_glass"
-				}
-			]
+			tasks: [{
+				id: "7ACBD626B21D6804"
+				type: "item"
+				item: "elementalcraft:source_analysis_glass"
+			}]
 		}
 		{
 			title: "节点特性"
@@ -154,25 +146,21 @@
 			]
 			dependencies: ["4B7D752BE53A895C"]
 			id: "7BFF3ECF9488DF09"
-			tasks: [
-				{
-					id: "20A232980E4EC1AF"
-					type: "checkmark"
-				}
-			]
+			tasks: [{
+				id: "20A232980E4EC1AF"
+				type: "checkmark"
+			}]
 		}
 		{
 			x: -2.0d
 			y: -1.5d
 			dependencies: ["28F45CF9D514202B"]
 			id: "60FE66A2EC4D0459"
-			tasks: [
-				{
-					id: "70F9474416B86759"
-					type: "item"
-					item: "elementalcraft:spell_desk"
-				}
-			]
+			tasks: [{
+				id: "70F9474416B86759"
+				type: "item"
+				item: "elementalcraft:spell_desk"
+			}]
 		}
 		{
 			title: "元素法术"
@@ -182,24 +170,20 @@
 			description: ["法术功能多样:筑墙瞬移无所不能.所有法术都会消耗特定元素."]
 			dependencies: ["60FE66A2EC4D0459"]
 			id: "4AB3FAC4AE38A215"
-			tasks: [
-				{
-					id: "4A0B9E536E86A7F2"
-					type: "observation"
-					icon: "elementalcraft:spell_desk"
-					timer: 0L
-					observe_type: 0
-					to_observe: "elementalcraft:spell_desk"
-				}
-			]
-			rewards: [
-				{
-					id: "14347FBB95ECCFCA"
-					type: "random"
-					icon: "elementalcraft:scroll_paper"
-					table_id: 278806829828433834L
-				}
-			]
+			tasks: [{
+				id: "4A0B9E536E86A7F2"
+				type: "observation"
+				icon: "elementalcraft:spell_desk"
+				timer: 0L
+				observe_type: 0
+				to_observe: "elementalcraft:spell_desk"
+			}]
+			rewards: [{
+				id: "14347FBB95ECCFCA"
+				type: "random"
+				icon: "elementalcraft:scroll_paper"
+				table_id: 278806829828433834L
+			}]
 		}
 		{
 			title: "元素容器"
@@ -290,14 +274,12 @@
 					}
 				}
 			]
-			rewards: [
-				{
-					id: "1EA7DD311BF4889C"
-					type: "random"
-					icon: "elementalcraft:scroll_paper"
-					table_id: 278806829828433834L
-				}
-			]
+			rewards: [{
+				id: "1EA7DD311BF4889C"
+				type: "random"
+				icon: "elementalcraft:scroll_paper"
+				table_id: 278806829828433834L
+			}]
 		}
 		{
 			x: 1.0d
@@ -313,13 +295,11 @@
 			]
 			dependencies: ["28F45CF9D514202B"]
 			id: "66E491622AC4F15F"
-			tasks: [
-				{
-					id: "46B44F89D3C1C7EA"
-					type: "item"
-					item: "elementalcraft:shrinebase"
-				}
-			]
+			tasks: [{
+				id: "46B44F89D3C1C7EA"
+				type: "item"
+				item: "elementalcraft:shrinebase"
+			}]
 		}
 		{
 			title: "&a神秘量子科学&f"
@@ -328,20 +308,18 @@
 			description: ["如前所述,神龛具备诸多实用功能.&2生长&r神龛对植物助益良多,&5&a末影锁&f&r是末影农场的最佳装置,还有些神龛可与其他模组联动使用,例如&a野性林地&r神龛能实现&d自然灵气&f与&a植物吸收器&f的灵气自动化,或通过&d神秘林地&r升级强化&d植物魔法&f花卉效能."]
 			dependencies: ["66E491622AC4F15F"]
 			id: "20E0A0A18E0C1C47"
-			tasks: [
-				{
-					id: "45F30DB218B94942"
-					type: "item"
-					title: "任意 #elementalcraft:shrines 元素圣坛"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "elementalcraft:shrines"
-						}
+			tasks: [{
+				id: "45F30DB218B94942"
+				type: "item"
+				title: "任意 #elementalcraft:shrines 元素圣坛"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "elementalcraft:shrines"
 					}
 				}
-			]
+			}]
 			rewards: [
 				{
 					id: "09EE0BAEC553F734"
@@ -365,33 +343,29 @@
 			]
 			dependencies: ["20E0A0A18E0C1C47"]
 			id: "2453044DD037ED6C"
-			tasks: [
-				{
-					id: "47D5BF8317A6F1DA"
-					type: "item"
-					title: "圣坛升级"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "elementalcraft:shrine_upgrades"
-						}
+			tasks: [{
+				id: "47D5BF8317A6F1DA"
+				type: "item"
+				title: "圣坛升级"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "elementalcraft:shrine_upgrades"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: -2.0d
 			y: -3.5d
 			dependencies: ["28F45CF9D514202B"]
 			id: "5445C707CBEEAFD7"
-			tasks: [
-				{
-					id: "055447444AECD2DE"
-					type: "item"
-					item: "elementalcraft:unset_jewel"
-				}
-			]
+			tasks: [{
+				id: "055447444AECD2DE"
+				type: "item"
+				item: "elementalcraft:unset_jewel"
+			}]
 		}
 		{
 			title: "宝石之力"
@@ -409,12 +383,10 @@
 			description: ["宝石赋予玩家各种情境助益效果,激活时将消耗背包内的魔源能量."]
 			dependencies: ["5445C707CBEEAFD7"]
 			id: "71D8C1416BD779EB"
-			tasks: [
-				{
-					id: "55FAE921460C6E9B"
-					type: "checkmark"
-				}
-			]
+			tasks: [{
+				id: "55FAE921460C6E9B"
+				type: "checkmark"
+			}]
 		}
 		{
 			x: -6.5d
@@ -429,32 +401,28 @@
 			]
 			size: 1.5d
 			id: "0BCBEF4DF75748FB"
-			tasks: [
-				{
-					id: "57719007320AFF3A"
-					type: "item"
-					item: {
-						id: "elementalcraft:pure_element_holder"
-						Count: 1b
-						ForgeCaps: {
-							Parent: {
-								earth: 0
-								air: 0
-								water: 0
-								fire: 0
-							}
+			tasks: [{
+				id: "57719007320AFF3A"
+				type: "item"
+				item: {
+					id: "elementalcraft:pure_element_holder"
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							earth: 0
+							air: 0
+							water: 0
+							fire: 0
 						}
 					}
 				}
-			]
-			rewards: [
-				{
-					id: "73B8124D3EAB1564"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 6594349084625110702L
-				}
-			]
+			}]
+			rewards: [{
+				id: "73B8124D3EAB1564"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 6594349084625110702L
+			}]
 		}
 		{
 			x: -0.5d
@@ -492,26 +460,22 @@
 					item: "elementalcraft:pedestal_air"
 				}
 			]
-			rewards: [
-				{
-					id: "0B5D12926B899158"
-					type: "item"
-					item: "elementalcraft:purecrystal"
-				}
-			]
+			rewards: [{
+				id: "0B5D12926B899158"
+				type: "item"
+				item: "elementalcraft:purecrystal"
+			}]
 		}
 		{
 			x: 0.5d
 			y: -4.5d
 			dependencies: ["28F45CF9D514202B"]
 			id: "65D0ED1814790B26"
-			tasks: [
-				{
-					id: "0D96444B73FAB4EA"
-					type: "item"
-					item: "elementalcraft:crystallizer"
-				}
-			]
+			tasks: [{
+				id: "0D96444B73FAB4EA"
+				type: "item"
+				item: "elementalcraft:crystallizer"
+			}]
 		}
 		{
 			title: "宝石收藏家"
@@ -1187,13 +1151,11 @@
 				"4B7D752BE53A895C"
 			]
 			id: "339A744CFDA1D135"
-			tasks: [
-				{
-					id: "3BFACBD7C294242D"
-					type: "item"
-					item: "elementalcraft:source_stabilizer"
-				}
-			]
+			tasks: [{
+				id: "3BFACBD7C294242D"
+				type: "item"
+				item: "elementalcraft:source_stabilizer"
+			}]
 		}
 		{
 			x: 4.0d
@@ -1202,13 +1164,11 @@
 			hide_dependency_lines: true
 			dependencies: ["28F45CF9D514202B"]
 			id: "310BF5742A0EE8D0"
-			tasks: [
-				{
-					id: "44D13E0A1538B460"
-					type: "item"
-					item: "elementalcraft:cover_frame"
-				}
-			]
+			tasks: [{
+				id: "44D13E0A1538B460"
+				type: "item"
+				item: "elementalcraft:cover_frame"
+			}]
 		}
 		{
 			x: 1.0d
@@ -1260,13 +1220,11 @@
 			description: ["具备材料研磨功能,可将1份&e&a金叶&f&r转化为2份&e&a金粉&f&r."]
 			dependencies: ["28F45CF9D514202B"]
 			id: "0311F130ED6F7375"
-			tasks: [
-				{
-					id: "685536F358067FD2"
-					type: "item"
-					item: "elementalcraft:air_mill"
-				}
-			]
+			tasks: [{
+				id: "685536F358067FD2"
+				type: "item"
+				item: "elementalcraft:air_mill"
+			}]
 			rewards: [
 				{
 					id: "3B74E0CBC69E16D8"
@@ -1291,20 +1249,16 @@
 			dependencies: ["20E0A0A18E0C1C47"]
 			size: 1.25d
 			id: "422A9AD44C189BD8"
-			tasks: [
-				{
-					id: "0DB8CF9213B0CFCC"
-					type: "item"
-					item: "elementalcraft:oreshrine"
-				}
-			]
-			rewards: [
-				{
-					id: "3B1BA2FE9D3AF02F"
-					type: "item"
-					item: "elementalcraft:shrine_upgrade_core"
-				}
-			]
+			tasks: [{
+				id: "0DB8CF9213B0CFCC"
+				type: "item"
+				item: "elementalcraft:oreshrine"
+			}]
+			rewards: [{
+				id: "3B1BA2FE9D3AF02F"
+				type: "item"
+				item: "elementalcraft:shrine_upgrade_core"
+			}]
 		}
 		{
 			title: "装置强化"
@@ -1333,14 +1287,12 @@
 					item: "elementalcraft:binder_improved"
 				}
 			]
-			rewards: [
-				{
-					id: "213CB15200E57A5A"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 278806829828433834L
-				}
-			]
+			rewards: [{
+				id: "213CB15200E57A5A"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 278806829828433834L
+			}]
 		}
 		{
 			x: 2.5d
@@ -1349,13 +1301,11 @@
 			hide_dependency_lines: true
 			dependencies: ["28F45CF9D514202B"]
 			id: "540A62454E121113"
-			tasks: [
-				{
-					id: "0AE2A9928944EB9C"
-					type: "item"
-					item: "elementalcraft:instrument_retriever"
-				}
-			]
+			tasks: [{
+				id: "0AE2A9928944EB9C"
+				type: "item"
+				item: "elementalcraft:instrument_retriever"
+			}]
 		}
 		{
 			title: "元素容器"
@@ -1367,27 +1317,23 @@
 			dependencies: ["3B244ACC959125F2"]
 			size: 1.75d
 			id: "0B1F4BCF4C0FA13A"
-			tasks: [
-				{
-					id: "0D421344360E4567"
-					type: "item"
-					title: "任意 #elementalcraft:receptacles/empty 空元素容器"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "elementalcraft:receptacles/empty"
-						}
+			tasks: [{
+				id: "0D421344360E4567"
+				type: "item"
+				title: "任意 #elementalcraft:receptacles/empty 空元素容器"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "elementalcraft:receptacles/empty"
 					}
 				}
-			]
-			rewards: [
-				{
-					id: "585C0EF881B616FC"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-			]
+			}]
+			rewards: [{
+				id: "585C0EF881B616FC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 		}
 	]
 	quest_links: [ ]

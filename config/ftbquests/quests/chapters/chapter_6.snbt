@@ -13,65 +13,55 @@
 			y: -2.0d
 			dependencies: ["7427C745524AC00C"]
 			id: "1427B6C8DB9EA99F"
-			tasks: [
-				{
-					id: "170695D69BCC6028"
-					type: "item"
-					item: "industrialforegoing:machine_frame_supreme"
-				}
-			]
+			tasks: [{
+				id: "170695D69BCC6028"
+				type: "item"
+				item: "industrialforegoing:machine_frame_supreme"
+			}]
 		}
 		{
 			x: -0.5d
 			y: 1.0d
 			dependencies: ["766FA3877A259983"]
 			id: "248A48AB03F59D80"
-			tasks: [
-				{
-					id: "6E3E7705A24C5E4D"
-					type: "item"
-					item: "mekanism:osmium_compressor"
-				}
-			]
+			tasks: [{
+				id: "6E3E7705A24C5E4D"
+				type: "item"
+				item: "mekanism:osmium_compressor"
+			}]
 		}
 		{
 			x: 1.0d
 			y: 1.0d
 			dependencies: ["248A48AB03F59D80"]
 			id: "34F1D7C257F4D2FD"
-			tasks: [
-				{
-					id: "5AEDB110B71CE138"
-					type: "item"
-					item: "mekanism:ingot_refined_obsidian"
-				}
-			]
+			tasks: [{
+				id: "5AEDB110B71CE138"
+				type: "item"
+				item: "mekanism:ingot_refined_obsidian"
+			}]
 		}
 		{
 			x: -0.5d
 			y: -0.5d
 			dependencies: ["766FA3877A259983"]
 			id: "6E0C90037432031C"
-			tasks: [
-				{
-					id: "0B8B8696DA34C7BB"
-					type: "item"
-					item: "mekanism:chemical_oxidizer"
-				}
-			]
+			tasks: [{
+				id: "0B8B8696DA34C7BB"
+				type: "item"
+				item: "mekanism:chemical_oxidizer"
+			}]
 		}
 		{
 			x: 1.0d
 			y: -0.5d
 			dependencies: ["6E0C90037432031C"]
 			id: "13A76B63A6E8833D"
-			tasks: [
-				{
-					id: "44DB0705142EC8D1"
-					type: "item"
-					item: "mekanism:sulfuric_acid_bucket"
-				}
-			]
+			tasks: [{
+				id: "44DB0705142EC8D1"
+				type: "item"
+				item: "mekanism:sulfuric_acid_bucket"
+			}]
 		}
 		{
 			x: 3.0d
@@ -82,26 +72,22 @@
 				"6C3EBA1AD09FEE6C"
 			]
 			id: "1CF39FE5E8135E08"
-			tasks: [
-				{
-					id: "3E776AF36F6D6736"
-					type: "item"
-					item: "mbm2:leaching_vat"
-				}
-			]
+			tasks: [{
+				id: "3E776AF36F6D6736"
+				type: "item"
+				item: "mbm2:leaching_vat"
+			}]
 		}
 		{
 			x: 0.5d
 			y: 4.25d
 			dependencies: ["64E2B67C0B0AB9E4"]
 			id: "4EEBD21943C92471"
-			tasks: [
-				{
-					id: "1927F2BCB967D815"
-					type: "item"
-					item: "chemlib:lithium_dust"
-				}
-			]
+			tasks: [{
+				id: "1927F2BCB967D815"
+				type: "item"
+				item: "chemlib:lithium_dust"
+			}]
 		}
 		{
 			title: "多方块&a能量存储&f"
@@ -137,13 +123,11 @@
 			y: 2.5d
 			dependencies: ["248A48AB03F59D80"]
 			id: "64E2B67C0B0AB9E4"
-			tasks: [
-				{
-					id: "2111FC063DA2B19D"
-					type: "item"
-					item: "mekanism:chemical_crystallizer"
-				}
-			]
+			tasks: [{
+				id: "2111FC063DA2B19D"
+				type: "item"
+				item: "mekanism:chemical_crystallizer"
+			}]
 		}
 		{
 			x: -0.5d
@@ -191,13 +175,11 @@
 				"0C3B634C865AD3B9"
 			]
 			id: "766FA3877A259983"
-			tasks: [
-				{
-					id: "400C694FE9B399BD"
-					type: "item"
-					item: "industrialforegoing:machine_frame_advanced"
-				}
-			]
+			tasks: [{
+				id: "400C694FE9B399BD"
+				type: "item"
+				item: "industrialforegoing:machine_frame_advanced"
+			}]
 		}
 		{
 			title: "第六阶金属"
@@ -209,20 +191,18 @@
 				"44302F55B2C258AA"
 			]
 			id: "23C9DE786EB00B38"
-			tasks: [
-				{
-					id: "7DEBDACE63667AD4"
-					type: "item"
-					title: "任意六级基础金属"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "mbm2:base_metals/tier_six"
-						}
+			tasks: [{
+				id: "7DEBDACE63667AD4"
+				type: "item"
+				title: "任意六级基础金属"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mbm2:base_metals/tier_six"
 					}
 				}
-			]
+			}]
 		}
 		{
 			title: "前往金星与水星的&a三阶火箭&f"
@@ -231,17 +211,15 @@
 			shape: "hexagon"
 			size: 1.5d
 			id: "66520CE078BFCC2F"
-			tasks: [
-				{
-					id: "71AF56055BFF8F7B"
-					type: "item"
-					item: {
-						id: "beyond_earth:rocket_t3"
-						Count: 1b
-						tag: { }
-					}
+			tasks: [{
+				id: "71AF56055BFF8F7B"
+				type: "item"
+				item: {
+					id: "beyond_earth:rocket_t3"
+					Count: 1b
+					tag: { }
 				}
-			]
+			}]
 		}
 		{
 			x: 1.0d
@@ -251,13 +229,11 @@
 				"0C86C3CCA8F0E429"
 			]
 			id: "698E4E432E881290"
-			tasks: [
-				{
-					id: "3515BDF3DA73AAC3"
-					type: "item"
-					item: "industrialforegoing:ether_gas_bucket"
-				}
-			]
+			tasks: [{
+				id: "3515BDF3DA73AAC3"
+				type: "item"
+				item: "industrialforegoing:ether_gas_bucket"
+			}]
 		}
 		{
 			x: -0.5d
@@ -265,13 +241,11 @@
 			description: ["用于固定凋灵以生产以太气体"]
 			dependencies: ["766FA3877A259983"]
 			id: "0C86C3CCA8F0E429"
-			tasks: [
-				{
-					id: "0EAA44DB3E9EC22D"
-					type: "item"
-					item: "industrialforegoing:stasis_chamber"
-				}
-			]
+			tasks: [{
+				id: "0EAA44DB3E9EC22D"
+				type: "item"
+				item: "industrialforegoing:stasis_chamber"
+			}]
 		}
 		{
 			x: 2.5d
@@ -281,51 +255,43 @@
 				"4270C15F46FFA1B0"
 			]
 			id: "6C3EBA1AD09FEE6C"
-			tasks: [
-				{
-					id: "7DF9C3CEA7DB604D"
-					type: "item"
-					item: "kubejs:tier3_casing"
-				}
-			]
+			tasks: [{
+				id: "7DF9C3CEA7DB604D"
+				type: "item"
+				item: "kubejs:tier3_casing"
+			}]
 		}
 		{
 			x: -2.5d
 			y: 1.0d
 			dependencies: ["766FA3877A259983"]
 			id: "75201B00917E0634"
-			tasks: [
-				{
-					id: "47F12821B1A422D1"
-					type: "item"
-					item: "industrialforegoing:material_stonework_factory"
-				}
-			]
+			tasks: [{
+				id: "47F12821B1A422D1"
+				type: "item"
+				item: "industrialforegoing:material_stonework_factory"
+			}]
 		}
 		{
 			x: -4.5d
 			y: -0.5d
 			shape: "circle"
 			id: "0C3B634C865AD3B9"
-			tasks: [
-				{
-					id: "53394211EE95D244"
-					type: "item"
-					item: "beyond_earth:ostrum_ingot"
-				}
-			]
+			tasks: [{
+				id: "53394211EE95D244"
+				type: "item"
+				item: "beyond_earth:ostrum_ingot"
+			}]
 		}
 		{
 			x: 3.0d
 			y: 2.5d
 			id: "4270C15F46FFA1B0"
-			tasks: [
-				{
-					id: "271CE7B158DBC982"
-					type: "item"
-					item: "kubejs:exoskeleton_composit_ingot"
-				}
-			]
+			tasks: [{
+				id: "271CE7B158DBC982"
+				type: "item"
+				item: "kubejs:exoskeleton_composit_ingot"
+			}]
 		}
 		{
 			title: "爆裂&a熔炉供热升级&f(再次)"
@@ -351,13 +317,11 @@
 			description: ["使用该装置击杀生物可自动收集掉落物,打造高效刷怪场."]
 			dependencies: ["766FA3877A259983"]
 			id: "12BBBA932AABA97C"
-			tasks: [
-				{
-					id: "667AFD2A54FD0B42"
-					type: "item"
-					item: "industrialforegoing:mob_crusher"
-				}
-			]
+			tasks: [{
+				id: "667AFD2A54FD0B42"
+				type: "item"
+				item: "industrialforegoing:mob_crusher"
+			}]
 		}
 	]
 	quest_links: [ ]

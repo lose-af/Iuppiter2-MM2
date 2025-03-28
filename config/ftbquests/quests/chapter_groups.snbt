@@ -1,12 +1,6 @@
 {
 	chapter_groups: [
-		{
-			id: "3C8730B42C1725BE"
-			title: "主线进程"
-		}
-		{
-			id: "7571E15FFD2D3DD8"
-			title: "支线进程"
-		}
+		{ id: "3C8730B42C1725BE", title: "主线进程" }
+		{ id: "7571E15FFD2D3DD8", title: "支线进程" }
 	]
 }

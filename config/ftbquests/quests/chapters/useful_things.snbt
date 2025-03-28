@@ -15,18 +15,16 @@
 			subtitle: "功能与&a时间之瓶&f完全相同."
 			size: 2.5d
 			id: "1B0C1D970843D751"
-			tasks: [
-				{
-					id: "6371D366F28FDA19"
-					type: "item"
-					item: {
-						id: "gag:time_sand_pouch"
-						Count: 1b
-						tag: { }
-					}
-					match_nbt: false
+			tasks: [{
+				id: "6371D366F28FDA19"
+				type: "item"
+				item: {
+					id: "gag:time_sand_pouch"
+					Count: 1b
+					tag: { }
 				}
-			]
+				match_nbt: false
+			}]
 		}
 		{
 			x: -11.0d
@@ -35,13 +33,11 @@
 			subtitle: "周围任务提示可在祭坛召唤的生物类型."
 			size: 1.3d
 			id: "4A2D113EA7E182DF"
-			tasks: [
-				{
-					id: "79684B755CAEF42E"
-					type: "item"
-					item: "summoningrituals:altar"
-				}
-			]
+			tasks: [{
+				id: "79684B755CAEF42E"
+				type: "item"
+				item: "summoningrituals:altar"
+			}]
 		}
 		{
 			x: -10.5d
@@ -49,23 +45,21 @@
 			subtitle: "可通过&a召唤祭坛&f进行召唤."
 			dependencies: ["4A2D113EA7E182DF"]
 			id: "440CDE1BD95C35A3"
-			tasks: [
-				{
-					id: "165B44D39E3734FE"
-					type: "kill"
-					icon: {
-						id: "hostilenetworks:data_model"
-						Count: 1b
-						tag: {
-							data_model: {
-								id: "hostilenetworks:firefly"
-							}
+			tasks: [{
+				id: "165B44D39E3734FE"
+				type: "kill"
+				icon: {
+					id: "hostilenetworks:data_model"
+					Count: 1b
+					tag: {
+						data_model: {
+							id: "hostilenetworks:firefly"
 						}
 					}
-					entity: "naturalist:firefly"
-					value: 1L
 				}
-			]
+				entity: "naturalist:firefly"
+				value: 1L
+			}]
 		}
 		{
 			x: -9.5d
@@ -73,23 +67,21 @@
 			subtitle: "可通过&a召唤祭坛&f进行召唤."
 			dependencies: ["4A2D113EA7E182DF"]
 			id: "52C2529010D1B636"
-			tasks: [
-				{
-					id: "5E7AB130439F0C8C"
-					type: "kill"
-					icon: {
-						id: "hostilenetworks:data_model"
-						Count: 1b
-						tag: {
-							data_model: {
-								id: "hostilenetworks:elder_guardian"
-							}
+			tasks: [{
+				id: "5E7AB130439F0C8C"
+				type: "kill"
+				icon: {
+					id: "hostilenetworks:data_model"
+					Count: 1b
+					tag: {
+						data_model: {
+							id: "hostilenetworks:elder_guardian"
 						}
 					}
-					entity: "minecraft:elder_guardian"
-					value: 1L
 				}
-			]
+				entity: "minecraft:elder_guardian"
+				value: 1L
+			}]
 		}
 		{
 			x: -9.5d
@@ -97,23 +89,21 @@
 			subtitle: "可通过&a召唤祭坛&f进行召唤."
 			dependencies: ["4A2D113EA7E182DF"]
 			id: "449A67612AD36AC8"
-			tasks: [
-				{
-					id: "485984420BBF4D1C"
-					type: "kill"
-					icon: {
-						id: "hostilenetworks:data_model"
-						Count: 1b
-						tag: {
-							data_model: {
-								id: "hostilenetworks:artifacts/mimic"
-							}
+			tasks: [{
+				id: "485984420BBF4D1C"
+				type: "kill"
+				icon: {
+					id: "hostilenetworks:data_model"
+					Count: 1b
+					tag: {
+						data_model: {
+							id: "hostilenetworks:artifacts/mimic"
 						}
 					}
-					entity: "artifacts:mimic"
-					value: 1L
 				}
-			]
+				entity: "artifacts:mimic"
+				value: 1L
+			}]
 		}
 		{
 			x: -10.5d
@@ -121,23 +111,21 @@
 			subtitle: "可通过&a召唤祭坛&f进行召唤."
 			dependencies: ["4A2D113EA7E182DF"]
 			id: "645BB508B4B3FBCE"
-			tasks: [
-				{
-					id: "7BAB234850B58FC1"
-					type: "kill"
-					icon: {
-						id: "hostilenetworks:data_model"
-						Count: 1b
-						tag: {
-							data_model: {
-								id: "hostilenetworks:phantom"
-							}
+			tasks: [{
+				id: "7BAB234850B58FC1"
+				type: "kill"
+				icon: {
+					id: "hostilenetworks:data_model"
+					Count: 1b
+					tag: {
+						data_model: {
+							id: "hostilenetworks:phantom"
 						}
 					}
-					entity: "minecraft:phantom"
-					value: 1L
 				}
-			]
+				entity: "minecraft:phantom"
+				value: 1L
+			}]
 		}
 		{
 			x: -11.5d
@@ -145,23 +133,21 @@
 			subtitle: "可通过&a召唤祭坛&f进行召唤."
 			dependencies: ["4A2D113EA7E182DF"]
 			id: "136463321F3E2486"
-			tasks: [
-				{
-					id: "1E592834DD97B2F0"
-					type: "kill"
-					icon: {
-						id: "hostilenetworks:data_model"
-						Count: 1b
-						tag: {
-							data_model: {
-								id: "hostilenetworks:blaze"
-							}
+			tasks: [{
+				id: "1E592834DD97B2F0"
+				type: "kill"
+				icon: {
+					id: "hostilenetworks:data_model"
+					Count: 1b
+					tag: {
+						data_model: {
+							id: "hostilenetworks:blaze"
 						}
 					}
-					entity: "minecraft:blaze"
-					value: 1L
 				}
-			]
+				entity: "minecraft:blaze"
+				value: 1L
+			}]
 		}
 		{
 			x: -12.5d
@@ -169,23 +155,21 @@
 			subtitle: "可通过&a召唤祭坛&f进行召唤."
 			dependencies: ["4A2D113EA7E182DF"]
 			id: "248AB6A264F98D7F"
-			tasks: [
-				{
-					id: "2C8D75552BCF712B"
-					type: "kill"
-					icon: {
-						id: "hostilenetworks:data_model"
-						Count: 1b
-						tag: {
-							data_model: {
-								id: "hostilenetworks:thermal/blitz"
-							}
+			tasks: [{
+				id: "2C8D75552BCF712B"
+				type: "kill"
+				icon: {
+					id: "hostilenetworks:data_model"
+					Count: 1b
+					tag: {
+						data_model: {
+							id: "hostilenetworks:thermal/blitz"
 						}
 					}
-					entity: "thermal:blitz"
-					value: 1L
 				}
-			]
+				entity: "thermal:blitz"
+				value: 1L
+			}]
 		}
 		{
 			x: -12.5d
@@ -193,23 +177,21 @@
 			subtitle: "可通过&a召唤祭坛&f进行召唤."
 			dependencies: ["4A2D113EA7E182DF"]
 			id: "1A4DF80B83C64D59"
-			tasks: [
-				{
-					id: "6C17B33962DA0DB6"
-					type: "kill"
-					icon: {
-						id: "hostilenetworks:data_model"
-						Count: 1b
-						tag: {
-							data_model: {
-								id: "hostilenetworks:thermal/blizz"
-							}
+			tasks: [{
+				id: "6C17B33962DA0DB6"
+				type: "kill"
+				icon: {
+					id: "hostilenetworks:data_model"
+					Count: 1b
+					tag: {
+						data_model: {
+							id: "hostilenetworks:thermal/blizz"
 						}
 					}
-					entity: "thermal:blizz"
-					value: 1L
 				}
-			]
+				entity: "thermal:blizz"
+				value: 1L
+			}]
 		}
 		{
 			x: -11.5d
@@ -217,37 +199,33 @@
 			subtitle: "可通过&a召唤祭坛&f进行召唤."
 			dependencies: ["4A2D113EA7E182DF"]
 			id: "545D5A4DE7D2EA3E"
-			tasks: [
-				{
-					id: "7E3CCB2468AAF2C7"
-					type: "kill"
-					icon: {
-						id: "hostilenetworks:data_model"
-						Count: 1b
-						tag: {
-							data_model: {
-								id: "hostilenetworks:thermal/basalz"
-							}
+			tasks: [{
+				id: "7E3CCB2468AAF2C7"
+				type: "kill"
+				icon: {
+					id: "hostilenetworks:data_model"
+					Count: 1b
+					tag: {
+						data_model: {
+							id: "hostilenetworks:thermal/basalz"
 						}
 					}
-					entity: "thermal:basalz"
-					value: 1L
 				}
-			]
+				entity: "thermal:basalz"
+				value: 1L
+			}]
 		}
 		{
 			x: -3.0d
 			y: -0.5d
 			subtitle: "跌落保护."
 			id: "61A769F8BAD4B4AF"
-			tasks: [
-				{
-					id: "716B27693718534B"
-					type: "item"
-					item: "reliquary:angelic_feather"
-					match_nbt: false
-				}
-			]
+			tasks: [{
+				id: "716B27693718534B"
+				type: "item"
+				item: "reliquary:angelic_feather"
+				match_nbt: false
+			}]
 		}
 		{
 			x: -3.0d
@@ -255,40 +233,34 @@
 			subtitle: "无限水源."
 			description: ["作为无限水源使用,可进行抽水操作."]
 			id: "5EEE20957A084692"
-			tasks: [
-				{
-					id: "1A22EEE58580238E"
-					type: "item"
-					item: "cookingforblockheads:sink"
-				}
-			]
+			tasks: [{
+				id: "1A22EEE58580238E"
+				type: "item"
+				item: "cookingforblockheads:sink"
+			}]
 		}
 		{
 			x: -1.5d
 			y: -5.5d
 			subtitle: "显著加速周边作物生长."
 			id: "74F2712134151261"
-			tasks: [
-				{
-					id: "7FC957D42379FCC1"
-					type: "item"
-					item: "reliquary:fertile_lily_pad"
-				}
-			]
+			tasks: [{
+				id: "7FC957D42379FCC1"
+				type: "item"
+				item: "reliquary:fertile_lily_pad"
+			}]
 		}
 		{
 			x: -1.5d
 			y: -0.5d
 			subtitle: "自动放置火把."
 			id: "3F6896F43986C485"
-			tasks: [
-				{
-					id: "41E0E3803E567680"
-					type: "item"
-					item: "reliquary:lantern_of_paranoia"
-					match_nbt: false
-				}
-			]
+			tasks: [{
+				id: "41E0E3803E567680"
+				type: "item"
+				item: "reliquary:lantern_of_paranoia"
+				match_nbt: false
+			}]
 		}
 		{
 			x: -10.0d
@@ -301,34 +273,32 @@
 			]
 			dependencies: ["5D527235565D1B33"]
 			id: "12CA4D04E6BB7AAF"
-			tasks: [
-				{
-					id: "2D0DC8312B3C2DB8"
-					type: "item"
-					item: {
-						id: "relics:infinity_ham"
-						Count: 1b
-						tag: {
-							abilities: {
-								autophagy: {
-									stats: {
-										feed: 1.51121d
-									}
-									points: 0
+			tasks: [{
+				id: "2D0DC8312B3C2DB8"
+				type: "item"
+				item: {
+					id: "relics:infinity_ham"
+					Count: 1b
+					tag: {
+						abilities: {
+							autophagy: {
+								stats: {
+									feed: 1.51121d
 								}
-								infusion: {
-									stats: {
-										duration: 2.10809d
-									}
-									points: 0
-								}
+								points: 0
 							}
-							pieces: 10
+							infusion: {
+								stats: {
+									duration: 2.10809d
+								}
+								points: 0
+							}
 						}
+						pieces: 10
 					}
-					match_nbt: false
 				}
-			]
+				match_nbt: false
+			}]
 		}
 		{
 			x: -8.75d
@@ -338,53 +308,45 @@
 			description: ["佩戴后可查看各类机械装置状态."]
 			size: 2.5d
 			id: "5474134673D967E1"
-			tasks: [
-				{
-					id: "036E1F3B51AAAC9A"
-					type: "item"
-					item: "create:goggles"
-					match_nbt: false
-				}
-			]
+			tasks: [{
+				id: "036E1F3B51AAAC9A"
+				type: "item"
+				item: "create:goggles"
+				match_nbt: false
+			}]
 		}
 		{
 			x: -6.5d
 			y: -7.0d
 			subtitle: "注入肉汁后可自动喂食."
 			id: "2FAC0B5D65AAFC3D"
-			tasks: [
-				{
-					id: "5C3F5429A8E40807"
-					type: "item"
-					item: "industrialforegoing:meat_feeder"
-				}
-			]
+			tasks: [{
+				id: "5C3F5429A8E40807"
+				type: "item"
+				item: "industrialforegoing:meat_feeder"
+			}]
 		}
 		{
 			x: -6.5d
 			y: -4.0d
 			subtitle: "可赋予多种药水效果,消耗魔力."
 			id: "6FC3D0B0727C1B15"
-			tasks: [
-				{
-					id: "608F9B05F4800DDB"
-					type: "item"
-					item: "botania:blood_pendant"
-				}
-			]
+			tasks: [{
+				id: "608F9B05F4800DDB"
+				type: "item"
+				item: "botania:blood_pendant"
+			}]
 		}
 		{
 			x: -6.5d
 			y: -2.5d
 			subtitle: "加速睡眠过程的护符."
 			id: "71BF5AC0CD93A685"
-			tasks: [
-				{
-					id: "33B90FECAA809874"
-					type: "item"
-					item: "darkutils:charm_sleep"
-				}
-			]
+			tasks: [{
+				id: "33B90FECAA809874"
+				type: "item"
+				item: "darkutils:charm_sleep"
+			}]
 		}
 		{
 			x: -1.5d
@@ -392,26 +354,22 @@
 			subtitle: "消减&d沉浸工程&f机械运转噪音."
 			description: ["可通过与头盔在工作台合成来附加至任意头盔."]
 			id: "3D98B0825833F81B"
-			tasks: [
-				{
-					id: "3D4CC1ED768FD9EB"
-					type: "item"
-					item: "immersiveengineering:earmuffs"
-				}
-			]
+			tasks: [{
+				id: "3D4CC1ED768FD9EB"
+				type: "item"
+				item: "immersiveengineering:earmuffs"
+			}]
 		}
 		{
 			x: -6.5d
 			y: -5.5d
 			subtitle: "加快传送门穿越速度."
 			id: "470E0FFA77346D99"
-			tasks: [
-				{
-					id: "3CB377579BBEE91A"
-					type: "item"
-					item: "darkutils:charm_portal"
-				}
-			]
+			tasks: [{
+				id: "3CB377579BBEE91A"
+				type: "item"
+				item: "darkutils:charm_portal"
+			}]
 		}
 		{
 			x: -3.0d
@@ -419,18 +377,16 @@
 			subtitle: "储存经验等级."
 			description: ["可通过附魔增加存储容量."]
 			id: "449AF3E1F98281A9"
-			tasks: [
-				{
-					id: "40C7E8B42A4AC9A6"
-					type: "item"
-					item: {
-						id: "thermal:xp_crystal"
-						Count: 1b
-						tag: { }
-					}
-					match_nbt: false
+			tasks: [{
+				id: "40C7E8B42A4AC9A6"
+				type: "item"
+				item: {
+					id: "thermal:xp_crystal"
+					Count: 1b
+					tag: { }
 				}
-			]
+				match_nbt: false
+			}]
 		}
 		{
 			x: -1.5d
@@ -438,18 +394,16 @@
 			subtitle: "存储20桶流体."
 			description: ["可通过强化或附魔提升容量."]
 			id: "2BAB4D8405858E75"
-			tasks: [
-				{
-					id: "009CE20D43ACB965"
-					type: "item"
-					item: {
-						id: "thermal:fluid_reservoir"
-						Count: 1b
-						tag: { }
-					}
-					match_nbt: false
+			tasks: [{
+				id: "009CE20D43ACB965"
+				type: "item"
+				item: {
+					id: "thermal:fluid_reservoir"
+					Count: 1b
+					tag: { }
 				}
-			]
+				match_nbt: false
+			}]
 		}
 		{
 			x: -12.0d
@@ -458,13 +412,11 @@
 			subtitle: "提供本模组新增圣物的详细信息."
 			size: 1.5d
 			id: "5D527235565D1B33"
-			tasks: [
-				{
-					id: "7E02AB46FC103F90"
-					type: "item"
-					item: "relics:researching_table"
-				}
-			]
+			tasks: [{
+				id: "7E02AB46FC103F90"
+				type: "item"
+				item: "relics:researching_table"
+			}]
 		}
 		{
 			x: -10.0d
@@ -473,35 +425,33 @@
 			description: ["项链会对碰撞者造成少量伤害.高阶版本可使触碰者麻痹."]
 			dependencies: ["5D527235565D1B33"]
 			id: "513012723D98958C"
-			tasks: [
-				{
-					id: "7814D5A5C074B0D0"
-					type: "item"
-					item: {
-						id: "relics:jellyfish_necklace"
-						Count: 1b
-						tag: {
-							abilities: {
-								paralysis: {
-									stats: {
-										duration: 1.29328d
-									}
-									points: 0
+			tasks: [{
+				id: "7814D5A5C074B0D0"
+				type: "item"
+				item: {
+					id: "relics:jellyfish_necklace"
+					Count: 1b
+					tag: {
+						abilities: {
+							paralysis: {
+								stats: {
+									duration: 1.29328d
 								}
-								shock: {
-									stats: {
-										damage: 0.71545d
-									}
-									temp: {
-										ticking: 1b
-									}
-									points: 0
+								points: 0
+							}
+							shock: {
+								stats: {
+									damage: 0.71545d
 								}
+								temp: {
+									ticking: 1b
+								}
+								points: 0
 							}
 						}
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: -13.0d
@@ -510,31 +460,29 @@
 			description: ["可站立于岩浆块而不受伤害的靴子.&a耐久度&f可在研究台提升."]
 			dependencies: ["5D527235565D1B33"]
 			id: "113379AC12F5072F"
-			tasks: [
-				{
-					id: "231E1D2E90D132DA"
-					type: "item"
-					item: {
-						id: "relics:magma_walker"
-						Count: 1b
-						tag: {
-							leveling: {
-								level: 1
-								experience: 141
-								points: 1
-							}
-							abilities: {
-								pace: {
-									stats: {
-										time: 37.87782d
-									}
-									points: 0
+			tasks: [{
+				id: "231E1D2E90D132DA"
+				type: "item"
+				item: {
+					id: "relics:magma_walker"
+					Count: 1b
+					tag: {
+						leveling: {
+							level: 1
+							experience: 141
+							points: 1
+						}
+						abilities: {
+							pace: {
+								stats: {
+									time: 37.87782d
 								}
+								points: 0
 							}
 						}
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: -11.0d
@@ -543,31 +491,29 @@
 			description: ["允许穿戴者在水面行走的鞋子,持续时间可于研究台升级."]
 			dependencies: ["5D527235565D1B33"]
 			id: "10780FED7D03E707"
-			tasks: [
-				{
-					id: "563C6B4E909BD5C4"
-					type: "item"
-					item: {
-						id: "relics:aqua_walker"
-						Count: 1b
-						tag: {
-							leveling: {
-								level: 1
-								experience: 73
-								points: 1
-							}
-							abilities: {
-								walking: {
-									stats: {
-										time: 56.65989d
-									}
-									points: 0
+			tasks: [{
+				id: "563C6B4E909BD5C4"
+				type: "item"
+				item: {
+					id: "relics:aqua_walker"
+					Count: 1b
+					tag: {
+						leveling: {
+							level: 1
+							experience: 73
+							points: 1
+						}
+						abilities: {
+							walking: {
+								stats: {
+									time: 56.65989d
 								}
+								points: 0
 							}
 						}
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: -14.0d
@@ -576,32 +522,30 @@
 			description: ["提供额外\"护符\"槽位的圣物,数量可在研究台升级."]
 			dependencies: ["5D527235565D1B33"]
 			id: "77761FE2DADF8594"
-			tasks: [
-				{
-					id: "363BEAC14C3A712E"
-					type: "item"
-					item: {
-						id: "relics:leather_belt"
-						Count: 1b
-						tag: {
-							abilities: {
-								slots: {
-									stats: {
-										talisman: 1.96302d
-									}
-									points: 0
+			tasks: [{
+				id: "363BEAC14C3A712E"
+				type: "item"
+				item: {
+					id: "relics:leather_belt"
+					Count: 1b
+					tag: {
+						abilities: {
+							slots: {
+								stats: {
+									talisman: 1.96302d
 								}
-							}
-							leveling: {
-								level: 1
-								experience: 151
-								points: 1
+								points: 0
 							}
 						}
+						leveling: {
+							level: 1
+							experience: 151
+							points: 1
+						}
 					}
-					match_nbt: false
 				}
-			]
+				match_nbt: false
+			}]
 		}
 		{
 			x: -14.0d
@@ -613,50 +557,48 @@
 			]
 			dependencies: ["5D527235565D1B33"]
 			id: "50933FEA670910E9"
-			tasks: [
-				{
-					id: "312D95A5C3F0DD81"
-					type: "item"
-					item: {
-						id: "relics:drowned_belt"
-						Count: 1b
-						tag: {
-							leveling: {
-								level: 1
-								experience: 77
-								points: 1
+			tasks: [{
+				id: "312D95A5C3F0DD81"
+				type: "item"
+				item: {
+					id: "relics:drowned_belt"
+					Count: 1b
+					tag: {
+						leveling: {
+							level: 1
+							experience: 77
+							points: 1
+						}
+						abilities: {
+							riptide: {
+								stats: {
+									cooldown: 8.30263d
+								}
+								points: 0
 							}
-							abilities: {
-								riptide: {
-									stats: {
-										cooldown: 8.30263d
-									}
-									points: 0
+							anchor: {
+								stats: {
+									sinking: 3.64484d
+									slowness: 0.2774d
 								}
-								anchor: {
-									stats: {
-										sinking: 3.64484d
-										slowness: 0.2774d
-									}
-									points: 0
+								points: 0
+							}
+							pressure: {
+								stats: {
+									damage: 1.91059d
 								}
-								pressure: {
-									stats: {
-										damage: 1.91059d
-									}
-									points: 0
+								points: 0
+							}
+							slots: {
+								stats: {
+									talisman: 1.15071d
 								}
-								slots: {
-									stats: {
-										talisman: 1.15071d
-									}
-									points: 0
-								}
+								points: 0
 							}
 						}
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: -14.0d
@@ -668,42 +610,40 @@
 			]
 			dependencies: ["5D527235565D1B33"]
 			id: "5FB31E7F1BC40391"
-			tasks: [
-				{
-					id: "0A589DB2EF2F3C73"
-					type: "item"
-					item: {
-						id: "relics:midnight_robe"
-						Count: 1b
-						tag: {
-							leveling: {
-								level: 1
-								experience: 87
-								points: 1
+			tasks: [{
+				id: "0A589DB2EF2F3C73"
+				type: "item"
+				item: {
+					id: "relics:midnight_robe"
+					Count: 1b
+					tag: {
+						leveling: {
+							level: 1
+							experience: 87
+							points: 1
+						}
+						abilities: {
+							vanish: {
+								stats: {
+									speed: 0.1725d
+									light: 1.71795d
+								}
+								temp: {
+									ticking: 1b
+								}
+								points: 0
 							}
-							abilities: {
-								vanish: {
-									stats: {
-										speed: 0.1725d
-										light: 1.71795d
-									}
-									temp: {
-										ticking: 1b
-									}
-									points: 0
+							backstab: {
+								stats: {
+									distance: 19.76524d
+									damage: 1.39309d
 								}
-								backstab: {
-									stats: {
-										distance: 19.76524d
-										damage: 1.39309d
-									}
-									points: 0
-								}
+								points: 0
 							}
 						}
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: -13.0d
@@ -715,26 +655,24 @@
 			]
 			dependencies: ["5D527235565D1B33"]
 			id: "4F46F57C040D4F2B"
-			tasks: [
-				{
-					id: "43DB5519AF3C823F"
-					type: "item"
-					item: {
-						id: "relics:bastion_ring"
-						Count: 1b
-						tag: {
-							abilities: {
-								trade: {
-									stats: {
-										rolls: 0.87998d
-									}
-									points: 0
+			tasks: [{
+				id: "43DB5519AF3C823F"
+				type: "item"
+				item: {
+					id: "relics:bastion_ring"
+					Count: 1b
+					tag: {
+						abilities: {
+							trade: {
+								stats: {
+									rolls: 0.87998d
 								}
+								points: 0
 							}
 						}
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: -10.0d
@@ -743,27 +681,25 @@
 			description: ["使用后可将你传送至重生点(限定半径内).&a作用范围&f可通过研究台大幅提升."]
 			dependencies: ["5D527235565D1B33"]
 			id: "76CD326726263550"
-			tasks: [
-				{
-					id: "5ADBEA007D366CED"
-					type: "item"
-					item: {
-						id: "relics:magic_mirror"
-						Count: 1b
-						tag: {
-							abilities: {
-								teleport: {
-									stats: {
-										distance: 577.62215d
-										cooldown: 118.45239d
-									}
-									points: 0
+			tasks: [{
+				id: "5ADBEA007D366CED"
+				type: "item"
+				item: {
+					id: "relics:magic_mirror"
+					Count: 1b
+					tag: {
+						abilities: {
+							teleport: {
+								stats: {
+									distance: 577.62215d
+									cooldown: 118.45239d
 								}
+								points: 0
 							}
 						}
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: -11.0d
@@ -775,37 +711,35 @@
 			]
 			dependencies: ["5D527235565D1B33"]
 			id: "529666144575962F"
-			tasks: [
-				{
-					id: "405997E131D8AF5C"
-					type: "item"
-					item: {
-						id: "relics:shadow_glaive"
-						Count: 1b
-						tag: {
-							charges: 8
-							abilities: {
-								glaive: {
-									stats: {
-										bounces: 4.43085d
-										recharge: 15.9641d
-										damage: 3.6451d
-										radius: 3.01598d
-									}
-									points: 0
+			tasks: [{
+				id: "405997E131D8AF5C"
+				type: "item"
+				item: {
+					id: "relics:shadow_glaive"
+					Count: 1b
+					tag: {
+						charges: 8
+						abilities: {
+							glaive: {
+								stats: {
+									bounces: 4.43085d
+									recharge: 15.9641d
+									damage: 3.6451d
+									radius: 3.01598d
 								}
-								saw: {
-									stats: {
-										damage: 1.23964d
-										speed: 15.46919d
-									}
-									points: 0
+								points: 0
+							}
+							saw: {
+								stats: {
+									damage: 1.23964d
+									speed: 15.46919d
 								}
+								points: 0
 							}
 						}
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: -12.0d
@@ -818,48 +752,46 @@
 			]
 			dependencies: ["5D527235565D1B33"]
 			id: "467585B6718695AB"
-			tasks: [
-				{
-					id: "1E7FBF3BF716F1DB"
-					type: "item"
-					item: {
-						id: "relics:arrow_quiver"
-						Count: 1b
-						tag: {
-							abilities: {
-								agility: {
-									stats: {
-										modifier: 1.0d
-									}
-									points: 0
+			tasks: [{
+				id: "1E7FBF3BF716F1DB"
+				type: "item"
+				item: {
+					id: "relics:arrow_quiver"
+					Count: 1b
+					tag: {
+						abilities: {
+							agility: {
+								stats: {
+									modifier: 1.0d
 								}
-								leap: {
-									stats: {
-										duration: 5.01196d
-										cooldown: 14.55756d
-										multiplier: 0.33263d
-									}
-									points: 0
+								points: 0
+							}
+							leap: {
+								stats: {
+									duration: 5.01196d
+									cooldown: 14.55756d
+									multiplier: 0.33263d
 								}
-								rain: {
-									stats: {
-										duration: 14.39589d
-										delay: 0.79051d
-										radius: 4.77613d
-									}
-									points: 0
+								points: 0
+							}
+							rain: {
+								stats: {
+									duration: 14.39589d
+									delay: 0.79051d
+									radius: 4.77613d
 								}
-								receptacle: {
-									stats: {
-										slots: 2.2209d
-									}
-									points: 0
+								points: 0
+							}
+							receptacle: {
+								stats: {
+									slots: 2.2209d
 								}
+								points: 0
 							}
 						}
 					}
 				}
-			]
+			}]
 		}
 		{
 			title: "&a装饰墓石&f"
@@ -868,34 +800,30 @@
 			subtitle: "\"安息吧.\""
 			description: ["会周期性生成灵魂供Corail Tombstone使用,建议多放置几个."]
 			id: "202CE11964ECDCD8"
-			tasks: [
-				{
-					id: "4EC3B16BD0BB88F6"
-					type: "item"
-					title: "任意#tombstone:decorative_graves(装饰性墓碑)"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "tombstone:decorative_graves"
-						}
+			tasks: [{
+				id: "4EC3B16BD0BB88F6"
+				type: "item"
+				title: "任意#tombstone:decorative_graves(装饰性墓碑)"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "tombstone:decorative_graves"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: -3.0d
 			y: -7.0d
 			description: ["可多向安装(包括倒置)的升级版漏斗"]
 			id: "5C157D12120E7C3C"
-			tasks: [
-				{
-					id: "463777435D51338E"
-					type: "item"
-					item: "pneumaticcraft:omnidirectional_hopper"
-					match_nbt: false
-				}
-			]
+			tasks: [{
+				id: "463777435D51338E"
+				type: "item"
+				item: "pneumaticcraft:omnidirectional_hopper"
+				match_nbt: false
+			}]
 		}
 		{
 			icon: "hexerei:sage_burning_plate"
@@ -921,20 +849,18 @@
 					}
 				}
 			]
-			rewards: [
-				{
-					id: "7FBDD93AB88EB7F3"
-					type: "item"
-					item: {
-						id: "hexerei:dried_sage_bundle"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
+			rewards: [{
+				id: "7FBDD93AB88EB7F3"
+				type: "item"
+				item: {
+					id: "hexerei:dried_sage_bundle"
+					Count: 1b
+					tag: {
+						Damage: 0
 					}
-					count: 4
 				}
-			]
+				count: 4
+			}]
 		}
 		{
 			x: 0.0d
@@ -942,47 +868,41 @@
 			subtitle: "自动化作物培育"
 			description: ["利用能源与水实现作物自动化生长.可使用各类骨粉加速生长."]
 			id: "7462D6F28DFD466A"
-			tasks: [
-				{
-					id: "0E720AFF2AD40978"
-					type: "item"
-					item: "immersiveengineering:cloche"
-				}
-			]
+			tasks: [{
+				id: "0E720AFF2AD40978"
+				type: "item"
+				item: "immersiveengineering:cloche"
+			}]
 		}
 		{
 			x: 0.0d
 			y: -2.0d
 			subtitle: "免费重命名物品!"
 			id: "15CDA7D85ACDF3C2"
-			tasks: [
-				{
-					id: "12FC17ACE199F816"
-					type: "item"
-					item: "gag:labeling_tool"
-					match_nbt: false
-				}
-			]
+			tasks: [{
+				id: "12FC17ACE199F816"
+				type: "item"
+				item: "gag:labeling_tool"
+				match_nbt: false
+			}]
 		}
 		{
 			x: 0.0d
 			y: -0.5d
 			subtitle: "无需经验值的便携式路标"
 			id: "0B59864B8A281F6D"
-			tasks: [
-				{
-					id: "732391D330A4F48B"
-					type: "item"
-					item: {
-						id: "waystones:warp_stone"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
+			tasks: [{
+				id: "732391D330A4F48B"
+				type: "item"
+				item: {
+					id: "waystones:warp_stone"
+					Count: 1b
+					tag: {
+						Damage: 0
 					}
-					match_nbt: false
 				}
-			]
+				match_nbt: false
+			}]
 		}
 		{
 			title: "生物运输装置"
@@ -1009,14 +929,12 @@
 			y: -8.5d
 			subtitle: "自动化产奶设备"
 			id: "3CB44B5AF6B20723"
-			tasks: [
-				{
-					id: "652C3725776A1C01"
-					type: "item"
-					item: "cookingforblockheads:cow_jar"
-					match_nbt: false
-				}
-			]
+			tasks: [{
+				id: "652C3725776A1C01"
+				type: "item"
+				item: "cookingforblockheads:cow_jar"
+				match_nbt: false
+			}]
 		}
 		{
 			icon: "forbidden_arcanus:hephaestus_forge"
@@ -1119,27 +1037,23 @@
 					item: "engineersdecor:small_solar_panel"
 				}
 			]
-			rewards: [
-				{
-					id: "703188AF3FC5E4B7"
-					type: "item"
-					item: "engineersdecor:metal_bar"
-					count: 16
-				}
-			]
+			rewards: [{
+				id: "703188AF3FC5E4B7"
+				type: "item"
+				item: "engineersdecor:metal_bar"
+				count: 16
+			}]
 		}
 		{
 			x: -3.0d
 			y: 1.0d
 			subtitle: "通过墓石解除物品附魔"
 			id: "351C3B6F5DA9D737"
-			tasks: [
-				{
-					id: "0041D86811ECD97A"
-					type: "item"
-					item: "tombstone:book_of_disenchantment"
-				}
-			]
+			tasks: [{
+				id: "0041D86811ECD97A"
+				type: "item"
+				item: "tombstone:book_of_disenchantment"
+			}]
 		}
 		{
 			x: -6.5d
@@ -1150,13 +1064,11 @@
 				"查阅&a指南手册&f获取详情."
 			]
 			id: "456335296D9F2CC1"
-			tasks: [
-				{
-					id: "1F7A669AD191B968"
-					type: "item"
-					item: "naturesaura:aura_cache"
-				}
-			]
+			tasks: [{
+				id: "1F7A669AD191B968"
+				type: "item"
+				item: "naturesaura:aura_cache"
+			}]
 		}
 		{
 			x: 1.5d
@@ -1164,13 +1076,11 @@
 			subtitle: "通过单个方块操作附近容器"
 			description: ["需消耗少量RF能源"]
 			id: "1745812407078318"
-			tasks: [
-				{
-					id: "4B7BDF83FF7A8534"
-					type: "item"
-					item: "rftoolsstorage:storage_scanner"
-				}
-			]
+			tasks: [{
+				id: "4B7BDF83FF7A8534"
+				type: "item"
+				item: "rftoolsstorage:storage_scanner"
+			}]
 		}
 		{
 			x: 1.5d

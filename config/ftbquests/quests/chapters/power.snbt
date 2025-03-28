@@ -17,14 +17,12 @@
 				"7C99CC5D7B7BDDBD"
 			]
 			id: "684C0738E103969E"
-			tasks: [
-				{
-					id: "4E6B8936C585B721"
-					type: "forge_energy"
-					value: 4800000L
-					max_input: 4000L
-				}
-			]
+			tasks: [{
+				id: "4E6B8936C585B721"
+				type: "forge_energy"
+				value: 4800000L
+				max_input: 4000L
+			}]
 		}
 		{
 			title: "&a柴油发电机&f"
@@ -50,13 +48,11 @@
 			x: 0.0d
 			y: -6.0d
 			id: "560CC6875A8704A8"
-			tasks: [
-				{
-					id: "1D95F52DFEE6DBC3"
-					type: "item"
-					item: "createaddition:alternator"
-				}
-			]
+			tasks: [{
+				id: "1D95F52DFEE6DBC3"
+				type: "item"
+				item: "createaddition:alternator"
+			}]
 		}
 		{
 			x: 1.0d
@@ -127,21 +123,17 @@
 				"245E8F4F1007E57B"
 			]
 			id: "5052F64E077166CB"
-			tasks: [
-				{
-					id: "7CE9A0F66C9E8F04"
-					type: "forge_energy"
-					value: 600000L
-					max_input: 500L
-				}
-			]
-			rewards: [
-				{
-					id: "770112E9606FE8CB"
-					type: "item"
-					item: "powah:energy_cell_blazing"
-				}
-			]
+			tasks: [{
+				id: "7CE9A0F66C9E8F04"
+				type: "forge_energy"
+				value: 600000L
+				max_input: 500L
+			}]
+			rewards: [{
+				id: "770112E9606FE8CB"
+				type: "item"
+				item: "powah:energy_cell_blazing"
+			}]
 		}
 		{
 			x: 2.0d
@@ -193,13 +185,11 @@
 			x: -1.0d
 			y: -4.0d
 			id: "245E8F4F1007E57B"
-			tasks: [
-				{
-					id: "6D9E735DDE25AF5B"
-					type: "item"
-					item: "ftbquests:screen_1"
-				}
-			]
+			tasks: [{
+				id: "6D9E735DDE25AF5B"
+				type: "item"
+				item: "ftbquests:screen_1"
+			}]
 		}
 		{
 			x: 2.0d

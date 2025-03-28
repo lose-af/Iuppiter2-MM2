@@ -14,13 +14,11 @@
 			subtitle: "感谢JeanRdS制作的任务书页面!"
 			description: ["法术书是一种强大的工具,几乎无需代价就能实现诸多效果.要创建法术,可按下开书键(默认:C)选择法术形态和法术效果.亦可进行染色."]
 			id: "01AB47D4DCA342A5"
-			tasks: [
-				{
-					id: "275548495BE9B9DE"
-					type: "item"
-					item: "ars_nouveau:novice_spell_book"
-				}
-			]
+			tasks: [{
+				id: "275548495BE9B9DE"
+				type: "item"
+				item: "ars_nouveau:novice_spell_book"
+			}]
 		}
 		{
 			title: "学习新法术"
@@ -32,20 +30,16 @@
 			]
 			dependencies: ["01AB47D4DCA342A5"]
 			id: "536EC77D17B512A1"
-			tasks: [
-				{
-					id: "4012013888C6A1BE"
-					type: "item"
-					item: "ars_nouveau:scribes_table"
-				}
-			]
-			rewards: [
-				{
-					id: "47ED42869CE112C8"
-					type: "item"
-					item: "ars_nouveau:glyph_light"
-				}
-			]
+			tasks: [{
+				id: "4012013888C6A1BE"
+				type: "item"
+				item: "ars_nouveau:scribes_table"
+			}]
+			rewards: [{
+				id: "47ED42869CE112C8"
+				type: "item"
+				item: "ars_nouveau:glyph_light"
+			}]
 		}
 		{
 			x: -29.0d
@@ -58,20 +52,16 @@
 				"01AB47D4DCA342A5"
 			]
 			id: "494A0493478153D9"
-			tasks: [
-				{
-					id: "200DAE246831CEFB"
-					type: "item"
-					item: "ars_nouveau:agronomic_sourcelink"
-				}
-			]
-			rewards: [
-				{
-					id: "1D3C3DBB838A4FD0"
-					type: "item"
-					item: "tombstone:bag_of_seeds"
-				}
-			]
+			tasks: [{
+				id: "200DAE246831CEFB"
+				type: "item"
+				item: "ars_nouveau:agronomic_sourcelink"
+			}]
+			rewards: [{
+				id: "1D3C3DBB838A4FD0"
+				type: "item"
+				item: "tombstone:bag_of_seeds"
+			}]
 		}
 		{
 			x: -33.0d
@@ -80,21 +70,17 @@
 			dependencies: ["01AB47D4DCA342A5"]
 			progression_mode: "flexible"
 			id: "6511A3EE5F483172"
-			tasks: [
-				{
-					id: "6C6C2C3F988AFE72"
-					type: "item"
-					item: "ars_nouveau:imbuement_chamber"
-				}
-			]
-			rewards: [
-				{
-					id: "66216259465F97E0"
-					type: "item"
-					item: "ars_nouveau:source_berry"
-					count: 2
-				}
-			]
+			tasks: [{
+				id: "6C6C2C3F988AFE72"
+				type: "item"
+				item: "ars_nouveau:imbuement_chamber"
+			}]
+			rewards: [{
+				id: "66216259465F97E0"
+				type: "item"
+				item: "ars_nouveau:source_berry"
+				count: 2
+			}]
 		}
 		{
 			x: -31.0d
@@ -107,21 +93,17 @@
 			]
 			size: 1.25d
 			id: "30CD0A7C0B37EAD4"
-			tasks: [
-				{
-					id: "38E84DF404AAACFF"
-					type: "item"
-					item: "ars_nouveau:source_gem"
-				}
-			]
-			rewards: [
-				{
-					id: "7F9EA4D9E40AA8EB"
-					type: "item"
-					item: "ars_nouveau:source_gem"
-					count: 16
-				}
-			]
+			tasks: [{
+				id: "38E84DF404AAACFF"
+				type: "item"
+				item: "ars_nouveau:source_gem"
+			}]
+			rewards: [{
+				id: "7F9EA4D9E40AA8EB"
+				type: "item"
+				item: "ars_nouveau:source_gem"
+				count: 16
+			}]
 		}
 		{
 			x: -29.0d
@@ -130,20 +112,16 @@
 			description: ["通过消耗可燃物品生成源力(基座亦可).使下方石块转变为岩浆块,岩浆块转化为熔岩,并生成熔岩荷花.使用&a烈焰至高木原木&f可产生额外源力."]
 			dependencies: ["30CD0A7C0B37EAD4"]
 			id: "7131EE1B0147377C"
-			tasks: [
-				{
-					id: "4E63410CB8110D41"
-					type: "item"
-					item: "ars_nouveau:volcanic_sourcelink"
-				}
-			]
-			rewards: [
-				{
-					id: "3FD4C3903D2AD7F7"
-					type: "item"
-					item: "ars_nouveau:red_archwood_sapling"
-				}
-			]
+			tasks: [{
+				id: "4E63410CB8110D41"
+				type: "item"
+				item: "ars_nouveau:volcanic_sourcelink"
+			}]
+			rewards: [{
+				id: "3FD4C3903D2AD7F7"
+				type: "item"
+				item: "ars_nouveau:red_archwood_sapling"
+			}]
 		}
 		{
 			x: -29.0d
@@ -152,21 +130,17 @@
 			description: ["通过动物繁殖、死亡生成源力,并加速动物成长."]
 			dependencies: ["30CD0A7C0B37EAD4"]
 			id: "304204395C17131A"
-			tasks: [
-				{
-					id: "4EE733B967608919"
-					type: "item"
-					item: "ars_nouveau:vitalic_sourcelink"
-				}
-			]
-			rewards: [
-				{
-					id: "1DA85A4FECA65834"
-					type: "item"
-					item: "minecraft:beetroot"
-					count: 2
-				}
-			]
+			tasks: [{
+				id: "4EE733B967608919"
+				type: "item"
+				item: "ars_nouveau:vitalic_sourcelink"
+			}]
+			rewards: [{
+				id: "1DA85A4FECA65834"
+				type: "item"
+				item: "minecraft:beetroot"
+				count: 2
+			}]
 		}
 		{
 			x: -29.0d
@@ -175,20 +149,16 @@
 			description: ["根据丢弃食物的营养价值生成源力(基座可用).源浆果食物提供加成.使下方泥土/草方块转化为菌丝体,并在适当时生成蘑菇."]
 			dependencies: ["30CD0A7C0B37EAD4"]
 			id: "5604AD3AE0C4EC33"
-			tasks: [
-				{
-					id: "15D7638ACE7FBEC0"
-					type: "item"
-					item: "ars_nouveau:mycelial_sourcelink"
-				}
-			]
-			rewards: [
-				{
-					id: "360E0F218C72AD2C"
-					type: "item"
-					item: "ars_nouveau:source_berry"
-				}
-			]
+			tasks: [{
+				id: "15D7638ACE7FBEC0"
+				type: "item"
+				item: "ars_nouveau:mycelial_sourcelink"
+			}]
+			rewards: [{
+				id: "360E0F218C72AD2C"
+				type: "item"
+				item: "ars_nouveau:source_berry"
+			}]
 		}
 		{
 			x: -29.0d
@@ -197,20 +167,16 @@
 			description: ["利用&a药水罐&f中的药水生成源力.生成量基于药水的复杂程度."]
 			dependencies: ["30CD0A7C0B37EAD4"]
 			id: "65A768A7A9946BA2"
-			tasks: [
-				{
-					id: "1106CE88E79680A1"
-					type: "item"
-					item: "ars_nouveau:alchemical_sourcelink"
-				}
-			]
-			rewards: [
-				{
-					id: "30B78F37D212F3A2"
-					type: "item"
-					item: "ars_nouveau:potion_jar"
-				}
-			]
+			tasks: [{
+				id: "1106CE88E79680A1"
+				type: "item"
+				item: "ars_nouveau:alchemical_sourcelink"
+			}]
+			rewards: [{
+				id: "30B78F37D212F3A2"
+				type: "item"
+				item: "ars_nouveau:potion_jar"
+			}]
 		}
 		{
 			x: -27.0d
@@ -237,13 +203,11 @@
 					count: 8L
 				}
 			]
-			rewards: [
-				{
-					id: "7EB367A36EE39042"
-					type: "item"
-					item: "ars_nouveau:source_jar"
-				}
-			]
+			rewards: [{
+				id: "7EB367A36EE39042"
+				type: "item"
+				item: "ars_nouveau:source_jar"
+			}]
 		}
 		{
 			title: "学徒套装"
@@ -316,27 +280,23 @@
 					item: "ars_nouveau:magebloom_fiber"
 				}
 			]
-			rewards: [
-				{
-					id: "1B01292DFB691B3B"
-					type: "item"
-					item: "ars_nouveau:magebloom_crop"
-					count: 4
-				}
-			]
+			rewards: [{
+				id: "1B01292DFB691B3B"
+				type: "item"
+				item: "ars_nouveau:magebloom_crop"
+				count: 4
+			}]
 		}
 		{
 			x: -33.5d
 			y: -1.5d
 			dependencies: ["01AB47D4DCA342A5"]
 			id: "76DD03068936D94B"
-			tasks: [
-				{
-					id: "503A9F58CDF04FD4"
-					type: "item"
-					item: "ars_nouveau:apprentice_spell_book"
-				}
-			]
+			tasks: [{
+				id: "503A9F58CDF04FD4"
+				type: "item"
+				item: "ars_nouveau:apprentice_spell_book"
+			}]
 		}
 		{
 			x: -32.0d
@@ -348,13 +308,11 @@
 			]
 			size: 1.5d
 			id: "140DD38CABFA1C2E"
-			tasks: [
-				{
-					id: "06E339A391FAB20F"
-					type: "item"
-					item: "ars_nouveau:archmage_spell_book"
-				}
-			]
+			tasks: [{
+				id: "06E339A391FAB20F"
+				type: "item"
+				item: "ars_nouveau:archmage_spell_book"
+			}]
 		}
 		{
 			title: "法师套装"
@@ -469,17 +427,15 @@
 			y: 1.0d
 			dependencies: ["370F4C2E671451DB"]
 			id: "27716E90D4AA1997"
-			tasks: [
-				{
-					id: "55FBB6E7013131F0"
-					type: "item"
-					item: {
-						id: "ars_nouveau:warp_scroll"
-						Count: 1b
-						tag: { }
-					}
+			tasks: [{
+				id: "55FBB6E7013131F0"
+				type: "item"
+				item: {
+					id: "ars_nouveau:warp_scroll"
+					Count: 1b
+					tag: { }
 				}
-			]
+			}]
 		}
 		{
 			title: "&a跃迁传送门&f"
@@ -489,13 +445,11 @@
 			description: ["对于不愿探索世界或制作路标石的人来说,传送门堪称救星.只需若干奥术石、绑定跃迁卷轴和源力.仅在&a主世界&f生效."]
 			dependencies: ["27716E90D4AA1997"]
 			id: "1B0E98499256D198"
-			tasks: [
-				{
-					id: "78491E10957AEA53"
-					type: "item"
-					item: "ars_nouveau:arcane_stone"
-				}
-			]
+			tasks: [{
+				id: "78491E10957AEA53"
+				type: "item"
+				item: "ars_nouveau:arcane_stone"
+			}]
 		}
 		{
 			title: "奥术木材"
@@ -503,20 +457,18 @@
 			y: 0.0d
 			dependencies: ["01AB47D4DCA342A5"]
 			id: "0A3F975D804A8C30"
-			tasks: [
-				{
-					id: "05BBE9F10D4FDC44"
-					type: "item"
-					title: "任意 #forge:logs/archwood 秘术木原木"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "forge:logs/archwood"
-						}
+			tasks: [{
+				id: "05BBE9F10D4FDC44"
+				type: "item"
+				title: "任意 #forge:logs/archwood 秘术木原木"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:logs/archwood"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: -31.0d
@@ -525,20 +477,16 @@
 			description: ["&a用于&f将&a紫晶母岩&f转化为&a紫晶傀儡&f.这些助手可使&a紫水晶块&f萌芽,加速紫晶簇生长并自动采集.无需消耗源力."]
 			dependencies: ["247130E259A9A500"]
 			id: "48069E5DE90B157C"
-			tasks: [
-				{
-					id: "04AF85A790729B8D"
-					type: "item"
-					item: "ars_nouveau:ritual_awakening"
-				}
-			]
-			rewards: [
-				{
-					id: "0DC207FEDBD5AA3F"
-					type: "item"
-					item: "minecraft:budding_amethyst"
-				}
-			]
+			tasks: [{
+				id: "04AF85A790729B8D"
+				type: "item"
+				item: "ars_nouveau:ritual_awakening"
+			}]
+			rewards: [{
+				id: "0DC207FEDBD5AA3F"
+				type: "item"
+				item: "minecraft:budding_amethyst"
+			}]
 		}
 		{
 			x: -33.5d
@@ -547,13 +495,11 @@
 			description: ["前中期即可获得的创造模式飞行能力.消耗源力为区域内生物赋予飞行效果."]
 			dependencies: ["247130E259A9A500"]
 			id: "22CE386A0520A00F"
-			tasks: [
-				{
-					id: "0B14C5B7187277F4"
-					type: "item"
-					item: "ars_nouveau:ritual_flight"
-				}
-			]
+			tasks: [{
+				id: "0B14C5B7187277F4"
+				type: "item"
+				item: "ars_nouveau:ritual_flight"
+			}]
 		}
 		{
 			x: -32.0d
@@ -561,13 +507,11 @@
 			dependencies: ["30CD0A7C0B37EAD4"]
 			size: 1.2d
 			id: "247130E259A9A500"
-			tasks: [
-				{
-					id: "112DCFAB98CD3C38"
-					type: "item"
-					item: "ars_nouveau:ritual_brazier"
-				}
-			]
+			tasks: [{
+				id: "112DCFAB98CD3C38"
+				type: "item"
+				item: "ars_nouveau:ritual_brazier"
+			}]
 		}
 		{
 			x: -32.0d
@@ -581,13 +525,11 @@
 			]
 			hide: true
 			id: "1CB6E3D95AE100D6"
-			tasks: [
-				{
-					id: "2B3A53FAA07F9A8C"
-					type: "item"
-					item: "ars_nouveau:ritual_wilden_summon"
-				}
-			]
+			tasks: [{
+				id: "2B3A53FAA07F9A8C"
+				type: "item"
+				item: "ars_nouveau:ritual_wilden_summon"
+			}]
 		}
 		{
 			x: -32.0d
@@ -596,13 +538,11 @@
 			description: ["&a用于&f将特定实体转化为提供增益效果的使魔."]
 			dependencies: ["247130E259A9A500"]
 			id: "062B948772A88D8B"
-			tasks: [
-				{
-					id: "4727553AD4E24ECD"
-					type: "item"
-					item: "ars_nouveau:ritual_binding"
-				}
-			]
+			tasks: [{
+				id: "4727553AD4E24ECD"
+				type: "item"
+				item: "ars_nouveau:ritual_binding"
+			}]
 		}
 		{
 			x: -33.0d
@@ -611,13 +551,11 @@
 			description: ["消耗源力对周边植物进行骨粉催熟.若用骨块强化,可加速幼体成长."]
 			dependencies: ["247130E259A9A500"]
 			id: "5CC10F87EF48C2AA"
-			tasks: [
-				{
-					id: "16268E562CFFA08C"
-					type: "item"
-					item: "ars_nouveau:ritual_overgrowth"
-				}
-			]
+			tasks: [{
+				id: "16268E562CFFA08C"
+				type: "item"
+				item: "ars_nouveau:ritual_overgrowth"
+			}]
 		}
 		{
 			title: "源力食物"
@@ -629,20 +567,18 @@
 			dependencies: ["304204395C17131A"]
 			hide: true
 			id: "4799D00A8E18E8D3"
-			tasks: [
-				{
-					id: "641E324555696B6D"
-					type: "item"
-					title: "任意 #ars_nouveau:magic_food 魔法食物"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "ars_nouveau:magic_food"
-						}
+			tasks: [{
+				id: "641E324555696B6D"
+				type: "item"
+				title: "任意 #ars_nouveau:magic_food 魔法食物"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "ars_nouveau:magic_food"
 					}
 				}
-			]
+			}]
 		}
 		{
 			title: "薇克精炼药锅"
@@ -677,13 +613,11 @@
 			dependencies: ["062B948772A88D8B"]
 			size: 0.8d
 			id: "3BA962EFAF8C1DE9"
-			tasks: [
-				{
-					id: "53063FC0DEAA639B"
-					type: "item"
-					item: "ars_nouveau:familiar_starbuncle"
-				}
-			]
+			tasks: [{
+				id: "53063FC0DEAA639B"
+				type: "item"
+				item: "ars_nouveau:familiar_starbuncle"
+			}]
 		}
 		{
 			x: -32.8d
@@ -692,13 +626,11 @@
 			dependencies: ["062B948772A88D8B"]
 			size: 0.8d
 			id: "43787880A6BFB5F2"
-			tasks: [
-				{
-					id: "0ED49591D24905DF"
-					type: "item"
-					item: "ars_nouveau:familiar_drygmy"
-				}
-			]
+			tasks: [{
+				id: "0ED49591D24905DF"
+				type: "item"
+				item: "ars_nouveau:familiar_drygmy"
+			}]
 		}
 		{
 			x: -31.2d
@@ -707,13 +639,11 @@
 			dependencies: ["062B948772A88D8B"]
 			size: 0.8d
 			id: "1042FC617A98CD17"
-			tasks: [
-				{
-					id: "103117043C247F85"
-					type: "item"
-					item: "ars_nouveau:familiar_whirlisprig"
-				}
-			]
+			tasks: [{
+				id: "103117043C247F85"
+				type: "item"
+				item: "ars_nouveau:familiar_whirlisprig"
+			}]
 		}
 		{
 			x: -30.5d
@@ -722,13 +652,11 @@
 			dependencies: ["062B948772A88D8B"]
 			size: 0.8d
 			id: "21AAD150CA803418"
-			tasks: [
-				{
-					id: "75743B65340265D2"
-					type: "item"
-					item: "ars_nouveau:familiar_wixie"
-				}
-			]
+			tasks: [{
+				id: "75743B65340265D2"
+				type: "item"
+				item: "ars_nouveau:familiar_wixie"
+			}]
 		}
 		{
 			x: -32.0d
@@ -737,13 +665,11 @@
 			dependencies: ["062B948772A88D8B"]
 			size: 0.8d
 			id: "5FC8066E913E7F70"
-			tasks: [
-				{
-					id: "6F444D6615C63433"
-					type: "item"
-					item: "ars_nouveau:familiar_bookwyrm"
-				}
-			]
+			tasks: [{
+				id: "6F444D6615C63433"
+				type: "item"
+				item: "ars_nouveau:familiar_bookwyrm"
+			}]
 		}
 		{
 			x: -37.0d
@@ -754,13 +680,11 @@
 			hide_dependency_lines: true
 			dependencies: ["370F4C2E671451DB"]
 			id: "165FFF46EFCBB4B7"
-			tasks: [
-				{
-					id: "6C44CC2B42295884"
-					type: "item"
-					item: "ars_nouveau:jar_of_light"
-				}
-			]
+			tasks: [{
+				id: "6C44CC2B42295884"
+				type: "item"
+				item: "ars_nouveau:jar_of_light"
+			}]
 		}
 		{
 			x: -37.0d
@@ -771,13 +695,11 @@
 			hide_dependency_lines: true
 			dependencies: ["370F4C2E671451DB"]
 			id: "1D151E24ACE9165A"
-			tasks: [
-				{
-					id: "704FBC48B72F8A3B"
-					type: "item"
-					item: "ars_nouveau:void_jar"
-				}
-			]
+			tasks: [{
+				id: "704FBC48B72F8A3B"
+				type: "item"
+				item: "ars_nouveau:void_jar"
+			}]
 		}
 		{
 			x: -24.5d
@@ -787,13 +709,11 @@
 			dependencies: ["370F4C2E671451DB"]
 			hide: true
 			id: "3332F8B5BB296A93"
-			tasks: [
-				{
-					id: "199074F3BB27AAF2"
-					type: "item"
-					item: "ars_nouveau:ring_of_lesser_discount"
-				}
-			]
+			tasks: [{
+				id: "199074F3BB27AAF2"
+				type: "item"
+				item: "ars_nouveau:ring_of_lesser_discount"
+			}]
 		}
 		{
 			x: -24.5d
@@ -803,13 +723,11 @@
 			dependencies: ["370F4C2E671451DB"]
 			hide: true
 			id: "00479595D2B0E384"
-			tasks: [
-				{
-					id: "639F512F635E42F0"
-					type: "item"
-					item: "ars_nouveau:ring_of_greater_discount"
-				}
-			]
+			tasks: [{
+				id: "639F512F635E42F0"
+				type: "item"
+				item: "ars_nouveau:ring_of_greater_discount"
+			}]
 		}
 		{
 			x: -27.5d
@@ -819,13 +737,11 @@
 			dependencies: ["370F4C2E671451DB"]
 			hide: true
 			id: "70DF9FA13CC0A6EC"
-			tasks: [
-				{
-					id: "7034AC63140C1EB9"
-					type: "item"
-					item: "ars_nouveau:amulet_of_mana_boost"
-				}
-			]
+			tasks: [{
+				id: "7034AC63140C1EB9"
+				type: "item"
+				item: "ars_nouveau:amulet_of_mana_boost"
+			}]
 		}
 		{
 			x: -27.5d
@@ -835,13 +751,11 @@
 			dependencies: ["370F4C2E671451DB"]
 			hide: true
 			id: "2007A13EA70722A3"
-			tasks: [
-				{
-					id: "31FCAADEE0D5D35D"
-					type: "item"
-					item: "ars_nouveau:amulet_of_mana_regen"
-				}
-			]
+			tasks: [{
+				id: "31FCAADEE0D5D35D"
+				type: "item"
+				item: "ars_nouveau:amulet_of_mana_regen"
+			}]
 		}
 		{
 			x: -24.375d
@@ -850,24 +764,20 @@
 			dependencies: ["370F4C2E671451DB"]
 			size: 1.25d
 			id: "08D84719159B579F"
-			tasks: [
-				{
-					id: "4A3D6B1B19438A60"
-					type: "item"
-					item: "ars_nouveau:dominion_wand"
+			tasks: [{
+				id: "4A3D6B1B19438A60"
+				type: "item"
+				item: "ars_nouveau:dominion_wand"
+			}]
+			rewards: [{
+				id: "6017239984F2A5A8"
+				type: "item"
+				item: {
+					id: "ars_nouveau:spell_parchment"
+					Count: 1b
+					tag: { }
 				}
-			]
-			rewards: [
-				{
-					id: "6017239984F2A5A8"
-					type: "item"
-					item: {
-						id: "ars_nouveau:spell_parchment"
-						Count: 1b
-						tag: { }
-					}
-				}
-			]
+			}]
 		}
 		{
 			x: -22.0d
@@ -876,13 +786,11 @@
 			description: ["法术炮塔实现自动化&a施法&f.通过消耗魔源,&a法术&f炮塔可对区块或实体进行预设法术施放.每次接收红石信号触发施法."]
 			dependencies: ["08D84719159B579F"]
 			id: "3172A17903546C3F"
-			tasks: [
-				{
-					id: "40348C28B9B44277"
-					type: "item"
-					item: "ars_nouveau:basic_spell_turret"
-				}
-			]
+			tasks: [{
+				id: "40348C28B9B44277"
+				type: "item"
+				item: "ars_nouveau:basic_spell_turret"
+			}]
 		}
 		{
 			x: -21.0d
@@ -891,13 +799,11 @@
 			description: ["&a定时法术炮塔&f在魔源充足时持续运作.&a右击&f增加1秒间隔,左击减少1秒.Shift键切换10秒调节.使用&a支配之杖&f锁定配置.红石信号可控制开关但非必需."]
 			dependencies: ["3172A17903546C3F"]
 			id: "6B709EFCCDC05E50"
-			tasks: [
-				{
-					id: "404202E7DAC2FE52"
-					type: "item"
-					item: "ars_nouveau:timer_spell_turret"
-				}
-			]
+			tasks: [{
+				id: "404202E7DAC2FE52"
+				type: "item"
+				item: "ars_nouveau:timer_spell_turret"
+			}]
 		}
 		{
 			x: -21.0d
@@ -906,13 +812,11 @@
 			description: ["&a附魔法术炮塔&f功能与基础型相同,但仅消耗50%魔源,是复杂自动化系统的优选方案."]
 			dependencies: ["3172A17903546C3F"]
 			id: "6992E14678CFEEE2"
-			tasks: [
-				{
-					id: "3A212FD482F7ABA4"
-					type: "item"
-					item: "ars_nouveau:spell_turret"
-				}
-			]
+			tasks: [{
+				id: "3A212FD482F7ABA4"
+				type: "item"
+				item: "ars_nouveau:spell_turret"
+			}]
 		}
 		{
 			x: -24.0d
@@ -925,24 +829,20 @@
 			]
 			dependencies: ["08D84719159B579F"]
 			id: "3477B156A1699C2B"
-			tasks: [
-				{
-					id: "632A0AA653C430BC"
-					type: "item"
-					item: {
-						id: "ars_nouveau:starbuncle_charm"
-						Count: 1b
-						tag: { }
-					}
+			tasks: [{
+				id: "632A0AA653C430BC"
+				type: "item"
+				item: {
+					id: "ars_nouveau:starbuncle_charm"
+					Count: 1b
+					tag: { }
 				}
-			]
-			rewards: [
-				{
-					id: "615D3C3809FC8967"
-					type: "item"
-					item: "ars_nouveau:orange_sbed"
-				}
-			]
+			}]
+			rewards: [{
+				id: "615D3C3809FC8967"
+				type: "item"
+				item: "ars_nouveau:orange_sbed"
+			}]
 		}
 		{
 			x: -24.0d
@@ -955,20 +855,16 @@
 			]
 			dependencies: ["08D84719159B579F"]
 			id: "12D9F5EB29DBAF06"
-			tasks: [
-				{
-					id: "2F5ED25124A45AD2"
-					type: "item"
-					item: "ars_nouveau:drygmy_charm"
-				}
-			]
-			rewards: [
-				{
-					id: "2A2739147F3CA7B1"
-					type: "item"
-					item: "minecraft:mossy_cobblestone"
-				}
-			]
+			tasks: [{
+				id: "2F5ED25124A45AD2"
+				type: "item"
+				item: "ars_nouveau:drygmy_charm"
+			}]
+			rewards: [{
+				id: "2A2739147F3CA7B1"
+				type: "item"
+				item: "minecraft:mossy_cobblestone"
+			}]
 		}
 		{
 			x: -23.0d
@@ -978,21 +874,17 @@
 			description: ["对花朵使用符咒可召唤花灵.根据周边植被(树木/作物)生成自然资源,需魔源和邻近容器.生态多样性决定花灵工作效率."]
 			dependencies: ["08D84719159B579F"]
 			id: "421948570E7E1CAB"
-			tasks: [
-				{
-					id: "31854FF3ECD0B12D"
-					type: "item"
-					item: "ars_nouveau:whirlisprig_charm"
-				}
-			]
-			rewards: [
-				{
-					id: "3F862AA6D0BC5C6F"
-					type: "item"
-					item: "minecraft:bone_meal"
-					count: 5
-				}
-			]
+			tasks: [{
+				id: "31854FF3ECD0B12D"
+				type: "item"
+				item: "ars_nouveau:whirlisprig_charm"
+			}]
+			rewards: [{
+				id: "3F862AA6D0BC5C6F"
+				type: "item"
+				item: "minecraft:bone_meal"
+				count: 5
+			}]
 		}
 		{
 			x: -23.0d
@@ -1002,20 +894,16 @@
 			description: ["可通过在讲台上使用咒语召唤书虫.它们会消耗源质,将携带的&a法术羊皮纸&f对有效目标施法(当前版本仅在羊皮纸上所有符文均可使用时才会施放).施法范围可通过在讲台上使用支配法杖进行设定."]
 			dependencies: ["08D84719159B579F"]
 			id: "609E0203344AE653"
-			tasks: [
-				{
-					id: "33E2CFE69254C1F8"
-					type: "item"
-					item: "ars_nouveau:bookwyrm_charm"
-				}
-			]
-			rewards: [
-				{
-					id: "52FF21EB802E68A7"
-					type: "item"
-					item: "minecraft:lectern"
-				}
-			]
+			tasks: [{
+				id: "33E2CFE69254C1F8"
+				type: "item"
+				item: "ars_nouveau:bookwyrm_charm"
+			}]
+			rewards: [{
+				id: "52FF21EB802E68A7"
+				type: "item"
+				item: "minecraft:lectern"
+			}]
 		}
 		{
 			x: -38.5d
@@ -1025,20 +913,16 @@
 			hide_dependency_lines: true
 			dependencies: ["01AB47D4DCA342A5"]
 			id: "4D0B4C01421D4EB8"
-			tasks: [
-				{
-					id: "767C8E2359B97EBF"
-					type: "item"
-					item: "ars_nouveau:starbuncle_shards"
-				}
-			]
-			rewards: [
-				{
-					id: "0E21849A4193EE41"
-					type: "item"
-					item: "minecraft:gold_nugget"
-				}
-			]
+			tasks: [{
+				id: "767C8E2359B97EBF"
+				type: "item"
+				item: "ars_nouveau:starbuncle_shards"
+			}]
+			rewards: [{
+				id: "0E21849A4193EE41"
+				type: "item"
+				item: "minecraft:gold_nugget"
+			}]
 		}
 		{
 			x: -38.5d
@@ -1048,20 +932,16 @@
 			hide_dependency_lines: true
 			dependencies: ["01AB47D4DCA342A5"]
 			id: "385F92381188F6C9"
-			tasks: [
-				{
-					id: "2B782066092F91D5"
-					type: "item"
-					item: "ars_nouveau:whirlisprig_shards"
-				}
-			]
-			rewards: [
-				{
-					id: "62C01E8A5F1FED22"
-					type: "item"
-					item: "minecraft:oak_sapling"
-				}
-			]
+			tasks: [{
+				id: "2B782066092F91D5"
+				type: "item"
+				item: "ars_nouveau:whirlisprig_shards"
+			}]
+			rewards: [{
+				id: "62C01E8A5F1FED22"
+				type: "item"
+				item: "minecraft:oak_sapling"
+			}]
 		}
 		{
 			x: -38.5d
@@ -1071,20 +951,16 @@
 			hide_dependency_lines: true
 			dependencies: ["01AB47D4DCA342A5"]
 			id: "018ADE49D55B5BE2"
-			tasks: [
-				{
-					id: "111415C8B98DFC6D"
-					type: "item"
-					item: "ars_nouveau:drygmy_shard"
-				}
-			]
-			rewards: [
-				{
-					id: "00D017A389D59EE2"
-					type: "item"
-					item: "ars_nouveau:wilden_horn"
-				}
-			]
+			tasks: [{
+				id: "111415C8B98DFC6D"
+				type: "item"
+				item: "ars_nouveau:drygmy_shard"
+			}]
+			rewards: [{
+				id: "00D017A389D59EE2"
+				type: "item"
+				item: "ars_nouveau:wilden_horn"
+			}]
 		}
 		{
 			x: -38.5d
@@ -1095,20 +971,16 @@
 			dependencies: ["01AB47D4DCA342A5"]
 			hide: false
 			id: "32BA913F43F61B15"
-			tasks: [
-				{
-					id: "058E3345E1315820"
-					type: "item"
-					item: "ars_nouveau:wixie_shards"
-				}
-			]
-			rewards: [
-				{
-					id: "73DD7374849BCF48"
-					type: "item"
-					item: "reliquary:witch_hat"
-				}
-			]
+			tasks: [{
+				id: "058E3345E1315820"
+				type: "item"
+				item: "ars_nouveau:wixie_shards"
+			}]
+			rewards: [{
+				id: "73DD7374849BCF48"
+				type: "item"
+				item: "reliquary:witch_hat"
+			}]
 		}
 		{
 			x: -35.0d
@@ -1116,19 +988,17 @@
 			description: ["赋予&a探测魔法&f增益,可侦测附近紫水晶或寻找魔法生物"]
 			dependencies: ["01AB47D4DCA342A5"]
 			id: "4BB6896211095291"
-			tasks: [
-				{
-					id: "40005C051F2C906C"
-					type: "item"
-					item: {
-						id: "ars_nouveau:dowsing_rod"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
+			tasks: [{
+				id: "40005C051F2C906C"
+				type: "item"
+				item: {
+					id: "ars_nouveau:dowsing_rod"
+					Count: 1b
+					tag: {
+						Damage: 0
 					}
 				}
-			]
+			}]
 		}
 	]
 	quest_links: [ ]

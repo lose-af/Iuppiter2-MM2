@@ -17,13 +17,11 @@
 				"3AA3487F8175A54E"
 			]
 			id: "0EB55E9BCD6E97C3"
-			tasks: [
-				{
-					id: "4DC15F205A40DB58"
-					type: "item"
-					item: "immersiveengineering:heavy_engineering"
-				}
-			]
+			tasks: [{
+				id: "4DC15F205A40DB58"
+				type: "item"
+				item: "immersiveengineering:heavy_engineering"
+			}]
 		}
 		{
 			title: "基础工程方块"
@@ -46,14 +44,12 @@
 					item: "immersiveengineering:rs_engineering"
 				}
 			]
-			rewards: [
-				{
-					id: "169F0E3B74009DAA"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 7840564287515615038L
-				}
-			]
+			rewards: [{
+				id: "169F0E3B74009DAA"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 7840564287515615038L
+			}]
 		}
 		{
 			title: "&a挤压机&f"
@@ -120,14 +116,12 @@
 					type: "checkmark"
 				}
 			]
-			rewards: [
-				{
-					id: "161EA28C4D4CF4B7"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 7840564287515615038L
-				}
-			]
+			rewards: [{
+				id: "161EA28C4D4CF4B7"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 7840564287515615038L
+			}]
 		}
 		{
 			title: "&a金属冲压机&f"
@@ -179,14 +173,12 @@
 					match_nbt: true
 				}
 			]
-			rewards: [
-				{
-					id: "1A46F7443E8AEBEE"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 7840564287515615038L
-				}
-			]
+			rewards: [{
+				id: "1A46F7443E8AEBEE"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 7840564287515615038L
+			}]
 		}
 		{
 			title: "&a电弧炉&f"
@@ -272,14 +264,12 @@
 					type: "checkmark"
 				}
 			]
-			rewards: [
-				{
-					id: "18F5B6CE71684795"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 7840564287515615038L
-				}
-			]
+			rewards: [{
+				id: "18F5B6CE71684795"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 7840564287515615038L
+			}]
 		}
 		{
 			title: "&a精炼厂&f"
@@ -341,14 +331,12 @@
 					type: "checkmark"
 				}
 			]
-			rewards: [
-				{
-					id: "7B1011D384E768BD"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 7840564287515615038L
-				}
-			]
+			rewards: [{
+				id: "7B1011D384E768BD"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 7840564287515615038L
+			}]
 		}
 		{
 			title: "&a磨粉机&f"
@@ -404,13 +392,11 @@
 					type: "checkmark"
 				}
 			]
-			rewards: [
-				{
-					id: "34EC7927C46C4155"
-					type: "random"
-					table_id: 7840564287515615038L
-				}
-			]
+			rewards: [{
+				id: "34EC7927C46C4155"
+				type: "random"
+				table_id: 7840564287515615038L
+			}]
 		}
 		{
 			title: "&a装配机&f"
@@ -472,14 +458,12 @@
 					type: "checkmark"
 				}
 			]
-			rewards: [
-				{
-					id: "76611D4EEE876285"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 7840564287515615038L
-				}
-			]
+			rewards: [{
+				id: "76611D4EEE876285"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 7840564287515615038L
+			}]
 		}
 		{
 			title: "&a柴油发电&f"
@@ -543,14 +527,12 @@
 					type: "checkmark"
 				}
 			]
-			rewards: [
-				{
-					id: "61CCE114DC289821"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 7840564287515615038L
-				}
-			]
+			rewards: [{
+				id: "61CCE114DC289821"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 7840564287515615038L
+			}]
 		}
 		{
 			title: "&a混合刀片&f"
@@ -611,14 +593,12 @@
 					type: "checkmark"
 				}
 			]
-			rewards: [
-				{
-					id: "2A73284D0CFC7607"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 7840564287515615038L
-				}
-			]
+			rewards: [{
+				id: "2A73284D0CFC7607"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 7840564287515615038L
+			}]
 		}
 		{
 			title: "发酵工艺"
@@ -680,14 +660,12 @@
 					type: "checkmark"
 				}
 			]
-			rewards: [
-				{
-					id: "6C0E3FB474FAA95C"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 7840564287515615038L
-				}
-			]
+			rewards: [{
+				id: "6C0E3FB474FAA95C"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 7840564287515615038L
+			}]
 		}
 		{
 			title: "&a灌装机&f"
@@ -748,14 +726,12 @@
 					type: "checkmark"
 				}
 			]
-			rewards: [
-				{
-					id: "646986D9D90F679A"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 7840564287515615038L
-				}
-			]
+			rewards: [{
+				id: "646986D9D90F679A"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 7840564287515615038L
+			}]
 		}
 		{
 			x: 1.5d
@@ -766,13 +742,11 @@
 				"45011E84BFF6E319"
 			]
 			id: "3DB2C9FEEFF74379"
-			tasks: [
-				{
-					id: "559264B1754B6260"
-					type: "item"
-					item: "immersiveengineering:plate_duroplast"
-				}
-			]
+			tasks: [{
+				id: "559264B1754B6260"
+				type: "item"
+				item: "immersiveengineering:plate_duroplast"
+			}]
 		}
 		{
 			x: 1.5d
@@ -781,21 +755,17 @@
 			dependencies: ["3DB2C9FEEFF74379"]
 			size: 1.5d
 			id: "0D9ABDE851B5E722"
-			tasks: [
-				{
-					id: "78880C159C9769C6"
-					type: "item"
-					item: "immersiveengineering:component_electronic_adv"
-				}
-			]
-			rewards: [
-				{
-					id: "76D14D1E66A87587"
-					type: "item"
-					item: "immersiveengineering:component_electronic_adv"
-					count: 4
-				}
-			]
+			tasks: [{
+				id: "78880C159C9769C6"
+				type: "item"
+				item: "immersiveengineering:component_electronic_adv"
+			}]
+			rewards: [{
+				id: "76D14D1E66A87587"
+				type: "item"
+				item: "immersiveengineering:component_electronic_adv"
+				count: 4
+			}]
 		}
 		{
 			title: "进阶工程方块"
@@ -886,14 +856,12 @@
 					type: "checkmark"
 				}
 			]
-			rewards: [
-				{
-					id: "2A0C5B5137E032A1"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 7840564287515615038L
-				}
-			]
+			rewards: [{
+				id: "2A0C5B5137E032A1"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 7840564287515615038L
+			}]
 		}
 		{
 			title: "生物柴油"
@@ -953,13 +921,11 @@
 				"509A0BA1A97F85A8"
 			]
 			id: "7BB9213CBA0A5FCC"
-			tasks: [
-				{
-					id: "6251911943E07068"
-					type: "item"
-					item: "chemlib:titanium_ingot"
-				}
-			]
+			tasks: [{
+				id: "6251911943E07068"
+				type: "item"
+				item: "chemlib:titanium_ingot"
+			}]
 		}
 		{
 			title: "流体自动化合成"
@@ -1022,14 +988,12 @@
 					type: "checkmark"
 				}
 			]
-			rewards: [
-				{
-					id: "72791A4132ED37B6"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 7840564287515615038L
-				}
-			]
+			rewards: [{
+				id: "72791A4132ED37B6"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 7840564287515615038L
+			}]
 		}
 		{
 			title: "探索&a末地&f"
@@ -1039,14 +1003,12 @@
 			description: ["查阅&a矿物处理&f章节预览可获取的矿石种类"]
 			size: 1.5d
 			id: "509A0BA1A97F85A8"
-			tasks: [
-				{
-					id: "7116268B222864B2"
-					type: "dimension"
-					title: "&a结束&f"
-					dimension: "minecraft:the_end"
-				}
-			]
+			tasks: [{
+				id: "7116268B222864B2"
+				type: "dimension"
+				title: "&a结束&f"
+				dimension: "minecraft:the_end"
+			}]
 		}
 		{
 			icon: "mbm2:mixer_mk1"
@@ -1107,21 +1069,17 @@
 			description: ["该设备可从网络存取物品"]
 			dependencies: ["1F932299A59D3965"]
 			id: "0BFAF74E6813F17D"
-			tasks: [
-				{
-					id: "011FE858EDE88A1B"
-					type: "item"
-					item: "ae2:interface"
-				}
-			]
-			rewards: [
-				{
-					id: "708192448272E3B1"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 824098445478849879L
-				}
-			]
+			tasks: [{
+				id: "011FE858EDE88A1B"
+				type: "item"
+				item: "ae2:interface"
+			}]
+			rewards: [{
+				id: "708192448272E3B1"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 824098445478849879L
+			}]
 		}
 		{
 			x: 5.5d
@@ -1129,20 +1087,18 @@
 			hide_dependency_lines: true
 			dependencies: ["1A2C95D86B270D15"]
 			id: "2265D46C0B449F49"
-			tasks: [
-				{
-					id: "3A3AB773495D5AC3"
-					type: "item"
-					item: {
-						id: "immersiveengineering:graphite_electrode"
-						Count: 1b
-						tag: {
-							graphDmg: 0
-						}
+			tasks: [{
+				id: "3A3AB773495D5AC3"
+				type: "item"
+				item: {
+					id: "immersiveengineering:graphite_electrode"
+					Count: 1b
+					tag: {
+						graphDmg: 0
 					}
-					count: 3L
 				}
-			]
+				count: 3L
+			}]
 		}
 		{
 			x: 1.5d
@@ -1153,20 +1109,16 @@
 				"6AE6AC04DFC1A75A"
 			]
 			id: "04FD40DD2CE51B84"
-			tasks: [
-				{
-					id: "77FE5C466581D832"
-					type: "item"
-					item: "kubejs:industrial_alloy_ingot"
-				}
-			]
-			rewards: [
-				{
-					id: "383A9EB2BAA49DF7"
-					type: "item"
-					item: "immersiveengineering:herbicide_bucket"
-				}
-			]
+			tasks: [{
+				id: "77FE5C466581D832"
+				type: "item"
+				item: "kubejs:industrial_alloy_ingot"
+			}]
+			rewards: [{
+				id: "383A9EB2BAA49DF7"
+				type: "item"
+				item: "immersiveengineering:herbicide_bucket"
+			}]
 		}
 		{
 			title: "&a高级合金&f"
@@ -1179,39 +1131,33 @@
 			]
 			min_required_tasks: 1
 			id: "592A4D0BDEB062DB"
-			tasks: [
-				{
-					id: "1460BBB1A47E4503"
-					type: "item"
-					item: "thermal:lumium_dust"
-				}
-			]
+			tasks: [{
+				id: "1460BBB1A47E4503"
+				type: "item"
+				item: "thermal:lumium_dust"
+			}]
 		}
 		{
 			x: 10.0d
 			y: -1.0d
 			dependencies: ["7BB9213CBA0A5FCC"]
 			id: "6881A552DF61AD73"
-			tasks: [
-				{
-					id: "5ECBA239A2EB00C8"
-					type: "item"
-					item: "ae2:drive"
-				}
-			]
+			tasks: [{
+				id: "5ECBA239A2EB00C8"
+				type: "item"
+				item: "ae2:drive"
+			}]
 		}
 		{
 			x: 10.0d
 			y: -2.0d
 			dependencies: ["7BB9213CBA0A5FCC"]
 			id: "6DEB9BB02E28A823"
-			tasks: [
-				{
-					id: "6591CF4E4F97B357"
-					type: "item"
-					item: "ae2:cell_component_1k"
-				}
-			]
+			tasks: [{
+				id: "6591CF4E4F97B357"
+				type: "item"
+				item: "ae2:cell_component_1k"
+			}]
 		}
 		{
 			x: -2.5d
@@ -1219,14 +1165,12 @@
 			description: ["放置于水源方块周围并通过AE供电,水中的水晶种子将加速生长"]
 			dependencies: ["40CD2EB416C68B70"]
 			id: "4F570EDAF76DCC20"
-			tasks: [
-				{
-					id: "6A0B60F6C8CF60D3"
-					type: "item"
-					item: "ae2:quartz_growth_accelerator"
-					count: 4L
-				}
-			]
+			tasks: [{
+				id: "6A0B60F6C8CF60D3"
+				type: "item"
+				item: "ae2:quartz_growth_accelerator"
+				count: 4L
+			}]
 		}
 		{
 			icon: "hostilenetworks:sim_chamber"
@@ -1264,26 +1208,22 @@
 			subtitle: "四千RF/秒"
 			dependencies: ["0D9ABDE851B5E722"]
 			id: "4D8C40C07AF73B14"
-			tasks: [
-				{
-					id: "2D9F1023E205DDAB"
-					type: "item"
-					item: "hostilenetworks:loot_fabricator"
-				}
-			]
+			tasks: [{
+				id: "2D9F1023E205DDAB"
+				type: "item"
+				item: "hostilenetworks:loot_fabricator"
+			}]
 		}
 		{
 			x: 10.0d
 			y: 0.0d
 			dependencies: ["7BB9213CBA0A5FCC"]
 			id: "33A907176391C423"
-			tasks: [
-				{
-					id: "3957BF8D199A31BB"
-					type: "item"
-					item: "ae2:molecular_assembler"
-				}
-			]
+			tasks: [{
+				id: "3957BF8D199A31BB"
+				type: "item"
+				item: "ae2:molecular_assembler"
+			}]
 		}
 		{
 			title: "&a冶炼釜&f(二级合金)"
@@ -1341,13 +1281,11 @@
 					item: "tconstruct:seared_drain"
 				}
 			]
-			rewards: [
-				{
-					id: "4CADBD0D2FE793A3"
-					type: "item"
-					item: "tconstruct:blazing_blood_bucket"
-				}
-			]
+			rewards: [{
+				id: "4CADBD0D2FE793A3"
+				type: "item"
+				item: "tconstruct:blazing_blood_bucket"
+			}]
 		}
 		{
 			x: -4.0d
@@ -1355,13 +1293,11 @@
 			description: ["&a可用于&f配合控制器实现过滤功能"]
 			dependencies: ["44B029D2AFEC131D"]
 			id: "28B61E3051A1F1DD"
-			tasks: [
-				{
-					id: "150B9B6E2804C2A7"
-					type: "item"
-					item: "functionalstorage:fluid_1"
-				}
-			]
+			tasks: [{
+				id: "150B9B6E2804C2A7"
+				type: "item"
+				item: "functionalstorage:fluid_1"
+			}]
 		}
 		{
 			x: -6.5d
@@ -1380,13 +1316,11 @@
 					item: "scannable:blank_module"
 				}
 			]
-			rewards: [
-				{
-					id: "51118C078744459E"
-					type: "item"
-					item: "scannable:blank_module"
-				}
-			]
+			rewards: [{
+				id: "51118C078744459E"
+				type: "item"
+				item: "scannable:blank_module"
+			}]
 		}
 		{
 			x: -5.0d
@@ -1397,21 +1331,17 @@
 			]
 			size: 1.25d
 			id: "4330D1B18E585E4E"
-			tasks: [
-				{
-					id: "65BAEAC0D2E64797"
-					type: "item"
-					item: "ae2:crafting_terminal"
-				}
-			]
-			rewards: [
-				{
-					id: "63F20E012C2FCA96"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 824098445478849879L
-				}
-			]
+			tasks: [{
+				id: "65BAEAC0D2E64797"
+				type: "item"
+				item: "ae2:crafting_terminal"
+			}]
+			rewards: [{
+				id: "63F20E012C2FCA96"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 824098445478849879L
+			}]
 		}
 		{
 			title: "强化型&a爆裂熔炉&f"
@@ -1449,14 +1379,12 @@
 					type: "checkmark"
 				}
 			]
-			rewards: [
-				{
-					id: "4E516849CA8F7DEF"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 2582656620646881183L
-				}
-			]
+			rewards: [{
+				id: "4E516849CA8F7DEF"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 2582656620646881183L
+			}]
 		}
 		{
 			title: "&a红通莲&f金属"
@@ -1466,20 +1394,18 @@
 			shape: "circle"
 			description: [""]
 			id: "17F948FD49F0EB33"
-			tasks: [
-				{
-					id: "6A1342A29C56C67D"
-					type: "item"
-					title: "任意 #forge:ingots/steel 钢锭"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "forge:ingots/steel"
-						}
+			tasks: [{
+				id: "6A1342A29C56C67D"
+				type: "item"
+				title: "任意 #forge:ingots/steel 钢锭"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ingots/steel"
 					}
 				}
-			]
+			}]
 		}
 		{
 			title: "快速多方块建造"
@@ -1536,54 +1462,46 @@
 				"44B029D2AFEC131D"
 			]
 			id: "1F932299A59D3965"
-			tasks: [
-				{
-					id: "0196F2E48C1F2AE3"
-					type: "item"
-					item: {
-						id: "immersiveengineering:blueprint"
-						Count: 1b
-						tag: {
-							blueprint: "components"
-						}
+			tasks: [{
+				id: "0196F2E48C1F2AE3"
+				type: "item"
+				item: {
+					id: "immersiveengineering:blueprint"
+					Count: 1b
+					tag: {
+						blueprint: "components"
 					}
 				}
-			]
+			}]
 		}
 		{
 			x: -7.0d
 			y: -4.0d
 			dependencies: ["367CDBB0205D41FB"]
 			id: "1E47E0235AF25002"
-			tasks: [
-				{
-					id: "41D123875ECB56E7"
-					type: "item"
-					item: "immersiveengineering:blastfurnace_preheater"
-					count: 2L
-				}
-			]
-			rewards: [
-				{
-					id: "529EBD42E8E6CFC1"
-					type: "random"
-					exclude_from_claim_all: true
-					table_id: 7840564287515615038L
-				}
-			]
+			tasks: [{
+				id: "41D123875ECB56E7"
+				type: "item"
+				item: "immersiveengineering:blastfurnace_preheater"
+				count: 2L
+			}]
+			rewards: [{
+				id: "529EBD42E8E6CFC1"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 7840564287515615038L
+			}]
 		}
 		{
 			x: 1.5d
 			y: 5.0d
 			dependencies: ["0D9ABDE851B5E722"]
 			id: "070F35D0E7EF8EAC"
-			tasks: [
-				{
-					id: "794856709109639B"
-					type: "item"
-					item: "thermal:machine_frame"
-				}
-			]
+			tasks: [{
+				id: "794856709109639B"
+				type: "item"
+				item: "thermal:machine_frame"
+			}]
 		}
 		{
 			x: 1.5d
@@ -1591,13 +1509,11 @@
 			description: ["&a感应炉&f可制作三级合金,但无法直接熔炼三级金属"]
 			dependencies: ["070F35D0E7EF8EAC"]
 			id: "52CA3CCD2B27CB98"
-			tasks: [
-				{
-					id: "197FF241B85A951E"
-					type: "item"
-					item: "thermal:machine_smelter"
-				}
-			]
+			tasks: [{
+				id: "197FF241B85A951E"
+				type: "item"
+				item: "thermal:machine_smelter"
+			}]
 		}
 		{
 			title: "绯红祭坛"
@@ -1655,21 +1571,17 @@
 			description: ["通过啃食附近石块上的苔藓,这是补充灵气的一种简单(虽低效)方式."]
 			dependencies: ["4691F3E2268FD78F"]
 			id: "1D7CB78AC32EAFC0"
-			tasks: [
-				{
-					id: "4D2D4F7C4D71D5AC"
-					type: "item"
-					item: "naturesaura:moss_generator"
-				}
-			]
-			rewards: [
-				{
-					id: "290FC635B1E0980E"
-					type: "item"
-					item: "minecraft:mossy_cobblestone"
-					count: 64
-				}
-			]
+			tasks: [{
+				id: "4D2D4F7C4D71D5AC"
+				type: "item"
+				item: "naturesaura:moss_generator"
+			}]
+			rewards: [{
+				id: "290FC635B1E0980E"
+				type: "item"
+				item: "minecraft:mossy_cobblestone"
+				count: 64
+			}]
 		}
 		{
 			x: 3.0d
@@ -1677,26 +1589,22 @@
 			description: ["当附近&a有活力的橡木&f异常生长时,此装置会产生灵气"]
 			dependencies: ["4691F3E2268FD78F"]
 			id: "72094D5B6BA7A1EC"
-			tasks: [
-				{
-					id: "405077118CE5D0F4"
-					type: "item"
-					item: "naturesaura:oak_generator"
-				}
-			]
+			tasks: [{
+				id: "405077118CE5D0F4"
+				type: "item"
+				item: "naturesaura:oak_generator"
+			}]
 		}
 		{
 			x: 1.5d
 			y: -5.5d
 			dependencies: ["31513AA25B621FD8"]
 			id: "4691F3E2268FD78F"
-			tasks: [
-				{
-					id: "22C1A5DB0AFB31EE"
-					type: "item"
-					item: "naturesaura:infused_iron"
-				}
-			]
+			tasks: [{
+				id: "22C1A5DB0AFB31EE"
+				type: "item"
+				item: "naturesaura:infused_iron"
+			}]
 		}
 		{
 			title: "&a森林仪式&f"
@@ -1774,13 +1682,11 @@
 			description: ["显示附近区域的灵气值."]
 			dependencies: ["6AD50F15723B7927"]
 			id: "75639B06251CAA16"
-			tasks: [
-				{
-					id: "6EBBBAF37B549654"
-					type: "item"
-					item: "naturesaura:eye"
-				}
-			]
+			tasks: [{
+				id: "6EBBBAF37B549654"
+				type: "item"
+				item: "naturesaura:eye"
+			}]
 		}
 		{
 			x: -1.5d
@@ -1788,13 +1694,11 @@
 			subtitle: "后续制作活性木材时会需要此物"
 			dependencies: ["6AD50F15723B7927"]
 			id: "45DE61697465BD69"
-			tasks: [
-				{
-					id: "13BB828FF1D197CD"
-					type: "item"
-					item: "naturesaura:ancient_sapling"
-				}
-			]
+			tasks: [{
+				id: "13BB828FF1D197CD"
+				type: "item"
+				item: "naturesaura:ancient_sapling"
+			}]
 		}
 		{
 			title: "二级&d能量!&f"
@@ -1820,13 +1724,11 @@
 			y: -6.5d
 			description: ["可用于提升&a金皮革&f粉末的产出效率"]
 			id: "38B7849EB717422A"
-			tasks: [
-				{
-					id: "0C35C8AD0A05BCC6"
-					type: "item"
-					item: "elementalcraft:air_mill"
-				}
-			]
+			tasks: [{
+				id: "0C35C8AD0A05BCC6"
+				type: "item"
+				item: "elementalcraft:air_mill"
+			}]
 		}
 		{
 			icon: "kubejs:living_metal_seed"
@@ -1909,13 +1811,11 @@
 			description: ["&a适用于&f匠魂燃料"]
 			dependencies: ["627B714B402BEE67"]
 			id: "5380AA7BAC513908"
-			tasks: [
-				{
-					id: "4DB6CEA0FAB83514"
-					type: "item"
-					item: "kubejs:pyrotheum_dust"
-				}
-			]
+			tasks: [{
+				id: "4DB6CEA0FAB83514"
+				type: "item"
+				item: "kubejs:pyrotheum_dust"
+			}]
 		}
 		{
 			x: 7.0d
@@ -1948,13 +1848,11 @@
 			y: -5.5d
 			dependencies: ["4691F3E2268FD78F"]
 			id: "2DBC4A733422AD0B"
-			tasks: [
-				{
-					id: "039C7F01E5658E3F"
-					type: "item"
-					item: "naturesaura:offering_table"
-				}
-			]
+			tasks: [{
+				id: "039C7F01E5658E3F"
+				type: "item"
+				item: "naturesaura:offering_table"
+			}]
 		}
 		{
 			x: -5.5d
@@ -1962,14 +1860,12 @@
 			description: ["站立于其一并&a右键点击&f另一个以传送."]
 			dependencies: ["44B029D2AFEC131D"]
 			id: "3A7FCFC8A6686A6A"
-			tasks: [
-				{
-					id: "3C8530894E331FCD"
-					type: "item"
-					item: "travel_anchors:travel_anchor"
-					count: 2L
-				}
-			]
+			tasks: [{
+				id: "3C8530894E331FCD"
+				type: "item"
+				item: "travel_anchors:travel_anchor"
+				count: 2L
+			}]
 		}
 	]
 	quest_links: [ ]
